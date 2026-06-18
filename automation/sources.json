@@ -1,0 +1,10 @@
+[
+  { "label": "삼성 갤럭시 워치 공식", "url": "https://www.samsung.com/sec/watches/all-watches/", "tags": ["스마트워치", "갤럭시워치", "웨어러블", "운동", "비교", "추천"] },
+  { "label": "Apple Watch 공식", "url": "https://www.apple.com/kr/apple-watch/", "tags": ["스마트워치", "애플워치", "웨어러블", "운동", "비교", "건강"] },
+  { "label": "샤오미 스마트밴드 공식", "url": "https://www.mi.com/kr/", "tags": ["스마트밴드", "미밴드", "샤오미", "웨어러블", "가성비"] },
+  { "label": "구글 플레이 건강·피트니스", "url": "https://play.google.com/store/apps/category/HEALTH_AND_FITNESS", "tags": ["앱", "운동앱", "홈트앱", "기록", "추천"] },
+  { "label": "App Store 건강 및 피트니스", "url": "https://apps.apple.com/kr/genre/ios-health-fitness/id6013", "tags": ["앱", "운동앱", "홈트앱", "기록", "아이폰"] },
+  { "label": "쿠팡 홈트레이닝 용품", "url": "https://www.coupang.com/np/categories/178155", "tags": ["홈트", "덤벨", "케틀벨", "기구", "요가매트", "폼롤러", "철봉", "추천", "가성비", "용품"] },
+  { "label": "쿠팡 헬스·운동기구", "url": "https://www.coupang.com/np/categories/115749", "tags": ["런닝머신", "실내자전거", "스텝퍼", "로잉머신", "기구", "카디오", "추천"] },
+  { "label": "나이키 트레이닝 공식", "url": "https://www.nike.com/kr/training", "tags": ["운동", "장갑", "가방", "용품", "트레이닝", "의류"] }
+]
