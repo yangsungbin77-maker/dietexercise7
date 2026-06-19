@@ -58,8 +58,6 @@ heroImage: '../../assets/pool/banner-01-homegym.png'
 
 여기에 **후기 수와 베스트셀러 여부**까지 보면 더 안전해요. 같은 방식이라도 후기 많고 평점 안정적인 제품이 유격·AS에서 실패가 적어요.
 
-<a class="btn" href="https://www.coupang.com/np/categories/178155" target="_blank" rel="nofollow sponsored noopener">→ 쿠팡에서 조절식 덤벨 후기·가격 확인하기</a>
-
 ## 가성비 있게 사는 법
 
 가격은 **조립식 < 핀/블럭 < 다이얼** 순으로 올라가는 게 보통이에요. 그래서 "편의성을 조금 포기하고 가성비"라면 원판 조립식이, "돈을 좀 더 쓰고 편하게"라면 다이얼이 답이에요.
