@@ -1,0 +1,31 @@
+{
+  "type": "howto",
+  "serp": [
+    { "url": "https://www.cowlr.kr/kcalcal", "opened": true, "note": "채찍단 칼로리 계산기 — Harris-Benedict 기반 재조정, 활동계수 곱, 체중감소 -500kcal, 매크로 5:3:2. 도구형." },
+    { "url": "https://www.calmind.online/ko/haru-calorie/", "opened": true, "note": "BMR(전체 70%)·TDEE 개념 설명, 감량 -500kcal, 극단 저칼로리 경고, 매크로 강조. How-to형." },
+    { "url": "https://sparkful.app/tools/daily-calorie-intake-calculator", "opened": true, "note": "Harris-Benedict 공식 사용, 활동지수 단계, TDEE-200kcal 권장, 계산기. 의사 상담 면책." },
+    { "url": "https://brunch.co.kr/@habitdesign/234", "opened": true, "note": "먹은양-소비량 원리, 총대사량=기초60~70+소화10~15+활동15~25, 유지서 10~20% 감소, 하루 250kcal=4주 1kg, 기록의 어려움·한달 못버팀 인사이트." },
+    { "url": "https://www.fatsecret.kr/Default.aspx?pa=rdic", "opened": true, "note": "일일권장 칼로리 계산기, 입력 5종+활동4단계, RDI·탄단지 출력, 식품다이어리." },
+    { "url": "https://rollingseed.com/칼로리-계산기-어플/", "opened": true, "note": "칼로리 계산기 앱 TOP5 비교표(FatSecret·YAZIO·포미·인아웃·다이어트카메라AI), 무료범위·한국DB·바코드·사진인식." },
+    { "url": "https://dackjongie.co.kr/best-calorie-calculation-apps/", "opened": true, "note": "앱 BEST5(YAZIO·MyFitnessPal 5000만+·FatSecret·다신·다이어트카메라AI), 설치수·기능." },
+    { "url": "https://brunch.co.kr/@kellypoly/105", "opened": true, "note": "인아웃(140만,소셜)·Cal AI(사진AI 90%정확)·YAZIO(독일,13년) 비교, AI 사진인식 차이." },
+    { "url": "https://www.pillyze.com/columns/121", "opened": false, "note": "필라이즈 일일권장칼로리 A to Z — 405 차단, 스니펫으로 미플린 공식·활동지수 확인." },
+    { "url": "http://www.samsunghospital.com/home/healthInfo/content/contenView.do?CONT_SRC_ID=29394", "opened": false, "note": "삼성서울병원 체중감량 칼로리 — http 리다이렉트 루프로 미수신, 권위 출처 참고." }
+  ],
+  "factcheck": [
+    { "claim": "미플린-세인트 지어 공식: 남=(10×kg)+(6.25×cm)-(5×나이)+5, 여=...-161", "sources": ["https://www.cowlr.kr/kcalcal", "WebSearch 다이어트 칼로리 계산법 종합(여러 계산기 일치)"] },
+    { "claim": "활동지수 1.2(좌식)/1.375/1.55/1.725/1.9(매우활발) 5단계", "sources": ["WebSearch 하루권장 칼로리 계산법 종합", "https://sparkful.app/tools/daily-calorie-intake-calculator"] },
+    { "claim": "체지방 1kg ≈ 7,700kcal, 하루 500kcal 적자 → 주 약 0.5kg 감량, 안전속도 주 0.5~1kg", "sources": ["https://brunch.co.kr/@habitdesign/234", "https://www.calmind.online/ko/haru-calorie/"] },
+    { "claim": "BMR은 하루 총소비의 약 60~70% 차지", "sources": ["https://www.calmind.online/ko/haru-calorie/", "https://brunch.co.kr/@habitdesign/234"] },
+    { "claim": "주요 칼로리 계산 앱: MyFitnessPal 설치 5000만+, YAZIO 독일 13년 1000만+, 인아웃 국내 20만+ 음식 DB", "sources": ["https://dackjongie.co.kr/best-calorie-calculation-apps/", "https://rollingseed.com/칼로리-계산기-어플/"] },
+    { "claim": "에너지 적정비율 탄수 50~65%·단백질 10~20%·지방 15~30%(보건복지부 한국인 영양소 섭취기준)", "sources": ["보건복지부 2025 한국인 영양소 섭취기준", "기존 글 diet-macro-ratio 교차"] }
+  ],
+  "variables": {
+    "keyword": "다이어트 식단 칼로리 계산",
+    "headline_finding": "칼로리 계산은 BMR→TDEE→-500kcal 3단계가 전부",
+    "worked_example": "30세 여성 162cm 60kg 가벼운활동 → BMR 1,302 → TDEE 1,790 → 목표 약 1,290kcal(BMR 근접해 적자 300~400 권장)",
+    "app_comparison": "마이피트니스팰·야지오·팻시크릿·인아웃·다이어트카메라AI 5종 강점·한국DB·기능 표",
+    "common_mistakes": "활동지수 과대평가·과도한 적자·BMR 미만·음료누락·1회계산 5대 실수"
+  },
+  "hermes_score": 92
+}

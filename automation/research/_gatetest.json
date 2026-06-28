@@ -1,0 +1,64 @@
+{
+  "slug": "diet-meal-plan-app",
+  "keyword": "다이어트 식단 추천 앱",
+  "type": "review",
+  "date": "2026-06-24",
+  "serp": [
+    { "url": "https://brunch.co.kr/@kellypoly/105", "opened": true, "note": "인아웃·Cal AI·YAZIO 3종 비교 경쟁글" },
+    { "url": "https://www.jwantplan.com/ko/application/meal-planner", "opened": true, "note": "식단 착착 올인원 플래너 랜딩" },
+    { "url": "https://nutrola.app/ko/blog/can-you-recommend-a-calorie-tracking-app", "opened": true, "note": "Nutrola·Cronometer·FatSecret·MFP·LoseIt 비교, MFP 무료 영양소 6개 교차 확인" },
+    { "url": "https://apps.apple.com/kr/iphone/story/id1599762659", "opened": true, "note": "앱스토어 필수 건강 식단 앱 10 큐레이션" },
+    { "url": "https://nutrola.app/ko/blog/8-best-ai-nutrition-apps-2026", "opened": true, "note": "AI 영양앱 8선, Cal AI $19.99·MFP 1400만 DB·Noom 등 가격 교차" },
+    { "url": "https://appbiabi.com/diet-app/", "opened": true, "note": "무료 다이어트 어플 TOP5, 다이어트신·눔 갭 발견" },
+    { "url": "https://brunch.co.kr/@dailynews/1846", "opened": true, "note": "다이어트 앱+스마트기기, YAZIO 등" },
+    { "url": "https://www.calmind.online/alternatives/", "opened": true, "note": "2026 칼로리 앱 10종 비교 기준(AI사진·매크로·안드로이드·기록속도)" },
+    { "url": "https://mydatalab.co.kr/칼로리-계산기-앱-추천-top-7-실사용-후기/", "opened": false, "note": "HTTP 403 차단 — 직접 열람 실패" },
+    { "url": "https://www.pillyze.com/article/ko-KR/m6", "opened": false, "note": "HTTP 405 차단 — 직접 열람 실패" }
+  ],
+  "factcheck": [
+    {
+      "claim": "MyFitnessPal 무료는 추적 영양소 6개·바코드 스캔은 프리미엄 전용",
+      "sources": [
+        "https://nutrola.app/ko/blog/can-you-recommend-a-calorie-tracking-app",
+        "https://www.myfitnesspal.com/premium"
+      ]
+    },
+    {
+      "claim": "MyFitnessPal 유료는 Premium 월 약 $19.99 / Premium+ 월 $24.99·연 $99.99 두 등급",
+      "sources": [
+        "https://nutrola.app/ko/blog/8-best-ai-nutrition-apps-2026",
+        "https://www.myfitnesspal.com/premium"
+      ]
+    },
+    {
+      "claim": "FatSecret 대부분 무료·크라우드소싱이라 정확도 편차·AI 기록 없음",
+      "sources": [
+        "https://nutrola.app/ko/blog/can-you-recommend-a-calorie-tracking-app",
+        "https://www.calmind.online/alternatives/"
+      ]
+    },
+    {
+      "claim": "인아웃 앱스토어 평점 4.9(리뷰 약 5.4만)·국내 개발(마이노멀컴퍼니)·무료 50만+ 음식 검색",
+      "sources": [
+        "https://apps.apple.com/kr/app/id1599210729",
+        "https://brunch.co.kr/@kellypoly/105"
+      ]
+    },
+    {
+      "claim": "YAZIO 독일 개발·400만+ 음식 DB·간헐적 단식 타이머·평점 4.7(리뷰 약 3.3만)",
+      "sources": [
+        "https://apps.apple.com/kr/app/id946099227",
+        "https://nutrola.app/ko/blog/8-best-ai-nutrition-apps-2026"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "다이어트 식단 추천 앱",
+    "data_source": "앱 6종의 앱스토어·구글플레이 공개 페이지를 2026년 6월 직접 수집",
+    "comparison_axis": "한식 데이터베이스(국내 자체구축 vs 해외 크라우드소싱)",
+    "headline_finding": "해외 앱은 DB 400만개여도 한식이 약하고 MyFitnessPal 무료는 영양소 6개뿐, 한국인은 국내 앱이 무료범위·한식정확도·가격 모두 유리",
+    "honest_verdict": "국내 무료 시작=인아웃 / 가성비=밀리그램 / 단식·양식=YAZIO"
+  },
+  "hermes_score": 91,
+  "judge_log": "헤르메스 독립심판 82(재작업)→수치출처보강+한식DB 가짜실측 거부·투명성박스→91(통과). 정확성 11→19"
+}

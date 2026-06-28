@@ -30,6 +30,18 @@ node automation/prepare.mjs
 ### 3단계 — 글 작성
 `src/content/blog/<영문-slug>.md` 작성. 아래 **품질·SEO 규칙**을 지킨다.
 
+### 3.5단계 — 증거 기록 (research.json, 필수)
+글을 쓰면서 절차의 증거를 `automation/research/<slug>.json`에 남긴다. **이 파일이 없거나 미달이면 finalize가 빌드 전에 발행을 막는다**(SERP·팩트체크·심판을 매번 강제하는 하드 게이트). 형식:
+```json
+{
+  "serp":     [ { "url": "경쟁글", "opened": true, "note": "분석" }, ... 상위 10개 시도(opened=true 최소 8개) ],
+  "factcheck":[ { "claim": "핵심 수치/사실", "sources": ["출처1","출처2"] }, ... 최소 3건·각 2출처+ ],
+  "variables":{ "keyword": "...", "headline_finding": "...", ... 데이터 변수 주입(권장 5개) },
+  "hermes_score": 91
+}
+```
+게이트 임계: SERP opened ≥ 8(10개 시도), 팩트체크 ≥ 3건(각 출처 2곳+), 헤르메스 ≥ 90.
+
 ### 4단계 — 팩트체크 → 발행
 사실 주장을 다시 검증(아래 팩트체크 규칙) 후:
 ```

@@ -2,7 +2,7 @@
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { execSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { dirname, join } from 'node:path';
+import { dirname, join, basename } from 'node:path';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
@@ -71,19 +71,25 @@ const factOk = factcheck.length >= FACTCHECK_MIN
   && factcheck.every((f) => Array.isArray(f.sources) && f.sources.length >= 2);
 const hermes = Number(RG.hermes_score);
 
+const varCount = RG.variables ? Object.keys(RG.variables).length : 0;
+const VAR_MIN = 3; // 리뷰·비교 글의 데이터 변수 주입 최소 개수
+const isReview = ['review', 'comparison', '리뷰', '비교'].includes(String(RG.type || '').trim().toLowerCase());
+
 const gate = [
   [openedCount >= SERP_MIN_OPENED, `SERP 경쟁글을 ${openedCount}개만 직접 열었습니다. 상위 10개를 시도해 최소 ${SERP_MIN_OPENED}개를 research.json의 serp[].opened=true로 기록하세요.`],
   [factOk, `팩트체크가 부족합니다. 핵심 수치/사실 ${FACTCHECK_MIN}건 이상을 각각 출처 2곳 이상으로 교차한 기록(factcheck[].sources)이 필요합니다.`],
   [Number.isFinite(hermes) && hermes >= HERMES_PASS, `헤르메스 심판 점수가 ${RG.hermes_score ?? '없음'}입니다. ${HERMES_PASS}점 이상이어야 발행됩니다.`],
 ];
+// 리뷰·비교 글(type=review/comparison/리뷰/비교)은 데이터 변수 주입을 게이트로 강제. 그 외 유형은 권장(경고만).
+if (isReview) gate.push([varCount >= VAR_MIN, `리뷰·비교 글(type=${RG.type})은 데이터 변수 주입(variables) ${VAR_MIN}개 이상이 필요합니다. 현재 ${varCount}개 — research.json의 variables를 채우세요.`]);
+
 const gateFailed = gate.filter(([ok]) => !ok).map(([, m]) => m);
 if (gateFailed.length) {
   console.error('FINALIZE_ERROR: 글쓰기 절차 증거 게이트 미충족\n- ' + gateFailed.join('\n- '));
   process.exit(1);
 }
-const varCount = RG.variables ? Object.keys(RG.variables).length : 0;
-if (varCount < 3) console.warn(`⚠️ 데이터 변수 주입이 ${varCount}개뿐입니다(권장 5개). 리뷰·비교 글이면 보강하세요.`);
-console.log(`✔ 증거 게이트 통과 — SERP ${openedCount}개 열람 · 팩트체크 ${factcheck.length}건 · 헤르메스 ${hermes}점`);
+if (!isReview && varCount < VAR_MIN) console.warn(`⚠️ 데이터 변수 주입이 ${varCount}개뿐입니다(권장 5개). 리뷰·비교 글이면 research.json에 "type":"review"를 넣어 강제하세요.`);
+console.log(`✔ 증거 게이트 통과 — SERP ${openedCount}개 열람 · 팩트체크 ${factcheck.length}건 · 헤르메스 ${hermes}점${isReview ? ` · 변수 ${varCount}개(리뷰형)` : ''}`);
 
 const run = (cmd) => execSync(cmd, { cwd: root, stdio: 'inherit' });
 
@@ -115,5 +121,21 @@ run('git push');
 // 5) Cloudflare Pages 직접 업로드 배포(Git 연동을 쓰지 않으므로 여기서 명시적으로 배포).
 console.log('▶ Cloudflare Pages 배포...');
 run('npx wrangler pages deploy dist --project-name=dietexercise7 --branch=main --commit-dirty=true');
+
+// 6) 대시보드(블로그자동발행-full)의 발행 큐 자동 동기화. 실패해도 발행엔 영향 없음.
+try {
+  const dashDir = process.env.BLOG_DASHBOARD_DIR
+    || 'C:\\Users\\use\\클로드 코드\\블로그자동발행-full';
+  const syncScript = join(dashDir, 'sync_done.py');
+  if (existsSync(syncScript)) {
+    console.log('▶ 대시보드 발행 큐 동기화...');
+    const site = basename(root);
+    const kwArg = process.env.QUEUE_KW ? ` --kw "${process.env.QUEUE_KW}"` : '';
+    execSync(`py "${syncScript}" --site "${site}" --title "${assignment.topic}"${kwArg}`,
+      { stdio: 'inherit' });
+  }
+} catch (e) {
+  console.warn('⚠️ 대시보드 큐 동기화 실패(발행은 정상 완료됨):', e.message);
+}
 
 console.log(`\n✅ 발행 완료: /${slug}/`);
