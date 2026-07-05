@@ -1,0 +1,127 @@
+{
+ "type": "review",
+ "keyword": "가정용 케틀벨 추천",
+ "serp": [
+  {
+   "url": "https://topten-blog.com/articles/인기-커틀벨-무게-추천",
+   "opened": true,
+   "note": "국내 통설 무게(여8~12·남12~16)+제품5종 시세(아리프 3.1만·후기3238 등). 제품별 차이 설명 부재가 갭"
+  },
+  {
+   "url": "https://www.gqkorea.co.kr/2026/04/28/홈트-용품-추천-5",
+   "opened": true,
+   "note": "케틀벨 스윙 효율 강조, 무게·고르기 기준 부재 — 우리 차별화 지점"
+  },
+  {
+   "url": "https://melkinsports.com/product/멜킨-케틀벨-494",
+   "opened": true,
+   "note": "국내 브랜드 라인업 4~24kg 확인, 아이언(주철) 소재"
+  },
+  {
+   "url": "https://wellnesshub.kr/케틀벨-운동법-5가지",
+   "opened": true,
+   "note": "남8~16·여4~12 권장, 주2~3회 빈도. 장비 고르기(코팅·핸들) 없음"
+  },
+  {
+   "url": "https://www.healthline.com/health/exercise-fitness/kettlebell-workout",
+   "opened": true,
+   "note": "ACE 기준 남7~11kg·여4~7kg — 국내 통설과 갭(정보게인 핵심), 주2~3회·10~20분 서킷, 부상 주의(팔뚝·손목·허리)"
+  },
+  {
+   "url": "https://www.garagegymreviews.com/best-kettlebells",
+   "opened": true,
+   "note": "코팅 3종(파우더/E코트/고무비닐) 비교·핸들 32~39mm·원피스 주조 내구성·주철vs경쟁용(35mm)vs조절식"
+  },
+  {
+   "url": "https://barbend.com/best-kettlebells/",
+   "opened": true,
+   "note": "조절식 내구성 약점(플라스틱), 평평한 바닥 체크, 종류별 가격대"
+  },
+  {
+   "url": "https://class101.net/en/products/5ffa4c7059ef89000df16eb0",
+   "opened": true,
+   "note": "케틀벨 홈트 클래스 존재 — '홈트 만능 도구' 포지셔닝 확인(얕은 페이지)"
+  },
+  {
+   "url": "https://blog.somaandbody.com/column/케틀벨-무게와-종류-선택-기준/",
+   "opened": false,
+   "note": "403(시도) — 검색요약으로 경쟁용vs하드스타일 구분 참고"
+  },
+  {
+   "url": "https://namu.wiki/w/케틀벨",
+   "opened": false,
+   "note": "403 상습 차단(시도)"
+  },
+  {
+   "url": "https://hqcenter.snu.ac.kr/... , burnfit.io/... , fitbeautykorea.com/... , verywellfit/menshealth/self",
+   "opened": false,
+   "note": "404·DNS·봇차단 등으로 열람 실패(각각 시도)"
+  }
+ ],
+ "factcheck": [
+  {
+   "claim": "국내 통설 시작 무게 여 8~12kg·남 12~16kg",
+   "sources": [
+    "https://topten-blog.com/... (여8~12·남12~16)",
+    "구글 검색요약·wellnesshub(남8~16·여4~12, 겹침 구간 일치)"
+   ]
+  },
+  {
+   "claim": "미국 ACE 권장 입문 무게 남 15~25lb(7~11kg)·여 8~15lb(4~7kg)",
+   "sources": [
+    "https://www.healthline.com/... (ACE 인용)",
+    "ACE 원기준(healthline이 1차 인용, 본문에 '미국 운동협의회 기준'으로 귀속 표기)"
+   ]
+  },
+  {
+   "claim": "코팅 3종 특성 — 파우더(그립·초크), E코트(내구), 고무·비닐(바닥보호·수명 짧음)",
+   "sources": [
+    "https://www.garagegymreviews.com/best-kettlebells",
+    "https://barbend.com/best-kettlebells/ (chip-resistant 코팅 평가 교차)"
+   ]
+  },
+  {
+   "claim": "경쟁용 케틀벨은 무게와 무관하게 크기·핸들 35mm 동일 규격",
+   "sources": [
+    "https://www.garagegymreviews.com/... (35mm 국제규격)",
+    "https://barbend.com/... (uniform sizing)"
+   ]
+  },
+  {
+   "claim": "조절식 케틀벨 약점 = 플라스틱 부품 내구성",
+   "sources": [
+    "https://barbend.com/...",
+    "https://www.garagegymreviews.com/... (동일 지적)"
+   ]
+  },
+  {
+   "claim": "입문 빈도 주 2~3회·10~20분 서킷",
+   "sources": [
+    "https://www.healthline.com/...",
+    "https://wellnesshub.kr/... (주2~3회 교차)"
+   ]
+  },
+  {
+   "claim": "국내 시세 — 인기 주철 3만 원대 초반(후기 3,238)·프리미엄 무쇠 5만 원대·상위 8만 원 근처 (2026-07 기준 표기)",
+   "sources": [
+    "https://topten-blog.com/... (5개 제품 가격표)",
+    "https://melkinsports.com/... (브랜드 라인업·할인가 구조)"
+   ]
+  },
+  {
+   "claim": "'아리프 레드라인' 모델명 — topten 1위 제품명 그대로(3.1만·후기 3,238)",
+   "sources": [
+    "https://topten-blog.com/... (제품표 1위 '아리프 레드라인' 명시)",
+    "본문 가격은 '3만 원대 초반' 범위 표기"
+   ]
+  }
+ ],
+ "variables": {
+  "keyword": "가정용 케틀벨 추천",
+  "headline_finding": "무게 추천이 글마다 다른 원인 = 국내 통설(여8·남12~16) vs 미국 ACE(여4~7·남7~11)의 기준 차이 — 이 갭을 표로 정면 비교한 국내 글이 SERP에 없음",
+  "price_snapshot_2026_07": "입문 주철 3.1만(후기3238)~8만, 국내 브랜드 4~24kg 2kg단위 라인업 — 시점 명시",
+  "comparison_axes": "주철 vs 경쟁용(35mm 규격) vs 조절식(내구 약점) 3종 표 + 코팅 3종 + 상황별 4케이스 결론표",
+  "experience_voice": "스펙 비교 리서치 경험만 사용, 사용기 날조 없음(핏기어 가드레일 준수)"
+ },
+ "hermes_score": 95
+}
