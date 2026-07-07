@@ -1,0 +1,33 @@
+{
+  "type": "review",
+  "keyword": "요가매트 추천",
+  "serp": [
+    { "url": "https://blog.huvis.com/892", "opened": true, "note": "소재 3종(NBR·TPE·PVC). NBR=쿠션·복원력↓·밀림. TPE=복원·충격흡수·밀착·100%재활용, 단 얇고 비쌈. PVC=저렴·푹신하나 얇고 환경호르몬. 선택시 두께·크기·세척 고려" },
+    { "url": "https://ko.wavar.com/blog/what-is-the-best-material-for-yoga-mat.html", "opened": true, "note": "소재 5종. 고무=탄력·그립·내구, 냄새. TPE=미끄럼방지·탄성·내구, 비쌈. NBR=쿠션·내마모, 그립·탄성↓·냄새·초보 제한. PU+고무=핫요가 그립·통기, 비쌈. PVC=바닥그립·세척, 흡수X·땀에 미끄럼·생분해X" },
+    { "url": "https://www.wavaryoga.com/news/what-is-the-optimal-thickness-for-a-yoga-mat.html", "opened": true, "note": "두께: 1-3mm 숙련자, 4-5mm 중상급, 6-8mm TPE 초보~부상예방. 8mm+ 무게중심 불안·발목 삐끗 위험. NBR 10-15mm 비권장(그립·탄성 약)" },
+    { "url": "https://www.secondpageyoga.com/blog/standard-size-of-yoga-mat_b3", "opened": true, "note": "표준 183x61cm, 폭 61-68(68+ 드묾), 키 180+ 는 183+~220cm, 아쉬탕가 점프·팔밸런스는 긴 매트. 폭 68이면 어깨 넓어도 충분" },
+    { "url": "https://reviewpro.co.kr/best-yoga-mat/", "opened": true, "note": "구성=빠른비교/재질/두께/세척/추천7. 재질 NBR·TPE·PVC. 두께 4-6mm 초보, 8-10mm 다용도(홈트·필라), 16-20mm 층간소음. 비교표=제품·추천포인트·특징3·최저가" },
+    { "url": "https://docs.channel.io/5b5d3293/ko/articles/요가ㆍ필라테스-FAQ-c2fbefce", "opened": true, "note": "요가매트 3-6mm(그립·밸런스) vs 필라테스매트 8-15mm(쿠션). 두께: 3-4 휴대, 5-6 초보·관절, 8+ 리스토러티브. 둘다면 5-8mm 범용. 코르크=항균·땀배출" },
+    { "url": "https://htsyoga.com/yoga-mat-materials-guide-rubber-tpe-pvc-pu-cork-jute/", "opened": true, "note": "소재별 grip/eco/best-for. 천연고무=파워요가 안정(무겁·라텍스). TPE=여행·범용(내구 편차). PVC=스튜디오·고빈도. PU=핫요가 그립. 코르크=핫요가·에코(초기 건조그립↓). 주트=텍스처" },
+    { "url": "https://www.zonebylydia.com/blogs/inthezone/choosing-the-right-yoga-mat", "opened": true, "note": "최적 3-4mm, 6mm는 관절보호하나 균형↓. 코르크 항균·땀에 그립↑. PVC 저렴하나 유해·매립. 가격 $10-30 저가/$50-150+ 프리미엄. 용도매칭(다이내믹=그립, 리스토=쿠션)" },
+    { "url": "https://contents.11st.co.kr/detail/10250", "opened": false, "note": "DNS 실패(ENOTFOUND). TPE vs NBR 요지는 검색요약+huvis로 대체 확인(TPE 복원·밀착 우수, NBR 저렴·밀림)" },
+    { "url": "https://ohou.se/advices/5073", "opened": false, "note": "403 차단. 요가매트 가격차 이유(소재·두께·접지)는 다른 8개 소스로 커버" }
+  ],
+  "factcheck": [
+    { "claim": "TPE는 복원력·밀착력(미끄럼방지) 좋고 재활용 친환경이나 상대적 고가·내구 편차; NBR은 쿠션·저렴하나 밀도낮아 찢김·가루·밀림·냄새", "sources": ["https://blog.huvis.com/892", "https://ko.wavar.com/blog/what-is-the-best-material-for-yoga-mat.html"] },
+    { "claim": "PVC는 저렴·내구·접지·세척 좋으나 무겁고 땀 미끄럼·환경호르몬(프탈레이트) 이슈; 천연고무=접지 최고·무겁·라텍스; 코르크=땀에 그립↑·항균·친환경", "sources": ["https://htsyoga.com/yoga-mat-materials-guide-rubber-tpe-pvc-pu-cork-jute/", "https://www.zonebylydia.com/blogs/inthezone/choosing-the-right-yoga-mat"] },
+    { "claim": "두께: 얇을수록(3-5mm) 균형↑, 무릎닿는 홈트는 6-8mm 쿠션, 8mm 크게 넘으면 무게중심 불안·발목 삐끗 위험. 요가 3-6mm vs 필라테스 8-15mm", "sources": ["https://www.wavaryoga.com/news/what-is-the-optimal-thickness-for-a-yoga-mat.html", "https://docs.channel.io/5b5d3293/ko/articles/요가ㆍ필라테스-FAQ-c2fbefce"] },
+    { "claim": "표준 사이즈 길이 약 183cm(키 170-180 무난), 큰키·점프동작은 185-220cm, 폭 61-68cm(넓은 80cm 안정). 무게 1-2kg(TPE/PVC 휴대) vs 2-3kg(고무 홈)", "sources": ["https://www.secondpageyoga.com/blog/standard-size-of-yoga-mat_b3", "https://docs.channel.io/5b5d3293/ko/articles/요가ㆍ필라테스-FAQ-c2fbefce"] },
+    { "claim": "초보 권장 두께는 자료별 4-6mm~6-8mm로 범위가 갈림 → '요가·밸런스 4-6mm, 무릎 홈트 6-8mm'로 절충 제시(단정 회피)", "sources": ["https://reviewpro.co.kr/best-yoga-mat/", "https://www.wavaryoga.com/news/what-is-the-optimal-thickness-for-a-yoga-mat.html"] }
+  ],
+  "variables": {
+    "keyword": "요가매트 추천",
+    "headline_finding": "요가매트는 '두꺼울수록 좋다'가 아니라 소재(TPE 무난)+용도별 두께로 골라야 — 8mm 크게 넘으면 오히려 균형 저하",
+    "material_matrix": "TPE=밀착·친환경 입문 / NBR=쿠션·저렴하나 밀림 / PVC=내구·접지 저렴하나 환경호르몬 / 천연고무=접지최고·무거움 / 코르크=땀에 그립·항균",
+    "thickness_guide": "요가·밸런스 4-6mm, 무릎 홈트 6-8mm, 필라테스 8-15mm, 8mm+ 균형·발목 리스크",
+    "size_weight": "표준 183x61-68cm, 큰키 185-220cm, 무게 1-2kg(휴대 TPE/PVC) vs 2-3kg(홈 고무)",
+    "common_mistake": "무조건 두꺼운 매트 함정 + 다이소 저가=얇거나 NBR 밀림/가루 → 꾸준히면 TPE 중가"
+  },
+  "hermes_score": 98,
+  "hermes_note": "독립 심판(별도 에이전트) 98 PASS, 치명결함 0. 소재·두께·사이즈 근거 일치·가짜 사용경험 없음·의학단정 없음·제휴버튼 없음. 지시반영: 밸런스 두께 3-5→4-6mم 내 얇은쪽으로 일관화"
+}
