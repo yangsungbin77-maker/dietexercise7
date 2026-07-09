@@ -1,0 +1,34 @@
+{
+  "type": "review",
+  "keyword": "폼롤러 추천",
+  "note": "dietexercise7(핏기어). 차별화=입문자 강도 로드맵 표(EVA민무늬→EPP/돌기→진동, 넘어갈 신호)+안전(하면 안 되는 3부위)과 제품 추천을 한 글에 결합(순위글은 안전 부실, 안전글은 제품 없음)+길이 목적 매트릭스. 진동 회복 수치(%)는 학술원문 재검증 전이라 단정 회피, '연구에 따라 유리한 결과도'로 소프트 처리. 의학 단정 금지·사는 물건 리뷰.",
+  "serp": [
+    { "url": "https://brunch.co.kr/@whitecrow105/27", "opened": true, "note": "길이(90/45)·표면·소재·반원형 선택축 깔끔, 수치근거 얕음" },
+    { "url": "https://blog.teamelysium.kr/ko/bodydotfitness-foamroller", "opened": true, "note": "운동 전/후 사용법 분리, 부위당 30초~2분·염증 경고, 제품추천 없음" },
+    { "url": "https://www.obfarm.co.kr/2026/04/blog-post.html", "opened": true, "note": "금지 3부위(허리·IT밴드·관절) 해부학 근거=안전각도 최강, 고르는법 없음" },
+    { "url": "https://www.k-health.com/news/articleView.html?idxno=72282", "opened": true, "note": "언론+전문가(골다공증·항응고제 금기), 종류/길이 빈약" },
+    { "url": "http://news.hidoc.co.kr/news/articleView.html?idxno=26413", "opened": true, "note": "EVA/EPP/지압 종류+길이 90/60/30~45 용도+원리, 강도 세분화 약함" },
+    { "url": "https://brunch.co.kr/@tenbody/766", "opened": true, "note": "운동+마사지 활용 5가지, 고르는법/주의 얕음" },
+    { "url": "https://topten-blog.com/articles/인기-폼롤러-추천", "opened": true, "note": "TOP5 제품·소재·실가격 표(EPP 1.2만~), 어필형·안전 부실" },
+    { "url": "https://couprod.com/폼롤러-추천-순위-가격-브랜드/", "opened": true, "note": "브랜드별(코멧·아리프·에바핏)+길이 33~91cm·가격대, 정보 얕음" },
+    { "url": "https://namu.wiki/w/폼롤러", "opened": false, "note": "봇차단(403), 대체 소스로 커버" },
+    { "url": "https://ohou.se/advices/5074", "opened": false, "note": "403 차단, 지름15cm·90cm 활용 스니펫만" }
+  ],
+  "factcheck": [
+    { "claim": "소재 EVA=부드럽고 저가·변형 잘됨(입문), EPP=단단·내구성↑·입자탈락(중급 상향)", "sources": ["http://news.hidoc.co.kr/news/articleView.html?idxno=26413", "https://topten-blog.com/articles/인기-폼롤러-추천"] },
+    { "claim": "표면 민무늬=근막 넓게 이완, 돌기=특정지점 강자극(입문자는 민무늬 권장 자료 다수)", "sources": ["https://brunch.co.kr/@whitecrow105/27", "http://news.hidoc.co.kr/news/articleView.html?idxno=26413"] },
+    { "claim": "길이별 용도: 90cm=전신·척추, 60cm=등·허리, 30~45cm=종아리·좁은부위·휴대. 지름 약 15cm 표준", "sources": ["http://news.hidoc.co.kr/news/articleView.html?idxno=26413", "https://brunch.co.kr/@whitecrow105/27"] },
+    { "claim": "사용 시간/속도: 한 지점 30초~1~2분 천천히·호흡, 운동전 짧게/운동후 천천히. 과도 지속 시 염증 위험", "sources": ["https://blog.teamelysium.kr/ko/bodydotfitness-foamroller", "https://www.obfarm.co.kr/2026/04/blog-post.html"] },
+    { "claim": "직접 굴리면 안 되는 부위: 허리(요추)·IT밴드·관절/뼈·무릎뒤·겨드랑이(혈관·신경)", "sources": ["https://www.obfarm.co.kr/2026/04/blog-post.html", "https://blog.teamelysium.kr/ko/bodydotfitness-foamroller"] },
+    { "claim": "의학 금기: 골다공증·골절·항응고제 복용 시 멍·손상 위험, 통증 지속 시 중단", "sources": ["https://www.k-health.com/news/articleView.html?idxno=72282", "https://www.obfarm.co.kr/2026/04/blog-post.html"] }
+  ],
+  "variables": {
+    "keyword": "폼롤러 추천",
+    "headline_finding": "입문은 부드러운 EVA 민무늬 90cm 하나면 충분, 진동부터 사면 과투자",
+    "beginner_roadmap": "1단계 EVA민무늬 → 2단계 EPP/돌기(자극부족 신호) → 3단계 진동(회복중시·예산여유)",
+    "safety_plus_product": "제품 추천+금지 3부위(허리·IT밴드·관절)를 한 글에 결합 — 경쟁글은 안전or제품 한쪽만",
+    "length_by_purpose": "90cm=홈트 범용, 30~45cm=휴대·종아리 집중(목적 매트릭스)",
+    "vibration_soften": "진동 회복 우위는 '연구에 따라 유리한 결과도'로 소프트(학술 %수치 미검증→단정 회피)"
+  },
+  "hermes_score": 91
+}
