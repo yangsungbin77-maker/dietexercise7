@@ -1,0 +1,49 @@
+{
+  "type": "review",
+  "keyword": "마사지건 추천",
+  "note": "dietexercise7(핏기어). 차별화=RPM 아닌 진폭 중심 프레임(마케팅 함정)+예산대별 결정트리(3만/10만/40만)+스펙해설과 모델추천 통합(경쟁글은 한쪽만)+안전 표. 폼롤러 글과 회복장비 클러스터로 상호링크. 개별 모델 스펙·가격은 편차 커서 밴드/범위로만, 의학 단정 금지.",
+  "serp": [
+    { "url": "https://nosearch.com/contents/guide/living/massage_gun", "opened": true, "note": "4기준 체계적·손잡이직경 등 디테일, 구체 모델·가격 없음" },
+    { "url": "https://tilnote.io/en/pages/6a3b1686478fbed2738c29d8", "opened": true, "note": "스펙수치+9모델 비교표+미니vs풀+금지부위 최강 완성형, 영문도메인" },
+    { "url": "https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-추천-기준-진동-진폭-무게-모터-59570", "opened": true, "note": "DC vs BLDC 표·수치 근거 탄탄, 모델추천 없음" },
+    { "url": "https://www.gqkorea.co.kr/2024/06/21/마사지건-사용하면-안-되는-신체-부위-5", "opened": true, "note": "금지부위 5곳 의학근거(대전자·신장), 매체 신뢰↑, 제품추천 아님" },
+    { "url": "https://nosearch.com/recommendation/overview/living/massage_gun", "opened": true, "note": "종합 허브, JS로딩형 본문 빈약" },
+    { "url": "https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-배터리-소음-59574", "opened": true, "note": "탈착식vs일체형·층간소음 팁 실용, 좁은 주제" },
+    { "url": "https://itrvrl.com/마사지건-추천/", "opened": true, "note": "8모델 스펙표(제스파·바넥스·오아) 국산 가성비 총망라, 제휴나열형" },
+    { "url": "https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-부작용-올바른-사용방법-59565", "opened": true, "note": "안전부위(승모근·허리·종아리)+사용후 스트레칭" },
+    { "url": "https://couprod.com/마사지건-추천-순위-가격-브랜드/", "opened": true, "note": "TOP순위·브랜드 폭넓음, 스펙근거 없이 나열" },
+    { "url": "https://scutie.co.kr/마사지건-추천", "opened": false, "note": "DNS ENOTFOUND, 위 9개로 커버" }
+  ],
+  "factcheck": [
+    { "claim": "심부 자극은 RPM보다 진폭(스트로크 mm)이 좌우: 저가 6~10 / 중급 10~12 / 프로 14~16mm", "sources": ["https://tilnote.io/en/pages/6a3b1686478fbed2738c29d8", "https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-추천-기준-진동-진폭-무게-모터-59570"] },
+    { "claim": "스톨력(모터 안 멈추는 힘)은 일반인 20kg·선수/대근육 27kg 이상 권장", "sources": ["https://tilnote.io/en/pages/6a3b1686478fbed2738c29d8", "https://nosearch.com/contents/guide/living/massage_gun"] },
+    { "claim": "소음 65dB 이하 정숙, 저가 고단계는 70~80dB(층간소음 유발), BLDC 저소음", "sources": ["https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-배터리-소음-59574", "https://nosearch.com/contents/guide/living/massage_gun"] },
+    { "claim": "무게 700g~1kg 균형점(700g 미만 힘부족, 1kg 초과 장시간 부담)", "sources": ["https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-추천-기준-진동-진폭-무게-모터-59570", "https://nosearch.com/contents/guide/living/massage_gun"] },
+    { "claim": "한 부위당 30초~1분·약한 강도로 시작·과사용 주의, 사용 후 스트레칭", "sources": ["https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-부작용-올바른-사용방법-59565", "https://www.gqkorea.co.kr/2024/06/21/마사지건-사용하면-안-되는-신체-부위-5"] },
+    { "claim": "금지 부위: 목 앞·옆(경동맥)·척추 뼈 위·손목 동맥·복부/신장·관절/뼈돌출·멍든 곳(신경·혈관·장기 손상)", "sources": ["https://www.gqkorea.co.kr/2024/06/21/마사지건-사용하면-안-되는-신체-부위-5", "https://www.ajd.co.kr/contents/basic-tip/detail/마사지건-부작용-올바른-사용방법-59565"] }
+  ],
+  "variables": {
+    "keyword": "마사지건 추천",
+    "headline_finding": "RPM 아니라 진폭(10mm+)이 핵심, 대부분 10만원대 국산 가성비면 충분",
+    "amplitude_frame": "RPM 마케팅 함정 지적 → 진폭 6~10/10~12/14~16mm 등급으로 재프레임",
+    "budget_tree": "3만(입문)/10만(국산 가성비)/40만+(프리미엄) 결정트리 + 헤비유저 저가금지·라이트 프리미엄 과투자 솔직조언",
+    "spec_plus_model": "스펙 해설+모델 추천 통합(경쟁글은 스펙만or순위만)",
+    "safety_table": "금지 6부위 표로 시각화(목앞·척추·손목·복부·관절·멍), 폼롤러 대안 링크"
+  },
+  "hermes_score": 91,
+  "judge": {
+    "real": true,
+    "by": "independent judge agent (adversarial re-judge)",
+    "date": "2026-07-09",
+    "prior_score": 83,
+    "score": 91,
+    "verdict": "pass",
+    "fixed": [
+      "실존 브랜드 예시 추가(국산 제스파·보아르·클럭·홈플래닛 / 프리미엄 하이퍼볼트·테라건)+왜 특정 모델 안 집는지 정직한 사유(핏기어 날조금지 정합)",
+      "DC vs BLDC 모터 차이 독립 단락 보강 + 예산표·FAQ 일관 재참조",
+      "본문 2번째 이미지 alt를 '허벅지에 퍼커션 마사지건 사용'으로 주제 정합 수정",
+      "재심판 반영: 스톨력 수치에 '제조사 스펙 기준' 완충어 + 브랜드 내 라인(Go/2 Pro·미니/프라임) 예시 추가"
+    ],
+    "remaining_nitpicks": ["구체 단일 모델 미지정(페르소나상 정당)", "이미지 alt-픽셀 일치는 텍스트 정합만 검증"]
+  }
+}
