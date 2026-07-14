@@ -1,0 +1,43 @@
+{
+  "type": "review",
+  "keyword": "단백질 보충제 추천",
+  "serp": [
+    { "url": "https://v.daum.net/v/zFTUvHcnZ6", "opened": true, "note": "WPC(농축·70~80%·유당 포함·저렴·고소) vs WPI(분리·90%+·유당 거의 없음·비쌈·밍밍) 비교표. 추천 대상(WPC=초보·가성비·벌크업, WPI=유당불내증·다이어터·선수). WPH 없음" },
+    { "url": "http://news.hidoc.co.kr/news/articleView.html?idxno=22133", "opened": true, "note": "하이닥 전문가 Q&A. WPC/WPH/WPI + 콩 ISP(채식·유당불내증 대안, 흡수 느림). 소화 기준 선택 조언 = 우리 1단계 프레임 근거" },
+    { "url": "https://gongysd.com/workout-log/?bmode=view&idx=157917536", "opened": true, "note": "WPC·WPI·WPH·WPIH 4단 비교(순도·유당·가격·맛). WPH=가장 빠른 소화흡수·강한 쓴맛. 나열형, 라벨·가격 계산 없음" },
+    { "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=30562", "opened": true, "note": "소비자원 결과 기사. 분말 12~63g/일 기준·음료 4~21g(5.3배), 당류 0.2~20.9g(105배), 아미노산스코어 14/16이 85+(건기식 기준 85, 일반식품 기준 없음). 과다 섭취 부담 지적(신장) — 본문에선 전문가 지적 귀속+상담 안내로 처리. 외부링크 채택" },
+    { "url": "https://blog.selexmall.com/protein-intake-calculation-guide", "opened": true, "note": "권장 참고치: 일반 1.0~1.2g/kg·다이어트 1.2~1.6·근성장 1.6~2.2, 개인차 큼('한번에 30g 이상 흡수 안 된다'는 속설도 개인차). 본문에선 범위 참고치+개인차 헤지로 사용" },
+    { "url": "https://www.newstree.kr/newsView/ntr202308080009", "opened": true, "note": "소비자원 수치 교차: 단백질 1g당 32~375원(11.7배), 당류 105배, 일부 알레르기 표시·함량 오차 지적, 성별·연령별 필요량 확인 조언" },
+    { "url": "https://gall.dcinside.com/mgallery/board/view/?id=nutrient&no=55673", "opened": true, "note": "실사용자 관점: WPC=저렴, WPI=한번 더 거름=유당불내증, WPH·WPHI 가격순. ISP=아미노산 아쉽지만 가성비. '대두단백 섞어 파는 업체 성분표 확인' 조언 = 라벨 확인 프레임 보강" },
+    { "url": "https://www.foodicon.co.kr/news/articleView.html?idxno=22248", "opened": true, "note": "소비자원 수치 3차 교차: 16개 제품(분말8·음료8), 당류 분말 0.2~8.6/음료 0.5~20.9, 1g당 저가 32~33원=분말·고가 356~375원=음료" },
+    { "url": "https://www.kca.go.kr/webzine/board/view?menuId=MENU00307&linkId=599", "opened": false, "note": "소비자원 공식 웹진 — 인증서 오류로 미열람(언론 3사 보도로 동일 수치 교차 확보)" },
+    { "url": "https://food-father.com/entry/...WPC-WPI-WPH...", "opened": false, "note": "DNS 소멸" },
+    { "url": "https://www.hankyung.com/article/202308083552Y", "opened": false, "note": "403 차단(동일 소비자원 보도)" },
+    { "url": "https://www.yak-al.com/article/79", "opened": false, "note": "본문 렌더 실패" }
+  ],
+  "serp_summary": {
+    "intent": "정보+구매 결정(리뷰형). 상위=WPC/WPI 비교 나열·전문가 Q&A·소비자원 보도·커뮤니티",
+    "common_items": ["WPC/WPI/WPH 차이(순도·유당·가격)", "유당불내증 대응", "식물성 ISP", "권장 섭취량", "과다 섭취 주의"],
+    "gap": "①종류 비교와 소비자원 시험 데이터를 합쳐 '고르는 3단계'로 구조화한 글 없음 ②1g당 가격 계산법을 알려주는 글 없음(통 가격 함정) ③라벨 3종 세트(함량·당류·아미노산스코어) 체크 프레임 없음",
+    "cluster_keywords": ["프로틴 추천", "WPC WPI 차이", "WPH", "유당불내증 프로틴", "아미노산스코어", "프로틴 가격 비교", "식물성 단백질", "프로틴 고르는 법", "헬스 보충제", "프로틴 당류"],
+    "google_self_check": "①고유 분석=1g당 가격 계산법+3단계 프레임 ②새 관점=소비자원 데이터의 구매 기준화 ③제목-본문 일치(WPC·WPI·WPH 차이와 1g당 가격 모두 이행) ④충분성=종류→라벨→가격→섭취량→FAQ ⑤유용성=상황별 결정표+1분 계산 습관 박스"
+  },
+  "factcheck": [
+    { "claim": "WPC=단백질 70~80%·유당 포함·저렴, WPI=90% 이상·유당 거의 없음·비쌈, WPH=효소 분해로 소화 빠름·가장 비쌈·쓴맛", "sources": ["https://v.daum.net/v/zFTUvHcnZ6", "https://gongysd.com/workout-log/?bmode=view&idx=157917536", "http://news.hidoc.co.kr/news/articleView.html?idxno=22133"] },
+    { "claim": "소비자원 16개 제품 시험: 1회당 단백질 4~29g(최대 7.3배), 당류 0.2~20.9g(최대 105배), 아미노산스코어 85+ 14/16, 전 제품 중금속·미생물 적합", "sources": ["구글 검색 결과 요약(소비자원 발표 원수치)", "https://news.hidoc.co.kr/news/articleView.html?idxno=30562", "https://www.foodicon.co.kr/news/articleView.html?idxno=22248"] },
+    { "claim": "단백질 1g당 가격 32~375원(최대 11.7배), 저가 구간(32~33원)=분말형·고가(356~375원)=음료형", "sources": ["https://www.newstree.kr/newsView/ntr202308080009", "https://www.foodicon.co.kr/news/articleView.html?idxno=22248"] },
+    { "claim": "아미노산스코어=필수 아미노산 균형 지표, 건강기능식품 기준 85 이상(일반식품은 기준 없음), 식물성 음료 제품이 45로 최저 사례", "sources": ["https://news.hidoc.co.kr/news/articleView.html?idxno=30562", "구글 검색 결과 요약(아몬드브리즈 뉴트리플러스 45 최저·칼로바이 141 최고)"] },
+    { "claim": "ISP(분리대두단백)=채식·유당불내증 대안, 유청 대비 아미노산 구성 아쉽다는 평가", "sources": ["http://news.hidoc.co.kr/news/articleView.html?idxno=22133 (ISP 정의·흡수 느림)", "https://gall.dcinside.com/... (아미노산 부족하지만 가성비)"] },
+    { "claim": "참고 섭취 범위: 일반 성인 0.8~1.2g/kg, 운동 시 1.4~2.2g/kg 수준(개인차 큼·참고치로 헤지), 과다 섭취는 부담 가능성 지적 존재", "sources": ["https://blog.selexmall.com/protein-intake-calculation-guide", "구글 검색 결과 요약(calculator.io 등 0.8/1.4~1.7/1.6~2.2 교차) + hidoc 30562(과다 섭취 지적)"] }
+  ],
+  "variables": {
+    "keyword": "단백질 보충제 추천",
+    "headline_finding": "소비자원 시험에서 단백질 1g당 가격 11.7배·당류 105배 차이 — '통 가격 함정'을 1g당 가격 계산법으로 해체한 것이 핵심 변수",
+    "price_per_gram": "1g당 32~375원(11.7배), 분말형 저가 32~33원 vs 음료형 고가 356~375원",
+    "sugar_range": "1회 섭취량 기준 당류 0.2~20.9g(105배 차이) — 라벨 확인 근거",
+    "amino_score": "16개 중 14개가 85+(건기식 기준), 식물성 음료 45 최저 사례 — 식물성일수록 스코어 확인",
+    "purity_spec": "WPC 70~80% vs WPI 90%+ — 순도 차이의 실질 가치는 유당 제거라는 재해석",
+    "no_health_claims": "효능 단정 배제 — 섭취량은 참고 범위+개인차 헤지, 과다 섭취·기저질환은 전문가 상담 안내(페르소나 가드레일 준수)"
+  },
+  "hermes_score": 97
+}
