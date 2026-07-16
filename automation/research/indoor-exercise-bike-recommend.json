@@ -1,0 +1,44 @@
+{
+  "type": "review",
+  "keyword": "실내자전거 추천",
+  "serp": [
+    { "url": "https://choicemon.com/best-exercise-bike/", "opened": true, "note": "TOP7 리스티클. 종류(접이/좌식/입식/스피닝) 공간 수치(1.2×0.8m, 1.5×1.2m), 저항 마그네틱30dB/공기/마찰, 하중 100kg+, 칼로리표(60kg 30분 210~270kcal). 핵심 수치 출처" },
+    { "url": "https://brunch.co.kr/@best5/66", "opened": true, "note": "BEST5. 종류별 장단점표(접이/업라이트/스피닝/좌식), 마그네틱 조용·기어 소음, 공간 50×100cm, 안장높이(무릎 약간 굽힘)" },
+    { "url": "https://proguide.co.kr/best-exercise-bike/", "opened": true, "note": "TOP7 효과. 선택기준 7항목(소음·형태·조절·편의·내구·가격 11~33만·추가기능), 효과 서술(YMYL 주의해 인용 최소화)" },
+    { "url": "https://melkinsports.com/article/상품-사용후기/4/120905/", "opened": true, "note": "실사용 후기: '힘이 별로 안 들어감', '운동효과 글쎄', 탄력망 내구 불만. 저가 저항 부족 단점 근거" },
+    { "url": "https://egojin.com/product/이고진-접이식-실내자전거-lpx115/", "opened": true, "note": "제조사 스펙: 마그네틱 극저소음, 순무게 14.3kg, 최대하중 100kg, 접이 370×440×1375mm. 접이식 수치 출처" },
+    { "url": "https://koreafitness.com/product/detail.html?product_no=8007", "opened": true, "note": "제조사 스펙: 미니/데스크바이크, 마그네틱 8단 다이얼, 접이 730×310×715, 안장 9단, 원터치 폴딩. 미니형 근거" },
+    { "url": "https://overthe.co.kr/product/오버더바이크-전현무-접이식-미니-실내자전거/13", "opened": true, "note": "미니 한뼘 바이크. 핸들 없음(TV/폰 보며), 층간소음 저소음 마케팅. 스펙 미기재 확인" },
+    { "url": "https://www.motovelo.co.kr/m/review_list.html", "opened": true, "note": "전동자전거 브랜드로 실내자전거 무관 확인·배제(off-topic)" },
+    { "url": "https://plan.danawa.com/info/?nPlanSeq=4149", "opened": false, "note": "다나와 고르는법 가이드(DNS 타임아웃 미오픈). 종류·저항방식 기준" },
+    { "url": "https://reviewguide.co.kr/실내-자전거-추천/", "opened": false, "note": "TOP10 비교(DNS 타임아웃 미오픈). 하중·플라이휠 기준" }
+  ],
+  "serp_analysis": {
+    "intent": "정보성 추천/비교 (실내자전거 추천 + 고르는 법). 상위는 제휴 TOP-N 리스티클·다나와 가이드·제조사 상품페이지·커뮤니티 혼재",
+    "common_items": ["종류(스피닝/업라이트/좌식/미니/접이식)", "저항방식(마그네틱/마찰/공기)", "소음·층간소음", "플라이휠 무게", "공간·접이식", "최대하중", "안장 조절", "방진매트", "칼로리 효과"],
+    "gaps_our_edge": [
+      "대부분 제휴 TOP-N 리스티클로 특정 제품 밀어주기 — 우리는 제품 안 팔고 '내 상황(원룸/층간소음/무릎/예산)→뭘 고르나'를 결정표로",
+      "저항방식(마그네틱 vs 마찰/펠트)이 소음·유지관리·수명을 가르는 핵심인데 깊이 설명한 곳 적음 → 핏기어 시그니처(소음/층간소음)",
+      "안장 통증(2주 적응·젤커버 1~2만원) 같은 실사용 함정을 솔직히 짚은 곳 적음",
+      "미니 페달형의 강도 한계를 솔직히 밝힌 곳 적음(후기 근거)",
+      "무릎·허리 부담은 좌식 소개하되 의료 단정 회피(YMYL 가드레일 준수)"
+    ]
+  },
+  "factcheck": [
+    { "claim": "마그네틱(자석) 저항은 비접촉이라 거의 무소음이고 마모 없음, 마찰식은 저렴하나 소음·패드 마모", "sources": ["https://brunch.co.kr/@best5/66", "https://egojin.com/product/이고진-접이식-실내자전거-lpx115/"] },
+    { "claim": "마그네틱 구동 소음은 대략 30dB 안팎으로 조용한 편", "sources": ["https://choicemon.com/best-exercise-bike/", "https://brunch.co.kr/@best5/66"] },
+    { "claim": "스피닝은 무거운 플라이휠로 관성↑ 페달링 부드럽고 고강도, 좌식(리컴번트)은 등받이로 관절 부담 적은 자세", "sources": ["https://brunch.co.kr/@best5/66", "https://choicemon.com/best-exercise-bike/"] },
+    { "claim": "접이식은 접으면 폭 30~44cm 수준까지 축소, 최대하중 대체로 100kg 안팎, 본체 14~16kg대", "sources": ["https://egojin.com/product/이고진-접이식-실내자전거-lpx115/", "https://koreafitness.com/product/detail.html?product_no=8007"] },
+    { "claim": "저가·마찰식은 저항감 부족·내구 불만 후기 존재(힘이 안 들어감 등)", "sources": ["https://melkinsports.com/article/상품-사용후기/4/120905/", "https://proguide.co.kr/best-exercise-bike/"] },
+    { "claim": "가격대는 대략 11만~33만원대, 입문 11~18만·장기사용 20만+", "sources": ["https://choicemon.com/best-exercise-bike/", "https://proguide.co.kr/best-exercise-bike/"] }
+  ],
+  "variables": {
+    "keyword": "실내자전거 추천",
+    "headline_finding": "종류보다 저항 방식(마그네틱)을 먼저 봐야 소음·수명이 잡힌다",
+    "unique_angle": "상황별(원룸/층간소음/무릎/예산) 결정표 + 저항방식이 핵심이라는 프레임",
+    "situation_table": "내 상황→추천 종류·방식 결정표",
+    "honest_pitfall": "안장 통증 2주 적응·젤커버, 미니형 강도 한계, 마찰식 패드 마모 등 실사용 함정",
+    "price_bands": "11~14만 / 16~20만 / 20~33만 3구간 기대치표"
+  },
+  "hermes_score": 92
+}
