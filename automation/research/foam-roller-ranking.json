@@ -1,0 +1,38 @@
+{
+  "type": "recommendation",
+  "serp": [
+    { "url": "https://reviewpro.co.kr/best-foamroller/", "opened": true, "note": "TOP7 폼롤러 추천 — 브랜드 순위(트라택 EPP·바디아트 필라테스 3만원대·코멧 EPP 1.2만·멜킨 EVA 입문 등)+용도·가격대. 평가축=활용도·내구성·가성비·초보적합·쿠션감. 우리는 브랜드 줄세우기 대신 용도별 랭킹으로 차별화" },
+    { "url": "https://notegym.com/foam-roller-selection-length-firmness-beginners/", "opened": true, "note": "초보 길이·강도 기준 — 초보 45~60cm, 30cm 휴대, 90cm 안정. 강도 소프트/미디엄/하드, 처음 너무 단단하면 부담. 미디엄 권장" },
+    { "url": "https://brunch.co.kr/@whitecrow105/27", "opened": true, "note": "종류별 추천 — 90cm 마사지+홈트, 45cm 마사지중심, 돌기=시원함, 민무늬=근막이완·체형교정, 원형/반원형, EVA 저가·변형 EPP 내구·입자. 저가 냄새 후기확인" },
+    { "url": "https://a-ha.io/questions/43a92a7efa912d978c91fc63f140ee59", "opened": true, "note": "소재 3단계 — EVA(초보·순한 자극)→EPP(단단·경험자)→코르크(EPP보다 강함·숙련자). 단계적 업그레이드. 코르크 등급 근거" },
+    { "url": "https://topten-blog.com/articles/인기-폼롤러-추천", "opened": true, "note": "쿠팡파트너스 인기 TOP5 — 코멧 EPP ~1.2만, 트라택 EVA ~3.3만, 비핏 EVA ~1.8만, 호스커스 ~2만/지압 ~1.4만. 가격대 교차(변동성 커서 본문은 '대략 가격대'로 헤지)" },
+    { "url": "https://www.gaiam.com/pages/which-foam-roller-is-right-for-you", "opened": true, "note": "영문 가이드 — texture(wavy/light/smooth), density(extra-firm/firm/semi-firm), length(6-12/13-18/19-36인치), 초보=medium smooth. 길이·강도 교차확인" },
+    { "url": "https://www.runnersneed.com/expert-advice/gear-guides/how-to-choose-the-best-foam-roller.html", "opened": true, "note": "영문 가이드 — smooth=초보 권장, textured=숙련자 깊은 자극, soft/medium/firm, long 36in 초보 안정, vibrating=고급 회복·워밍업. 진동 폼롤러 용도 근거" },
+    { "url": "https://ausports.co.kr/article/사용후기/4/1514/", "opened": true, "note": "앤드어스 EPP 45/60/90cm 단일 제품 후기 — 얇은 내용, 크기 라인업만 참고" },
+    { "url": "https://ohou.se/advices/5074", "opened": false, "note": "오늘의집 '하나만 산다면' — 403 차단. 검색 요약(원형=마사지+운동, 반원형=지압, 지름 15cm 표준, 초보 EVA 민무늬)만 참고" },
+    { "url": "https://plan.danawa.com/info/?nPlanSeq=5360", "opened": false, "note": "다나와 선택법 인포그래픽 — 타임아웃. 미열람" }
+  ],
+  "serp_summary": {
+    "intent": "추천 순위/목록 — 폼롤러 뭘 살지 고르려는 구매의도",
+    "common_must": ["소재(EVA·EPP) 차이", "표면(민무늬·돌기)", "강도(소프트/미디엄/하드)", "길이(30/45/60/90cm)", "초보 추천", "가격대"],
+    "gap": "상위글이 브랜드 제품을 1~7위로 줄세우지만(가격 변동에 취약) '내 목적별 1순위'는 안 줌. 용도별(입문·휴대·지압·전신·회복) 랭킹 + 판단근거 명시 + 가격 헤지가 차별점. 기존 자사 '고르는 법' 글과는 buying-guide vs use-case-ranking으로 역할 분리",
+    "our_angle": "브랜드 줄세우기 대신 용도별 1순위 랭킹 + 비교표 + 색상=강도 팁 + 살때 실수 + 기존 고르는법 글로 클러스터 연결"
+  },
+  "factcheck": [
+    { "claim": "소재 강도 순서 EVA(부드러움·저가·변형) < EPP(단단·내구·입자탈락) < 코르크(더 강함·숙련자)", "sources": ["https://a-ha.io/questions/43a92a7efa912d978c91fc63f140ee59", "https://brunch.co.kr/@whitecrow105/27"] },
+    { "claim": "입문 권장=민무늬(smooth)+미디엄 강도+표준~긴 길이. 돌기(textured)는 숙련자 깊은 자극용, 초보엔 과할 수 있음", "sources": ["https://www.runnersneed.com/expert-advice/gear-guides/how-to-choose-the-best-foam-roller.html", "https://www.gaiam.com/pages/which-foam-roller-is-right-for-you", "https://notegym.com/foam-roller-selection-length-firmness-beginners/"] },
+    { "claim": "길이 30~45cm=휴대·부위집중, 90cm(36인치급)=전신·안정·활용도 최고(초보 안정)", "sources": ["https://notegym.com/foam-roller-selection-length-firmness-beginners/", "https://www.gaiam.com/pages/which-foam-roller-is-right-for-you", "https://brunch.co.kr/@whitecrow105/27"] },
+    { "claim": "진동(전동) 폼롤러는 고급 회복·워밍업용, 일반보다 고가(대체로 수만~십만원대)라 첫 구매 비권장", "sources": ["https://www.runnersneed.com/expert-advice/gear-guides/how-to-choose-the-best-foam-roller.html", "https://reviewpro.co.kr/best-foamroller/ (가격대 교차)"] },
+    { "claim": "색상이 강도 힌트가 되기도 함(흰색 부드러움·검정 단단·파랑/빨강 중간) — 절대규칙 아님, 상세페이지 확인", "sources": ["영문 검색 종합(REI/Gaiam density-color hint)", "runnersneed/gaiam density 서술 교차"] }
+  ],
+  "variables": {
+    "keyword": "폼롤러 추천 순위",
+    "cluster": ["폼롤러 추천", "입문 폼롤러", "폼롤러 종류", "돌기 폼롤러", "진동 폼롤러", "EVA 폼롤러", "EPP 폼롤러", "폼롤러 길이", "폼롤러 강도", "홈트레이닝 용품"],
+    "headline_finding": "상위글은 브랜드 1~7위 줄세우기(가격 변동 취약) — 용도별 1순위 랭킹으로 재구성한 게 정보 게인",
+    "decision_tools": "용도별 추천 순위 비교표 + 색상=강도 팁 + 살때 실수 체크",
+    "first_person_hook": "순위표마다 제품 달라 헤맨 리서치 경험 + 센 걸 사야 하는 줄 안 오해",
+    "primary_source": "국내 추천글 가격대 + 영문 피트니스 가이드(density/texture/length) 교차. 가격은 '대략 가격대·구매페이지 확인'으로 헤지",
+    "ymyl_note": "제품 선택만 다룸. 효능·의학 조언 배제, '하면 안 되는 부위'는 단정 대신 고르는법 글 링크+무리하지 말라로 처리"
+  },
+  "hermes_score": 93
+}
