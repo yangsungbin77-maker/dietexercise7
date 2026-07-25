@@ -1,0 +1,7 @@
+[
+  { "pattern": "덤벨|케틀벨|푸쉬업|폼롤러|밴드|매트|기구|바벨|철봉|마사지", "file": "banner-01-homegym.png" },
+  { "pattern": "앱|식단|칼로리|매크로|기록", "file": "banner-02-app.png" },
+  { "pattern": "워치|웨어러블|스마트|심박", "file": "banner-03-wearable.png" },
+  { "pattern": "러닝머신|트레드밀|실내자전거|유산소|사이클", "file": "banner-05-treadmill.png" },
+  { "pattern": "홈트|루틴|운동 ?공간|스트레칭", "file": "banner-04-workout-space.png" }
+]
