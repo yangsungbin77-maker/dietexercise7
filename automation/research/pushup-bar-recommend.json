@@ -1,0 +1,38 @@
+{
+  "type": "recommendation",
+  "serp": [
+    { "url": "https://www.gdgrip.co.kr/blogPost/untitled-19", "opened": true, "note": "푸쉬업바 손목보호 원리(손 바닥 대면 90도 꺾임→중립그립 완화)+선택기준(실리콘 그립·결합식 내구·미끄럼방지). 팔굽혀펴기 체중 60~70% 부하 언급" },
+    { "url": "http://lifeblog.co.kr/5764/팔굽혀펴기-푸쉬업바-추천-순위-top-20/", "opened": true, "note": "TOP20 — 종류(표준·회전·우드·멀티·접이식) 제품 예시, 손목보호·안정성 강조. 가격대 교차용" },
+    { "url": "https://topten-blog.com/articles/푸쉬업-바-추천", "opened": true, "note": "TOP5 가격대(코멧 7,990·레토 14,100·바디공식 19,800·멀티 25,900·세트 31,190)+선택기준 3(그립·안정성/내구·휴대성). 가격대 헤지 근거" },
+    { "url": "https://www.physioroom.com/info/benefits-of-rotating-push-up-handles/", "opened": true, "note": "회전형 이점 — 자연스러운 손목 방향·손목부담↓, 삼각근·전거근·복사근·안정근 동원↑. 초보는 수정동작·통제된 움직임 권고" },
+    { "url": "https://chiliguides.com/guides/guide-to-buying-push-up-bars/", "opened": true, "note": "구매가이드 — 종류(플라스틱/금속/원판=가장 안정·고가), 기준(높이=가동범위·안정성·그립패딩·체중여유). 원판형 안정성 근거" },
+    { "url": "https://www.physioroom.com/info/how-to-use-push-up-bars/", "opened": true, "note": "사용법 — 손 위치 어깨너비·일자 유지·팔꿈치 몸쪽, 초보 5~10회, 팔꿈치 벌어짐·엉덩이 처짐 주의. 가동범위·손목 이점 재확인" },
+    { "url": "https://theworkoutdigest.com/push-bars-benefits-beat-regular-pushups/", "opened": true, "note": "핵심 균형 관점 — 바 사용 시 가동범위·대흉근 동원↑, 중립 손목. 단점=손목이 가슴·삼두보다 먼저 지침, 어깨 부담은 맨손이 오히려 적음. 절충='앞부분 바→손목 지치면 맨손'. 정보게인 근거" },
+    { "url": "https://brunch.co.kr/@whtdrgon/188", "opened": true, "note": "푸쉬업바 무관(게임 기획서 가이드)로 확인 — 오검색, 제외" },
+    { "url": "https://namu.wiki/w/팔굽혀펴기", "opened": false, "note": "나무위키 팔굽혀펴기 — 클라우드플레어 차단 추정, 미열람. 위 출처들로 대체" },
+    { "url": "https://prod.danawa.com/info/?pcode=15327851", "opened": false, "note": "다나와 각도 푸쉬업바 상세 — 타임아웃, 미열람" }
+  ],
+  "serp_summary": {
+    "intent": "추천/구매 — 푸쉬업바 뭘 살지",
+    "common_must": ["종류(표준·회전·멀티 등)", "손목 보호 원리", "선택 기준(안정성·그립)", "가격대", "제품 순위"],
+    "gap": "국내 상위는 대부분 제품 TOP-N 가격 나열. 회전형 vs 고정형을 균형있게(회전=손목자유·가동범위 / 고정=아이소메트릭 텐션·안정) 정리하고, '손목이 먼저 지치는' 함정과 절충법을 준 글이 드묾. 이게 차별점",
+    "our_angle": "종류 정리 + 회전형vs고정형 결정 + 4대 선택기준 + 손목 함정·절충법 + 가격 헤지. 브랜드 줄세우기 대신 유형·기준 중심"
+  },
+  "factcheck": [
+    { "claim": "푸쉬업바는 손 바닥 접촉 시 생기는 손목 90도 꺾임을 중립 그립으로 완화, 가동범위를 높여 더 깊은 스트레치·가슴 자극 증가", "sources": ["https://www.gdgrip.co.kr/blogPost/untitled-19", "https://theworkoutdigest.com/push-bars-benefits-beat-regular-pushups/", "https://www.physioroom.com/info/how-to-use-push-up-bars/"] },
+    { "claim": "회전형=손목 회전 허용·안정근 동원↑이나 일부는 아이소메트릭 텐션 손실 주장, 고정형=안정적·버팀 텐션 유지 좋음. 절대 우위 없음", "sources": ["https://www.physioroom.com/info/benefits-of-rotating-push-up-handles/", "https://theworkoutdigest.com/push-bars-benefits-beat-regular-pushups/"] },
+    { "claim": "종류/재질 — 표준(고정)·원판(디스크, 바닥 넓어 가장 안정·고가)·회전·멀티·접이/우드, 플라스틱<금속<원판 순 안정성", "sources": ["https://chiliguides.com/guides/guide-to-buying-push-up-bars/", "http://lifeblog.co.kr/5764/"] },
+    { "claim": "단점/주의 — 바는 가동범위가 넓어 손목이 가슴·삼두보다 먼저 지칠 수 있음, 초보 5~10회부터·팔꿈치 벌어짐/엉덩이 처짐 금지", "sources": ["https://theworkoutdigest.com/push-bars-benefits-beat-regular-pushups/", "https://www.physioroom.com/info/how-to-use-push-up-bars/"] },
+    { "claim": "가격대 대략 — 표준 몇천원대, 멀티·3중받침 1~2만원대, 우드·원판 고급형 4~5만원대(시기·세트 구성 따라 변동)", "sources": ["https://topten-blog.com/articles/푸쉬업-바-추천", "http://lifeblog.co.kr/5764/"] }
+  ],
+  "variables": {
+    "keyword": "푸쉬업바 추천",
+    "cluster": ["푸쉬업바", "회전형 푸쉬업바", "고정형 푸쉬업바", "팔굽혀펴기 기구", "푸쉬업바 종류", "원판 푸쉬업바", "멀티 푸쉬업바", "손목 보호", "홈트레이닝 용품", "가슴 운동"],
+    "headline_finding": "상위는 제품 가격 나열 — 회전형vs고정형 균형 판단 + 손목이 먼저 지치는 함정·절충법이 정보 게인",
+    "decision_tools": "종류 비교표 + 4대 선택기준 + 회전/고정 결정 팁 + 한눈 정리표",
+    "first_person_hook": "회전형 무조건 좋다는 글과 반대 글이 섞여 헤맨 리서치 경험 + 비싼 다기능이 좋은 줄 안 오해",
+    "primary_source": "physioroom·theworkoutdigest(회전/가동범위·손목) + 국내 가격대 교차. 가격은 '대략·시기 따라 다름·구매페이지 확인' 헤지",
+    "ymyl_note": "제품 선택만 다룸. 손목 통증·효과는 단정 배제('사람마다 다름·무리하지 말고 본인 상태에 맞춰'), 의학 조언 없음"
+  },
+  "hermes_score": 95
+}
