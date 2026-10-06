@@ -11,6 +11,7 @@ const today = new Date();
 			<a href="/about">소개</a>
 			<a href="/author">운영자 소개</a>
 			<a href="/privacy">개인정보처리방침</a>
+			<a href="/health-disclaimer">건강 정보 안내</a>
 			<a href="/contact">문의하기</a>
 			<a href="/rss.xml">RSS</a>
 		</nav>
@@ -49,7 +50,7 @@ const today = new Date();
 		color: #1a1512;
 	}
 	.logo { }
-	.links { display: flex; gap: 1.2rem; }
+	.links { display: flex; flex-wrap: wrap; gap: 0.6rem 1.2rem; }
 	.links a {
 		color: var(--text-muted);
 		font-weight: 600;

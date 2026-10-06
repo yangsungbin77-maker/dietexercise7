@@ -30,6 +30,6 @@ while ((fm = faqRe.exec(post.body ?? '')) !== null) {
 }
 ---
 
-<BlogPost {...post.data} faq={faq} headings={headings}>
+<BlogPost {...post.data} faq={faq} headings={headings} isPost>
 	<Content />
 </BlogPost>
