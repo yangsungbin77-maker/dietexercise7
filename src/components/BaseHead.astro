@@ -16,6 +16,8 @@ interface Props {
 	publishedTime?: Date;
 	modifiedTime?: Date;
 	faq?: { q: string; a: string }[];
+	noAds?: boolean;
+	noindex?: boolean;
 }
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -27,6 +29,8 @@ const {
 	publishedTime,
 	modifiedTime,
 	faq = [],
+	noAds = false,
+	noindex = false,
 } = Astro.props;
 const imageURL = new URL(image.src, Astro.site);
 
@@ -93,7 +97,7 @@ if (type === 'article') {
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <!-- Google AdSense — consts.ts의 ADSENSE_CLIENT를 이 도메인 승인 후 채운다 -->
-{ADSENSE_CLIENT && (
+{ADSENSE_CLIENT && !noAds && (
 	<script async src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}`} crossorigin="anonymous" is:inline></script>
 )}
 <!-- Google Analytics 4 (gtag.js) -->
@@ -120,8 +124,8 @@ if (type === 'article') {
 
 <Font cssVariable="--font-atkinson" preload />
 
-<!-- Canonical URL -->
-<link rel="canonical" href={canonicalURL} />
+<!-- Canonical URL (오류 페이지는 noindex) -->
+{noindex ? <meta name="robots" content="noindex" /> : <link rel="canonical" href={canonicalURL} />}
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
