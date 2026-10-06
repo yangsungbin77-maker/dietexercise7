@@ -30,6 +30,10 @@ const rest = posts.slice(1, 7);
 					<a href="/blog" class="btn">리뷰 둘러보기</a>
 					<a href="/about" class="btn-ghost btn">소개</a>
 				</div>
+				<p class="start">
+					처음이라면 <a href="/home-workout-beginner-gear/">홈트 입문 기구, 살 순서</a> ·
+					<a href="/diet-meal-plan-app/">식단 기록 앱 비교</a>부터 읽어 보세요.
+				</p>
 			</section>
 
 			{
@@ -106,6 +110,12 @@ const rest = posts.slice(1, 7);
 		max-width: 38ch;
 		margin-bottom: 1.6rem;
 	}
+	.start {
+		margin: 1.2rem 0 0;
+		color: var(--text-muted);
+		font-size: 0.95rem;
+	}
+	.start a { text-decoration: underline; text-underline-offset: 3px; }
 	.hero-actions {
 		display: flex;
 		gap: 0.8rem;
