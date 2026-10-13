@@ -1,0 +1,204 @@
+{
+  "type": "guide",
+  "keyword": "다이어트 땅콩버터",
+  "note": "dietexercise7(핏기어). 비YMYL 라벨 읽기·구매 가이드로 프레이밍. 루트=다이어트 땅콩버터(네이버 자동완성에 성분·100%·칼로리·추천이 붙어 구매·라벨 의도가 가장 선명). '땅콩버터 다이어트'는 자동완성이 효과·방법·식단 쪽이라 건강 효능 의도가 강해 클러스터로 내림. '땅콩버터 고르는법'은 자동완성 꼬리가 없어 수요 약함 → 클러스터. 구성=오해바로잡기(오해 5개 → 사실 확인 → 라벨표·환산법·계량). 효능 단정 없음, 연구는 헤지. 1인칭은 리서치 과정만. 이미지: fal 잔액 소진(User is locked, Exhausted balance)으로 AI 생성 불가 → Wikimedia Commons CC BY 사진 2장 크롭+출처 표기.",
+  "keyword_filter": {
+    "keyword": "다이어트 땅콩버터",
+    "competition": {
+      "method": "serp-scan(네이버 블로그 탭·구글)",
+      "evidence": "네이버 블로그 탭 '다이어트 땅콩버터' 상위 30개가 전부 개인 블로그(pine-edition, shoppingpickkr, caruna1, storyofyunsl, 1biteping 등)와 쇼핑커넥트 후기이고 공식기관·대형 언론 없음. 구글은 하퍼스바자·얼루어·코메디 기사와 지니어트 리뷰가 섞인 수준으로 신생 블로그 진입 가능 신호",
+      "pass": true
+    },
+    "demand": {
+      "method": "autocomplete(구글·네이버, 2026-10-13 실측)",
+      "evidence": "네이버 자동완성 '다이어트 땅콩버터' → 추천·먹는법·칼로리·효능·사과·성분·100%·샌드위치. 구글 → 다이어트 땅콩버터 추천/디시/더쿠/쿠키. '땅콩버터' 자체 자동완성에도 땅콩버터 다이어트·100%·칼로리 노출. '땅콩버터 1큰술' → 칼로리·무게·몇g, '땅콩버터 하루' → 섭취량·권장량",
+      "pass": true
+    },
+    "intent": {
+      "method": "serp-scan",
+      "evidence": "상위가 '다이어트 땅콩버터 고르는 법·원재료명 확인·1회 섭취량' 정보성 블로그 위주(shoppingpickkr 선택 기준 2가지, caruna1 고르는 법 5단계, 1biteping 성분표 확인). 하단에 브랜드 광고가 있으나 블로그 탭이 다수라 정보성 라벨 가이드로 충족 가능",
+      "pass": true
+    }
+  },
+  "cluster": [
+    "다이어트 땅콩버터",
+    "땅콩버터 다이어트",
+    "다이어트 땅콩버터 추천",
+    "땅콩버터 고르는법",
+    "땅콩버터 칼로리",
+    "땅콩버터 1큰술 칼로리",
+    "땅콩버터 1큰술 몇g",
+    "땅콩 100% 땅콩버터",
+    "무가당 땅콩버터",
+    "땅콩버터 하루 섭취량",
+    "다이어트 땅콩버터 성분",
+    "팜유 땅콩버터"
+  ],
+  "serp": [
+    {
+      "url": "https://m.blog.naver.com/pine-edition/224432239581",
+      "opened": true,
+      "note": "원재료명 첫 번째가 땅콩인지, 첨가당·열대성 기름 확인, 100g 기준인지 1회 제공량 기준인지 같은 기준으로 비교 언급. 약점=실제 환산 계산 예시·수치 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/shoppingpickkr/224438571342",
+      "opened": true,
+      "note": "선택 기준 2가지(땅콩 99%+, 경화유·유화제 없음→오일 분리), 15~30g. 약점=혈당 효능 단정, 브랜드 나열"
+    },
+    {
+      "url": "https://m.blog.naver.com/caruna1/224428351182",
+      "opened": true,
+      "note": "고르는 순서 5단계(함량→첨가당→첨가물→하이올레익→영양정보), 단백질 비교 일반화 경고. 쇼핑커넥트. 약점=칼로리·지방 비중 계산 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/storyofyunsl/224411505145",
+      "opened": true,
+      "note": "하버드 공중보건대학원 인용, 알레르기·당뇨·나트륨 주의. 약점=수치·라벨 유형 비교표 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/hipgirl04/224426010080",
+      "opened": true,
+      "note": "트렌드·꿀조합 위주, 오일 분리 설명. 효능 과장, 수치 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/1biteping/224435288816",
+      "opened": true,
+      "note": "첨가물·1회 제공량·탄수화물 5g 이하 팁, 보관·산패·알레르기. 약점=근거 출처 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/seojijunga3783/224399572954",
+      "opened": true,
+      "note": "레시피 4종, 10~15g 덜어 먹기. 고르는 법은 짧음"
+    },
+    {
+      "url": "https://m.blog.naver.com/opps1981/224412498217",
+      "opened": true,
+      "note": "한의원 블로그. 100g 칼로리보다 실제 g이 중요, 1~2스푼. 수치 근거 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/hjs8942/224388522637",
+      "opened": true,
+      "note": "칼로리·포만감 표(100g 590kcal 안팎, 단백질 20g대), 조합 주의. 약점=저지방 제품·라벨 유형 비교 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/austinmmk/224430159915",
+      "opened": true,
+      "note": "USDA 1큰술 16g 90~95kcal 인용, 무첨가 vs 가공 스프레드 비교표, 보관법. 약점=혈당 효능 단정, 쇼핑 링크"
+    },
+    {
+      "url": "https://m.blog.naver.com/jung71999/224369210854",
+      "opened": true,
+      "note": "사과 땅콩버터 효능 5가지(과장·단정 다수), 15~30g. 라벨 읽기 거의 없음"
+    },
+    {
+      "url": "https://www.harpersbazaar.co.kr/article/65118",
+      "opened": false,
+      "note": "구글 상위 매체 기사, 스니펫만 확인(가염 2큰술 204kcal USDA 인용)"
+    }
+  ],
+  "factcheck": [
+    {
+      "claim": "무염 땅콩버터 100g당 598kcal·단백질 22.2g·지방 51.4g·탄수화물 22.3g, 2큰술=32g(1큰술 16g) → 1큰술 약 96kcal·단백질 3.6g·지방 8.2g",
+      "sources": [
+        "USDA FoodData Central API fdcId 172470 'Peanut butter, smooth style, without salt' (foodPortions: 2 tbsp = 32 g)",
+        "https://m.blog.naver.com/austinmmk/224430159915 (USDA 기준 1큰술 약 16g 90~95kcal)",
+        "https://m.blog.naver.com/hjs8942/224388522637 (100g당 약 590kcal 안팎, 단백질 20g대)"
+      ]
+    },
+    {
+      "claim": "열량 비중 지방 약 77%(51.4g×9/598), 단백질 약 15%(22.2g×4/598) — 단백질보다 지방 식품에 가까움",
+      "sources": [
+        "USDA FoodData Central fdcId 172470 수치로 직접 계산",
+        "https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/ (견과류는 energy dense food)",
+        "https://m.blog.naver.com/caruna1/224428351182 (단백질만 보고 닭가슴살 대신 많이 먹는 건 부적절)"
+      ]
+    },
+    {
+      "claim": "저지방 땅콩버터는 100g당 520kcal로 일반(598) 대비 약 13% 낮을 뿐, 탄수화물 35.6g으로 일반 22.3g의 1.6배. 저지방 제품은 당류가 더 많은 경우가 흔함",
+      "sources": [
+        "USDA FoodData Central fdcId 172458 'Peanut butter, smooth, reduced fat' vs 172470",
+        "https://dailyherald.com/?p=941894 (영양사 칼럼: reduced-fat은 칼로리가 낮지 않고 당이 더 많은 경우 흔함)",
+        "https://thetakeout.com/regular-peanut-butter-vs-reduced-fat-jif-difference-1850269699 (저지방판 탄수화물 거의 2배)"
+      ]
+    },
+    {
+      "claim": "견과류 섭취와 체중 증가 사이 뚜렷한 연관이 관찰 연구에서 보고되지 않음 — EPIC-PANACEA(약 37만 명, 10개국, 5년) 고섭취군 체중 변화 -0.07kg, 인과 아님",
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/28733927/ (Freisling et al., Eur J Nutr 2018)",
+        "https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/ ('there is no scientific evidence supporting the associations between weight gain and nut consumption')"
+      ]
+    },
+    {
+      "claim": "오일 분리는 유화제·식물성 유지(팜유·경화유)를 넣지 않은 제품의 자연 현상이며, 분리 안 되는 제품은 유지·유화제를 넣은 경우가 많음",
+      "sources": [
+        "https://m.blog.naver.com/shoppingpickkr/224438571342",
+        "https://m.blog.naver.com/austinmmk/224430159915",
+        "https://m.blog.naver.com/pine-edition/224432239581"
+      ]
+    },
+    {
+      "claim": "영양정보는 100g 기준·1회 제공량 기준 등 제품마다 기준이 달라 같은 기준으로 비교해야 함",
+      "sources": [
+        "https://m.blog.naver.com/pine-edition/224432239581",
+        "https://m.blog.naver.com/1biteping/224435288816",
+        "https://m.blog.naver.com/caruna1/224428351182"
+      ]
+    },
+    {
+      "claim": "땅콩은 주요 알레르기 유발 식품으로 알레르기가 있으면 소량도 피해야 함",
+      "sources": [
+        "https://m.blog.naver.com/storyofyunsl/224411505145",
+        "https://m.blog.naver.com/1biteping/224435288816"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "다이어트 땅콩버터",
+    "headline_finding": "무염 땅콩버터 1큰술(16g) 약 96kcal, 열량의 약 77%가 지방 → 단백질 식품이 아니라 지방 식품, 고르는 기준은 원재료명 길이와 1회 양",
+    "usda_per_tbsp": "16g당 96kcal·단백질 3.6g·지방 8.2g (USDA 172470, 598kcal/100g)",
+    "reduced_fat_trap": "저지방 520kcal vs 일반 598kcal(-13%, 1큰술 약 12kcal 차이), 탄수화물 35.6g vs 22.3g(1.6배)",
+    "label_type_matrix": "땅콩100%/땅콩+소금/가당/팜유·유화제/저지방 5유형 × 원재료 예시·특징·고를지 (판단 근거 박스 명시)",
+    "conversion_formula": "표시 열량 ÷ 기준 g × 먹을 g — 가상 예시 A 20g당 120kcal vs B 100g당 610kcal → 16g 기준 96 vs 약 98kcal",
+    "epic_panacea": "약 37만 명·5년 추적, 고섭취군 체중 변화 -0.07kg(인과 아님)"
+  },
+  "structure": "오해바로잡기",
+  "gaps": [
+    {
+      "gap": "상위 10개 중 저지방 땅콩버터의 칼로리·탄수화물을 일반 제품과 USDA 수치로 비교한 글이 없음",
+      "covered_in": "저지방 땅콩버터가 다이어트용으로 더 나을까요?"
+    },
+    {
+      "gap": "100g 기준과 1회 제공량 기준이 섞인 영양정보를 같은 g으로 환산하는 공식과 계산 예시를 준 글이 없음(같은 기준으로 비교하라는 말뿐)",
+      "covered_in": "100g 기준과 1회 제공량, 같은 기준으로 바꿔 비교하는 법"
+    },
+    {
+      "gap": "땅콩 100%·땅콩+소금·가당·팜유 첨가·저지방 라벨 유형을 원재료 예시와 함께 한 표로 비교한 글이 없음",
+      "covered_in": "라벨 유형별 비교 — 땅콩 100%·땅콩+소금·가당·팜유 첨가"
+    },
+    {
+      "gap": "열량 중 지방·단백질 비중(77%/15%)을 계산해 고단백 식품 오해를 수치로 정리한 글이 없음",
+      "covered_in": "땅콩버터는 단백질 식품일까요?"
+    }
+  ],
+  "quote": {
+    "text": "usually peanut butter is consumed with unhealthy foods, such as white bread or other processed foods",
+    "source": "https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/ (Harvard T.H. Chan School of Public Health, The Nutrition Source)"
+  },
+  "external_link": "https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/ (curl 200). USDA FDC 상세 페이지는 curl 404라 링크 대신 출처명으로만 표기",
+  "internal_links": [
+    "/diet-calorie-calculation/",
+    "/protein-powder-guide/"
+  ],
+  "images": {
+    "count": 2,
+    "files": [
+      "peanut-butter-diet-guide.webp (hero, 16:9 crop) — Wikimedia Commons 'Peanut Butter (7104016311).jpg' ⓒ Denise Krebs, CC BY 2.0",
+      "peanut-butter-diet-guide-label.webp (body, 1:1 crop, 배경 인물 잘라냄) — Wikimedia Commons 'Peanut butter glass.jpg' ⓒ Shisma, CC BY 4.0"
+    ],
+    "generator": "fal 잔액 소진으로 AI 생성 실패(automation/_gen_imgs_peanut-butter.py 작성됨, 충전 후 재실행 가능) → Commons 자유 라이선스 사진 사용, 본문 끝 출처 표기"
+  },
+  "hermes_score": 91,
+  "score_history": [
+    91
+  ]
+}

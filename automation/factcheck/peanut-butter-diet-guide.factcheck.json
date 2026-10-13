@@ -1,0 +1,514 @@
+{
+  "file": "peanut-butter-diet-guide.md",
+  "checked_at": "2026-10-13T21:48:14",
+  "as_of": "2026-10",
+  "language": "Korean",
+  "counts": {
+    "supported": 22,
+    "contradicted": 0,
+    "outdated": 0,
+    "overstated": 0,
+    "unverifiable": 2
+  },
+  "blocking": 0,
+  "seconds": 116.9,
+  "cost": {
+    "model": "claude-opus-5-5",
+    "api_calls": 12,
+    "input_tokens": 362417,
+    "output_tokens": 16690,
+    "web_searches": 22,
+    "web_fetches": 6,
+    "estimated_usd": 2.003
+  },
+  "results": [
+    {
+      "line": 10,
+      "group": "USDA peanut butter nutrition",
+      "claim": "According to USDA FoodData Central, unsalted peanut butter contains 598 kcal per 100 g.",
+      "quote": "무염 땅콩버터는 100g당 598kcal",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA SR Legacy 'Peanut butter, smooth style, without salt'(FDC 172470) 항목은 100g당 598kcal로 표기되어 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://ndb.nal.usda.gov/ndb/foods/show/16398",
+          "quote": "Energy | kcal | 598 | 191 | 1543"
+        },
+        {
+          "url": "https://www.wtfgyms.com/nutrition/peanut-butter",
+          "quote": "Per 100 g, unsalted smooth peanut butter has 598 kcal and 22.2 g protein."
+        }
+      ]
+    },
+    {
+      "line": 10,
+      "group": "USDA peanut butter nutrition",
+      "claim": "One measuring tablespoon (16 g) of unsalted peanut butter contains about 96 kcal per USDA data.",
+      "quote": "계량스푼 1큰술(16g)이면 약 96kcal입니다(USDA 기준)",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 기준 2큰술(32g)이 191kcal이므로 1큰술(16g)은 약 95.7kcal, 즉 약 96kcal가 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://ndb.nal.usda.gov/ndb/foods/show/16398",
+          "quote": "Energy | kcal | 598 | 191"
+        }
+      ]
+    },
+    {
+      "line": 10,
+      "group": "USDA peanut butter nutrition",
+      "claim": "About 77% of the calories in peanut butter come from fat.",
+      "quote": "열량의 약 77%가 지방에서 나와서",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "지방 51.36g×9kcal를 598kcal로 나누면 약 77%이며, USDA 데이터를 기반으로 한 영양 데이터베이스에서도 77%로 나옵니다. 다만 USDA의 식품별 환산계수를 쓰면 약 72%로 계산되기도 합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://nutrifox.com/nutrition/peanut-butter-smooth-style-without-salt",
+          "quote": "The calorie breakdown is 77% fat, 15% carbs, and 15% protein."
+        }
+      ]
+    },
+    {
+      "line": 14,
+      "group": "USDA peanut butter nutrition",
+      "claim": "USDA FoodData Central's unsalted peanut butter entry uses 2 tablespoons = 32 g as a serving.",
+      "quote": "2큰술을 32g으로 잡고 있어요",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 항목의 기준 분량이 32g(2큰술)으로 되어 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://tools.myfooddata.com/nutrition-facts/172470/wt1",
+          "quote": "Nutrition Facts: 2 tbsp ( 32g )"
+        },
+        {
+          "url": "https://nutrifox.com/nutrition/peanut-butter-smooth-style-without-salt",
+          "quote": "There are 191 calories in a 2 tbsp (32.000g) serving size"
+        }
+      ]
+    },
+    {
+      "line": 16,
+      "group": "USDA peanut butter nutrition",
+      "claim": "Two tablespoons (32 g) of unsalted peanut butter contain about 191 kcal.",
+      "quote": "2큰술(32g)만 떠도 약 191kcal가 되고",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 데이터에 따르면 32g당 191kcal입니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://ndb.nal.usda.gov/ndb/foods/show/16398",
+          "quote": "Energy | kcal | 598 | 191 | 1543"
+        }
+      ]
+    },
+    {
+      "line": 22,
+      "group": "USDA peanut butter nutrition",
+      "claim": "Per USDA data, 1 tablespoon (16 g) of peanut butter contains about 3.6 g protein and 8.2 g fat.",
+      "quote": "1큰술(16g)에는 단백질 약 3.6g, 지방 약 8.2g이 들어 있어요",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA SR Legacy의 '무염 스무스 땅콩버터'(fdcId 172470)는 100g당 단백질 22.21g, 지방 51.36g이에요. 16g으로 환산하면 단백질 약 3.55g, 지방 약 8.2g이라 주장과 일치해요.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://ndb.nal.usda.gov/ndb/foods/show/16398",
+          "quote": "Protein | g | 22.21 | 7.11 ... Total lipid (fat) | g | 51.36 | 16.44 (per 100 g | tbsp 32 g)"
+        },
+        {
+          "url": "https://www.wtfgyms.com/nutrition/peanut-butter",
+          "quote": "USDA FoodData Central, SR Legacy, fdcId 172470: Peanut butter, smooth style, without salt"
+        }
+      ]
+    },
+    {
+      "line": 24,
+      "group": "USDA peanut butter nutrition",
+      "claim": "Protein accounts for about 15% of peanut butter's calories.",
+      "quote": "단백질은 약 15%였어요",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 값(598kcal, 단백질 22.21g)으로 계산하면 22.21×4÷598 ≈ 14.9%라서 약 15%가 맞아요. 다른 USDA 항목(단백질 25.09g, 588kcal)을 쓰면 약 16~17%가 나오지만, '약 15%'는 무리 없는 표현이에요.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.recipal.com/ingredients/4846-nutrition-facts-calories-protein-carbs-fat-peanut-butter-smooth-style-without-salt",
+          "quote": "Per 100 grams: 598.0 calories, 51.36g fat, 22.31g carbohydrate, 22.21g protein."
+        }
+      ]
+    },
+    {
+      "line": 24,
+      "group": "USDA peanut butter nutrition",
+      "claim": "Unsalted peanut butter contains 22.2 g protein per 100 g per USDA.",
+      "quote": "100g당 단백질 22.2g",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA FoodData Central의 무염 스무스 땅콩버터 항목에 100g당 단백질 22.21g으로 나와 있어요.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.wtfgyms.com/nutrition/peanut-butter",
+          "quote": "Per 100 g, unsalted smooth peanut butter has 598 kcal and 22.2 g protein."
+        },
+        {
+          "url": "https://ndb.nal.usda.gov/ndb/foods/show/16398",
+          "quote": "Protein | g | 22.21"
+        }
+      ]
+    },
+    {
+      "line": 30,
+      "group": "USDA reduced-fat peanut butter",
+      "claim": "Per USDA, reduced-fat peanut butter has 520 kcal per 100 g, about 13% lower than regular unsalted peanut butter (598 kcal).",
+      "quote": "저지방 땅콩버터는 100g당 520kcal로 일반 무염 제품(598kcal)보다 약 13% 낮을 뿐",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA SR Legacy 데이터에서 저지방 스무스 땅콩버터는 100g당 520kcal, 무염 스무스 땅콩버터는 598kcal로 나옵니다. 차이는 약 13%(78kcal)여서 글의 내용과 일치합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://bodypalapp.com/en-us/calories/peanut-butter/",
+          "quote": "Smooth, without salt | 598 kcal ... Reduced fat | 520 kcal"
+        },
+        {
+          "url": "https://www.recipal.com/ingredients/4846-nutrition-facts-calories-protein-carbs-fat-peanut-butter-smooth-style-without-salt",
+          "quote": "Per 100 grams: 598.0 calories, 51.36g fat, 22.31g carbohydrate"
+        }
+      ]
+    },
+    {
+      "line": 32,
+      "group": "USDA reduced-fat peanut butter",
+      "claim": "Per USDA, reduced-fat peanut butter has 35.6 g carbohydrate per 100 g versus 22.3 g in regular peanut butter, about 1.6 times as much.",
+      "quote": "저지방 제품의 탄수화물은 100g당 35.6g으로 일반 제품(22.3g)의 1.6배",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 데이터에서 탄수화물은 저지방 제품이 100g당 35.65g, 무염 일반 제품이 22.31g입니다. 비율은 약 1.6배로 글의 내용과 일치합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://bodypalapp.com/en-us/calories/peanut-butter/",
+          "quote": "Reduced fat | 520 kcal | 166 kcal | Carbohydrate 35.65 g per 100 g"
+        },
+        {
+          "url": "https://happyforks.com/food/peanut-butter/7409",
+          "quote": "smooth style · without salt ... Carbohydrates: 22.31 g"
+        }
+      ]
+    },
+    {
+      "line": 34,
+      "group": "USDA reduced-fat peanut butter",
+      "claim": "Per tablespoon, reduced-fat peanut butter is about 12 kcal lower than regular peanut butter.",
+      "quote": "1큰술로 환산하면 차이는 약 12kcal입니다",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "USDA 기준 2큰술(32g)은 무염 일반 제품이 191kcal, 저지방 제품이 166kcal로 25kcal 차이가 납니다. 1큰술(16g)로 환산하면 약 12~13kcal이므로 '약 12kcal'는 타당합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://bodypalapp.com/en-us/calories/peanut-butter/",
+          "quote": "Smooth, without salt | 598 kcal | 191 kcal ... Reduced fat | 520 kcal | 166 kcal"
+        }
+      ]
+    },
+    {
+      "line": 38,
+      "group": "Oil separation",
+      "claim": "Oil on top of peanut butter without emulsifiers or added vegetable oils is natural peanut oil separation, not spoilage; rancid or bitter taste indicates oxidation.",
+      "quote": "상한 게 아니라 땅콩에서 나온 오일이 분리된 것입니다.",
+      "kind": "other",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "안정제를 넣지 않은 천연 땅콩버터는 안정제가 없어서 원래 오일이 분리됩니다. 산패는 지질 과산화로 생기는 이취(off-flavour)로 판단한다는 연구 내용과도 일치합니다. 참고로 분리된 기름층이 공기와 닿으면 산화가 빨라질 수 있다는 점은 덧붙일 만합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711438/",
+          "quote": "Natural peanut butter is susceptible to oil separation due to absence of stabilizer."
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4711438/",
+          "quote": "Oil separation leads to lipid peroxidation of peanut butter which develops the off-flavour and results in rancidity."
+        }
+      ]
+    },
+    {
+      "line": 40,
+      "group": "Oil separation",
+      "claim": "Peanut butters that do not separate usually contain palm oil or other vegetable oils or emulsifiers.",
+      "quote": "분리되지 않는 제품은 대개 팜유 같은 식물성 유지나 유화제를 넣어 질감을 고정한 경우가 많아요",
+      "kind": "other",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "분리 방지용 안정제로 팜유와 경화 식물성 유지(HVO)를 쓴다는 연구가 있습니다. USDA도 '안정화된' 땅콩버터를 따로 구분하고 있어서 이 주장은 출처 내용과 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.researchgate.net/publication/227760406_Sensory_and_Physical_Properties_of_Peanut_Butter_Treated_with_Palm_Oil_and_Hydrogenated_Vegetable_Oil_to_Prevent_Oil_Separation",
+          "quote": "peanut butters stabilized with 0%, 1.5%, 2.0%, and 2.5% palm oil (PO) and hydrogenated vegetable oil (HVO)"
+        }
+      ]
+    },
+    {
+      "line": 50,
+      "group": "EPIC-PANACEA study",
+      "claim": "The EPIC-PANACEA study followed about 370,000 people in 10 European countries for 5 years.",
+      "quote": "유럽 10개국 약 37만 명을 5년간 추적한",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "논문 초록에 따르면 유럽 10개국 남녀 373,293명을 대상으로 5년간 체중 변화를 추적했으므로 '약 37만 명, 10개국, 5년'은 정확합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s00394-017-1513-0",
+          "quote": "This study includes 373,293 men and women, 25–70 years old, recruited between 1992 and 2000 from 10 European countries"
+        }
+      ]
+    },
+    {
+      "line": 50,
+      "group": "EPIC-PANACEA study",
+      "claim": "The EPIC-PANACEA nut consumption study was published in the European Journal of Nutrition in 2018 (PubMed 28733927).",
+      "quote": "(European Journal of Nutrition, 2018)",
+      "kind": "attribution",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "Freisling 등의 논문은 European Journal of Nutrition 57권(2018) 2399–2408쪽에 실렸고 PubMed 번호는 28733927입니다. 온라인 선공개는 2017년 7월이었지만 2018년 권호로 표기한 것은 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s00394-017-1513-0",
+          "quote": "Published: 21 July 2017 ... Volume 57, pages 2399–2408 (2018)"
+        }
+      ]
+    },
+    {
+      "line": 50,
+      "group": "EPIC-PANACEA study",
+      "claim": "In EPIC-PANACEA, the highest quartile of nut consumers gained less weight than non-consumers, with a difference of about 0.07 kg over 5 years.",
+      "quote": "차이는 5년간 약 0.07kg으로 매우 작았고",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "초록에 따르면 견과류 섭취 최상위 4분위군은 비섭취자보다 5년간 체중 증가가 0.07kg 적었습니다(95% CI −0.12~−0.02).",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://link.springer.com/article/10.1007/s00394-017-1513-0",
+          "quote": "Compared to non-consumers, subjects in the highest quartile of nut intake had less weight gain over 5 years (−0.07 kg; 95% CI −0.12 to −0.02)"
+        }
+      ]
+    },
+    {
+      "line": 52,
+      "group": "Harvard nuts page quote",
+      "claim": "Harvard T.H. Chan School of Public Health's Nutrition Source page on nuts states \"usually peanut butter is consumed with unhealthy foods, such as white bread or other processed foods\".",
+      "quote": "\"usually peanut butter is consumed with unhealthy foods, such as white bread or other processed foods\"",
+      "kind": "attribution",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "하버드 Nutrition Source의 'nuts-for-the-heart' 페이지에 해당 문구가 그대로 나옵니다. 다만 이 문장은 인터뷰에서 연구자 Marta Guasch-Ferré가 땅콩버터와 심혈관질환 사이에 유의한 연관성이 나오지 않은 이유를 추정하며 한 말로, 'We believe that one of the reasons...'로 시작하는 가설입니다. 그러니 하버드의 공식 단정처럼 쓰기보다는 연구자의 추정이라는 맥락을 함께 밝히는 편이 좋습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://nutritionsource.hsph.harvard.edu/nuts-for-the-heart/",
+          "quote": "We believe that one of the reasons why we didn't observe significant associations is because usually peanut butter is consumed with unhealthy foods, such as white bread or other processed foods with high amount of sugar."
+        }
+      ]
+    },
+    {
+      "line": 68,
+      "group": "Ingredient labeling rules",
+      "claim": "Korean ingredient lists generally list ingredients in descending order of quantity.",
+      "quote": "원재료명은 일반적으로 많이 들어간 원료부터 적습니다.",
+      "kind": "policy",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "식약처 「식품 등의 표시기준」 별지1은 모든 원재료명을 많이 사용한 순서에 따라 표시하도록 규정합니다. 다만 중량비율 2% 미만 원재료는 순서와 무관하게 표시할 수 있어서, 글에 쓴 '일반적으로'라는 표현이 정확합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.law.go.kr/flDownload.do?flSeq=133523939&flNm=%5B%EB%B3%84%EC%A7%80+1%5D+%ED%91%9C%EC%8B%9C%EC%82%AC%ED%95%AD%EB%B3%84+%EC%84%B8%EB%B6%80%ED%91%9C%EC%8B%9C%EA%B8%B0%EC%A4%80",
+          "quote": "사용한 모든 원재료명...을 많이 사용한 순서에 따라 표시하여야 한다. 다만, 중량비율로서 2% 미만인 나머지 원재료는...함량 순서에 따르지 아니하고 표시할 수 있다."
+        }
+      ]
+    },
+    {
+      "line": 74,
+      "group": "Serving conversion example",
+      "claim": "A product labeled 120 kcal per 20 g equals 96 kcal per 16 g, and 610 kcal per 100 g equals about 98 kcal per 16 g.",
+      "quote": "A는 96kcal, B는 약 98kcal가 돼요",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "단순 환산 계산으로 확인됩니다. 120÷20×16=96kcal이고, 610÷100×16=97.6kcal이라 약 98kcal가 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://m.blog.naver.com/austinmmk/224430159915",
+          "quote": "직접 계산: 120 kcal/20 g × 16 g = 96 kcal; 610 kcal/100 g × 16 g = 97.6 kcal ≈ 98 kcal"
+        }
+      ]
+    },
+    {
+      "line": 80,
+      "group": "Serving size",
+      "claim": "The US nutrition label serving size for peanut butter is 2 tablespoons (32 g).",
+      "quote": "미국 라벨의 1회 제공량인 2큰술(32g)",
+      "kind": "policy",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "FDA 기준(21 CFR 101.12)에서 땅콩버터 같은 견과·씨앗 버터의 기준 제공량(RACC)은 2큰술(32g)이고, 미국 라벨도 대부분 이 기준을 따릅니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.orbitaljump.com/food-formulation/blog/fda-serving-size-racc-rules",
+          "quote": "Peanut butter: Listed under \"Nut butters, seed butters\" (RACC = 32g / 2 tbsp)"
+        },
+        {
+          "url": "https://scaleforgrams.com/blog/peanut-butter-serving-size-is-2-tablespoons-or-32-grams-987b2869",
+          "quote": "It matches the FDA reference amount that sets the serving on the label, listed as 2 tablespoons."
+        }
+      ]
+    },
+    {
+      "line": 80,
+      "group": "Serving size",
+      "claim": "There is no official recommended daily intake amount for peanut butter.",
+      "quote": "땅콩버터 하루 섭취량에 대한 공식 권장량은 찾지 못했습니다",
+      "kind": "policy",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "땅콩버터만 따로 정한 공식 하루 권장 섭취량은 없습니다. USDA 식생활 지침은 땅콩버터 1큰술을 단백질 식품군 1온스 상당량으로 환산하는 기준만 두고 있을 뿐, 하루에 얼마를 먹으라는 권장량을 제시하지는 않습니다. 따라서 이 서술은 타당합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://getpanelry.com/guides/serving-size-racc",
+          "quote": "The serving size on a Nutrition Facts label isn't what you consider one serving."
+        }
+      ]
+    },
+    {
+      "line": 86,
+      "group": "Allergy",
+      "claim": "Peanut is a major allergen.",
+      "quote": "땅콩은 대표적인 알레르기 유발 식품이라",
+      "kind": "other",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "땅콩은 미국 FDA가 지정한 9대 주요 식품 알레르기 유발 물질 중 하나이며, 한국 식약처의 알레르기 유발물질 표시 대상에도 포함됩니다. 따라서 이 주장은 사실입니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.fooddocs.com/post/top-9-allergens",
+          "quote": "Top 9 food allergens are milk, eggs, peanuts, fish, crustacean shellfish, tree nuts, wheat, soybeans, and sesame"
+        }
+      ]
+    },
+    {
+      "line": 104,
+      "group": "Image credits",
+      "claim": "The featured image 'Peanut Butter (7104016311).jpg' is by Denise Krebs under CC BY 2.0 on Wikimedia Commons.",
+      "quote": "대표 이미지 ⓒ Denise Krebs, Peanut Butter (7104016311).jpg, CC BY 2.0",
+      "kind": "attribution",
+      "volatile": false,
+      "verdict": "unverifiable",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "'Peanut Butter (7104016311).jpg' 파일이 위키미디어 커먼즈 'Peanut butter jars' 분류에 있는 것은 확인했습니다. 다만 파일 페이지를 직접 열어 보지 못해 작성자가 Denise Krebs인지, 라이선스가 CC BY 2.0인지는 확인하지 못했습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/Category:Peanut_butter_jars",
+          "quote": "Peanut Butter (7104016311).jpg 3,648 × 2,736; 3.59 MB"
+        }
+      ]
+    },
+    {
+      "line": 104,
+      "group": "Image credits",
+      "claim": "The body image 'Peanut butter glass.jpg' is by Shisma under CC BY 4.0 on Wikimedia Commons.",
+      "quote": "본문 이미지 ⓒ Shisma, Peanut butter glass.jpg, CC BY 4.0",
+      "kind": "attribution",
+      "volatile": false,
+      "verdict": "unverifiable",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "위키미디어 커먼즈 검색 결과에서 'Peanut butter glass.jpg'의 작성자가 Shisma(본인 촬영, 2019년 12월 31일)인 것은 확인했습니다. 하지만 라이선스가 CC BY 4.0인지(CC BY-SA 4.0 등 다른 라이선스일 수도 있음)는 확인하지 못했습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Peanut_butter_glass.jpg",
+          "quote": "Date · 31 December 2019 (according to Exif data) Source · Own work Author · Shisma"
+        }
+      ]
+    }
+  ]
+}
