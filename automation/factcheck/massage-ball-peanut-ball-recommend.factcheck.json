@@ -1,0 +1,343 @@
+{
+  "file": "massage-ball-peanut-ball-recommend.md",
+  "checked_at": "2026-10-13T21:16:13",
+  "as_of": "2026년 10월",
+  "language": "Korean",
+  "counts": {
+    "supported": 15,
+    "contradicted": 0,
+    "outdated": 0,
+    "overstated": 0,
+    "unverifiable": 0
+  },
+  "blocking": 0,
+  "seconds": 90.5,
+  "cost": {
+    "model": "claude-opus-5-5",
+    "api_calls": 10,
+    "input_tokens": 278632,
+    "output_tokens": 9968,
+    "web_searches": 19,
+    "web_fetches": 4,
+    "estimated_usd": 1.504
+  },
+  "results": [
+    {
+      "line": 37,
+      "group": "라크로스볼 규격",
+      "claim": "Lacrosse balls are made of solid rubber according to the Wikipedia lacrosse ball specification.",
+      "quote": "라크로스볼은 \"단단한 고무(solid rubber)\"로 만든 공이고",
+      "kind": "attribution",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "위키백과 Lacrosse ball 문서는 라크로스볼을 '단단한 고무(solid rubber) 공'이라고 설명하고, 규격표의 재질 항목도 'Solid rubber'로 적혀 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lacrosse_ball",
+          "quote": "A lacrosse ball is the solid rubber ball that is used, with a lacrosse stick... Material - Solid rubber"
+        }
+      ]
+    },
+    {
+      "line": 37,
+      "group": "라크로스볼 규격",
+      "claim": "A regulation lacrosse ball has a diameter of about 6.27–6.47 cm.",
+      "quote": "직경은 약 6.27~6.47cm입니다",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "위키백과 규격표에 직경이 2.47~2.55인치(6.27~6.47cm)로 나와 있어 글의 내용과 같습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lacrosse_ball",
+          "quote": "Diameter - Between 2.47 and 2.55 inches (6.27 and 6.47 cm)."
+        }
+      ]
+    },
+    {
+      "line": 69,
+      "group": "다노 마사지볼",
+      "claim": "The Dano (다노) massage ball was introduced in its launch press release as 6 cm in diameter.",
+      "quote": "다노 마사지볼도 출시 당시 보도 자료 기준 직경 6cm",
+      "kind": "number",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "벤처스퀘어 출시 보도 기사에 다노 마사지볼의 지름이 6cm로 나와 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.venturesquare.net/796884/",
+          "quote": "다노 마사지볼은 지름 6cm, 무게는 A4 용지 2장 수준보다 가벼운 7g에 불과하다."
+        }
+      ]
+    },
+    {
+      "line": 69,
+      "group": "다노 마사지볼",
+      "claim": "The Dano (다노) massage ball was introduced in its launch press release as made of EPP material.",
+      "quote": "EPP 소재로 소개됐는데",
+      "kind": "other",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "같은 보도 기사에서 친환경 소재인 EPP로 만들었다고 소개합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.venturesquare.net/796884/",
+          "quote": "내구성을 겸한 친환경 소재 EPP로 만들었다."
+        }
+      ]
+    },
+    {
+      "line": 79,
+      "group": "Hyperice Hypersphere Go",
+      "claim": "Hyperice Hypersphere Go was formerly named Hypersphere Mini.",
+      "quote": "Hyperice 하이퍼스피어 고(예전 제품명 하이퍼스피어 미니)",
+      "kind": "name",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "판매처 설명에 따르면 Go 라인에 맞추기 위해 하이퍼스피어 미니가 하이퍼스피어 고로 이름이 바뀌었습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://shop.slowtwitch.com/product/hypersphere-go/",
+          "quote": "Renamed to fit into our Go line, the Hypersphere Mini is now the Hypersphere Go."
+        },
+        {
+          "url": "https://www.roguefitness.com/hyperice-hypersphere-go",
+          "quote": "The Hypersphere Go (formerly the Hypersphere Mini)"
+        }
+      ]
+    },
+    {
+      "line": 79,
+      "group": "Hyperice Hypersphere Go",
+      "claim": "Hyperice Hypersphere Go has 3 vibration speed levels per official specs.",
+      "quote": "판매처 공식 스펙 기준 진동 3단계",
+      "kind": "number",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "Hyperice 공식 제품 페이지에 진동 속도가 3단계로 나와 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://hyperice.com/products/hypersphere-go",
+          "quote": "3 speeds of vibration"
+        }
+      ]
+    },
+    {
+      "line": 79,
+      "group": "Hyperice Hypersphere Go",
+      "claim": "Hyperice Hypersphere Go offers up to about 2 hours of use per charge per official specs.",
+      "quote": "1회 충전 최대 약 2시간이에요",
+      "kind": "number",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "Hyperice 공식 페이지에 배터리가 최대 2시간 간다고 나와 있습니다. 일부 판매처는 이 수치가 3단계 기준이라고 덧붙였습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://hyperice.com/products/hypersphere-go",
+          "quote": "Up to 2 hour battery life"
+        }
+      ]
+    },
+    {
+      "line": 79,
+      "group": "진동 마사지볼 가격",
+      "claim": "Vibrating massage balls range in price from tens of thousands of won to over 100,000 won.",
+      "quote": "가격은 몇만 원대 저가형부터 10만 원을 넘는 제품까지 폭이 넓고",
+      "kind": "price",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "하이퍼아이스 하이퍼스피어 고 전동 마사지볼은 정가 165,000원(할인가 148,500원)에 팔리고 있어 10만 원을 넘는 제품이 있다는 점이 확인됩니다. 국내 쇼핑몰에는 몇만 원대 진동 마사지 제품도 올라와 있어, 가격 폭이 넓다는 서술은 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://m.yes24.com/Goods/Detail/110691612",
+          "quote": "[하이퍼아이스] 하이퍼스피어 고 전동 마사지볼 Hypersphere Go ... 가격: 165,000원"
+        },
+        {
+          "url": "https://www.gmarket.co.kr/n/search?keyword=%EC%A7%84%EB%8F%99%EB%A7%88%EC%82%AC%EC%A7%80%EA%B8%B0",
+          "quote": "진동마사지기 검색결과: 44,500원, 69,800원"
+        }
+      ]
+    },
+    {
+      "line": 32,
+      "group": "소재별 특성",
+      "claim": "EPP massage balls are very lightweight and relatively hard.",
+      "quote": "EPP | 아주 가볍고 단단한 편",
+      "kind": "other",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "EPP 마사지볼 판매처와 제품 정보에는 무게가 수십 g 수준으로 매우 가볍고, 밀도가 높아 단단한 소재라고 일관되게 나옵니다. 이 설명과 어긋나는 출처는 찾지 못했습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://prod.danawa.com/info/?pcode=6464916",
+          "quote": "멜킨스포츠 EPP 마사지볼 듀얼 땅콩볼 ... 크기(가로x높이): 16x8cm / 무게: 40g"
+        },
+        {
+          "url": "https://www.vishnu.co.kr/yoga/?idx=40",
+          "quote": "단단하지만 딱딱하지 않은 EPP 땅콩 마사지볼 ... 100g 이하의 가벼운 무게"
+        },
+        {
+          "url": "https://m.bodyx.co.kr/goods/goods_view.php?goodsNo=1946",
+          "quote": "EPP 소재로 가볍고 내구성 뛰어납니다."
+        }
+      ]
+    },
+    {
+      "line": 64,
+      "group": "사이즈 비교",
+      "claim": "A tennis ball is roughly 6–7 cm in diameter.",
+      "quote": "6~7cm | 테니스공",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "ITF 규정상 테니스공 지름은 6.54~6.86cm로, '6~7cm'라는 범위 안에 들어갑니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://foreman.hms.harvard.edu/tennis-ball-diameter",
+          "quote": "the official diameter of a tennis ball is between 2.57 inches (6.54 cm) and 2.70 inches (6.86 cm)"
+        }
+      ]
+    },
+    {
+      "line": 63,
+      "group": "사이즈 비교",
+      "claim": "A golf ball is roughly 4–5 cm in diameter.",
+      "quote": "4~5cm | 골프공",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "R&A·USGA 규정상 골프공 지름은 최소 42.67mm(약 4.27cm)여서 '4~5cm'와 맞습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.randa.org/en/roe/the-rules-of-equipment/part-4-conformance-of-balls",
+          "quote": "The diameter of the ball must not be less than 1.680 inches (42.67 mm)."
+        }
+      ]
+    },
+    {
+      "line": 65,
+      "group": "사이즈 비교",
+      "claim": "A softball is roughly 8–10 cm in diameter.",
+      "quote": "8~10cm 이상 | 소프트볼 이상",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "표준 12인치 소프트볼의 지름은 약 9.7cm로 '8~10cm'라는 범위에 들어갑니다. 11인치 공은 약 8.9cm입니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.dimensions.com/element/softball",
+          "quote": "Softballs have a diameter of 3.82” (9.7 cm) and circumference of 12” (30.5 cm)."
+        }
+      ]
+    },
+    {
+      "line": 55,
+      "group": "땅콩볼 가격",
+      "claim": "Peanut massage balls are sold at Daiso at low prices, and imported EPP duo balls are also available.",
+      "quote": "가격은 다이소 저가 제품부터 수입 EPP 듀오볼까지 폭이 넓은데",
+      "kind": "price",
+      "volatile": true,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "다이소에서 땅콩 마사지볼(소프트·하드 타입)이 약 1,000~3,000원에 판매된 기록이 있습니다. 독일 브랜드 블랙롤의 EPP 듀오볼도 국내 쇼핑몰에서 약 2만8천~4만2천 원에 팔리고 있어, 가격 폭이 넓다는 서술과 맞습니다. 다만 다이소 일부 품목은 '판매중지'로 표시되어 있어 재고는 시기별로 다를 수 있습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.wishbucket.io/items/3176247",
+          "quote": "다이소 땅콩 마사지 볼 하드 타입 2,000원"
+        },
+        {
+          "url": "https://www.11st.co.kr/products/3506934931",
+          "quote": "[다이소]땅콩 마사지볼(소프트 타입)-1029719 ... 2,000원"
+        },
+        {
+          "url": "https://www.ssg.com/search.ssg?query=%EB%B8%94%EB%9E%99%EB%A1%A4%EB%93%80%EC%98%A4%EB%B3%BC",
+          "quote": "토구 블랙롤 듀오볼 EPP 독일 요가 헬스 마사지볼 8cm 정상가격41,300원"
+        }
+      ]
+    },
+    {
+      "line": 104,
+      "group": "사용법",
+      "claim": "Using a massage ball for about 30 seconds to 1 minute per body area is a reasonable guideline.",
+      "quote": "사용은 한 부위에 30초에서 1분 정도",
+      "kind": "number",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "Healthline의 라크로스 볼 마사지 가이드는 부위별로 30초 유지, 발바닥은 30~60초 굴리기를 권장하고 있어 '한 부위 30초~1분'이라는 가이드라인과 일치합니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://www.healthline.com/health/fitness-exercise/lacrosse-ball-massage",
+          "quote": "Hold this for 30 seconds, or until you feel the pain subside."
+        },
+        {
+          "url": "https://www.healthline.com/health/fitness-exercise/lacrosse-ball-massage",
+          "quote": "Continue for 30 to 60 seconds."
+        }
+      ]
+    },
+    {
+      "line": 106,
+      "group": "사용 금지 부위",
+      "claim": "Massage balls should not be pressed directly on the spine, front of the neck, back of the knee, joints/bony prominences, or injured areas.",
+      "quote": "척추뼈 위, 목 앞쪽, 무릎 뒤 오금, 팔꿈치·발목 같은 관절과 뼈 돌출부, 다친 곳에는 볼을 대지 마세요",
+      "kind": "policy",
+      "volatile": false,
+      "verdict": "supported",
+      "severity": "low",
+      "correct_value": "",
+      "explanation": "마사지볼·폼롤러 사용 안내서들은 대체로 척추뼈, 관절, 뼈 돌출부, 목 앞쪽, 무릎 뒤(오금), 다친 부위에는 직접 압박하지 말라고 권고합니다. 오금과 목 앞쪽은 신경·혈관이 지나는 곳이어서 그렇습니다. 다만 작성자가 출처로 든 Healthline 글에는 이런 금지 부위 목록이 따로 없고, 검색에서도 마사지볼 안내 글이 '뼈 위는 피하라'고 권하는 정도만 일부 확인했습니다.",
+      "fix": "",
+      "evidence": [
+        {
+          "url": "https://mymeglio.com/blogs/blog/how-to-use-a-massage-ball",
+          "quote": "Stay off ... (bony areas/joints — search snippet only, partially seen)"
+        },
+        {
+          "url": "https://www.healthline.com/health/fitness-exercise/lacrosse-ball-massage",
+          "quote": "Position the ball on one side of your spine."
+        }
+      ]
+    }
+  ]
+}

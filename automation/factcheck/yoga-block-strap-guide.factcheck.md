@@ -1,0 +1,132 @@
+# Fact-check: yoga-block-strap-guide.md
+
+- Checked: 2026-10-13T21:21:58 · model claude-opus-5-5 · 19 claims
+- Verdicts: supported 18, overstated 1
+- Blocking: 0  ·  estimated cost $2.14 (16 searches)
+
+## [OVERSTATED] L55 · low
+> 저가 EVA는 2개 묶음 판매가 많아
+
+다이소몰과 리뷰 사이트에 나온 저가 EVA 블럭은 대부분 개당 가격으로 팔리고 있습니다. 2개 세트도 있긴 하지만 '2개 묶음 판매가 많다'는 근거는 찾지 못했습니다.
+- Sources say: 대표적인 저가 제품인 다이소 EVA 요가 블럭은 1개 단위로 팝니다(상품 구성: 요가 블록 1개). 2개 세트(2p) 상품도 있지만, 낱개 판매도 흔합니다.
+- Suggested fix: 저가 EVA는 낱개(다이소 등) 판매가 많고 2개 세트 상품도 있으니, 두 개가 필요하면 수량을 꼭 확인하세요
+- [https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1064668](https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1064668) — 상품 구성 요가 블록 1개 ... 가격 2,000원
+- [https://emart.ssg.com/search.ssg?query=%EC%9A%94%EA%B0%80%EB%B8%94%EB%9F%AD](https://emart.ssg.com/search.ssg?query=%EC%9A%94%EA%B0%80%EB%B8%94%EB%9F%AD) — 고밀도 EVA 요가블럭 2p 핑크 ... 판매가격15,700원
+
+## [OK] L18 · low
+> 판매 제품 크기는 대체로 가로 약 23cm, 세로 약 15cm, 두께 7.5~10cm이고 인치로는 9×6×3~4인치 규격이 흔합니다.
+
+여러 판매처·가이드에서 표준 요가 블록을 9×6×4인치로, 슬림형을 9×6×3인치로 소개하고 있어 글의 설명과 맞습니다. 다만 9×4.5×3인치(22.5×11×7.5cm) 같은 아이옌가식 벽돌형이나 9×6×5인치 대형 제품도 있습니다.
+- [https://asivanayoga.com/blogs/yoga-blog/yoga-block-size-guide](https://asivanayoga.com/blogs/yoga-blog/yoga-block-size-guide) — Standard block: approximately 9 x 6 x 4 inches.
+- [https://yuneyoga.com/blogs/yoga-blog/understanding-yoga-blocks-dimensions-a-comprehensive-guide](https://yuneyoga.com/blogs/yoga-blog/understanding-yoga-blocks-dimensions-a-comprehensive-guide) — You might find slim blocks, perhaps 9" x 6" x 3".
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — 9 x 4.5 x 3 inches (22.5 x 11 x 7.5 cm)
+
+## [OK] L18 · low
+> "a smooth block of wood or of firm but comfortable material"
+
+위키백과 문서 첫 문장에 해당 표현이 그대로 나옵니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — A yoga brick or yoga block is a smooth block of wood or of firm but comfortable material
+
+## [OK] L18 · low
+> 정렬을 돕는 나무 블록을 처음 들인 사람이 B.K.S. 아이엥가이고
+
+위키백과 문서에 정렬을 돕는 나무 블록 사용을 B.K.S. 아이엥가가 도입했다고 나와 있습니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — The use of wooden bricks to assist in alignment was introduced by B. K. S. Iyengar
+
+## [OK] L18 · low
+> 그가 권한 크기는 22.5×11×7.5cm였어요
+
+위키백과 문서에 아이엥가가 9×4.5×3인치(22.5×11×7.5cm) 크기를 권했다고 나와 있습니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — 9 x 4.5 x 3 inches (22.5 x 11 x 7.5 cm) in size
+
+## [OK] L18 · low
+> 무게는 폼 블록이 200~400g, 단단한 활엽수 나무 블록은 최대 약 1.1kg으로 나와 있습니다.
+
+위키백과 문서에 폼 블록은 200~400g, 활엽수 블록은 최대 약 1.1kg이라고 나와 있습니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — ranging between 200 and 400 grams (7 to 14 ounces)
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — hardwood blocks are heavier (up to about 2.5 pounds or 1.1 kg)
+
+## [OK] L24 · low
+> 대략 200~400g대예요(초경량 제품은 그 이하도 있음)
+
+위키백과에 따르면 EVA 등 폼 블록은 코르크보다 가볍고 무게가 200~400g 정도입니다. OutdoorGearLab이 직접 잰 폼 블록 무게(201g, 349g, 380g 등)도 이 범위와 맞습니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — EVA foam) are lighter than cork, ranging between 200 and 400 grams (7 to 14 ounces)
+- [https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks](https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks) — Measured Weight: ... 349 g | 12.3 oz · 201 g | 7.1 oz
+
+## [OK] L26 · low
+> 판매 사양 기준 1kg 안팎으로 무겁고
+
+Manduka 코르크 블록은 판매 사양상 약 2파운드(약 0.9kg)입니다. 다른 코르크 블록도 실측 910~927g이 나와 '1kg 안팎'이라는 표현이 맞습니다.
+- [https://shopsavvy.com/answers/how-much-do-the-manduka-yoga-cork-blocks-weigh](https://shopsavvy.com/answers/how-much-do-the-manduka-yoga-cork-blocks-weigh) — Each Manduka Yoga Cork Block weighs about 2 pounds.
+- [https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks](https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks) — Measured Weight: 927 g | 32.7 oz ... 910 g | 32.1 oz
+
+## [OK] L26 · low
+> 코르크는 거의 눌리지 않고 땀이 나도 그립이 유지된다는 평이 많습니다.
+
+코르크는 밀도가 높아 단단하고, 땀이 나도 그립이 좋다는 평이 여러 리뷰에 나옵니다. 또 위키백과에는 코르크 블록이 오래 쓰면 부스러지는 경향이 있다고 적혀 있어, 본문 내용과 일치합니다.
+- [https://en.wikipedia.org/wiki/Yoga_brick](https://en.wikipedia.org/wiki/Yoga_brick) — it does eventually absorb odours, and it tends to crumble with use
+- [https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks](https://www.outdoorgearlab.com/topics/fitness/best-yoga-blocks) — The exterior's fine grain also makes the surface easy to grip with sweaty hands.
+
+## [OK] L38 · low
+> 7.5cm 블록은 7.5/15/23cm, 10cm 블록은 10/15/23cm 세 높이로 쓸 수 있어요.
+
+직육면체 블록은 눕히거나 세우는 방향에 따라 세 변의 길이가 각각 높이가 되므로, 9×6×4인치 블록은 약 10/15/23cm, 9×6×3인치 블록은 약 7.5/15/23cm로 쓸 수 있습니다. 블록이 세 가지 높이를 제공한다는 점은 사이즈 가이드에서도 확인됩니다.
+- [https://asivanayoga.com/blogs/yoga-blog/yoga-block-size-guide](https://asivanayoga.com/blogs/yoga-blog/yoga-block-size-guide) — One of the most useful features of a yoga block is that it offers three different heights
+
+## [OK] L63 · low
+> 키 163~178cm라면 8피트, 약 2.4m가 가장 무난합니다.
+
+라자다 스포츠 가이드에 따르면 163cm 미만은 6피트, 178cm 초과는 10피트이고, 그 사이 키이거나 잘 모르겠다면 8피트가 가장 안전하고 무난한 표준입니다. 게시글 내용과 일치합니다.
+- [https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/](https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/) — For anyone in between, or for those unsure of their needs, an 8-foot strap is the safest and most adaptable standard.
+
+## [OK] L63 · low
+> 라자다 스포츠의 스트랩 길이 가이드는 163cm 미만에 6피트, 178cm 초과에 10피트를 권하고
+
+라자다 스포츠 가이드에는 163cm(5피트 4인치) 미만이면 6피트로 대개 충분하고, 178cm(5피트 10인치)를 넘으면 거의 항상 10피트가 필요하다고 나옵니다. 출처가 실제로 그렇게 말하고 있습니다.
+- [https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/](https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/) — individuals under 5 feet 4 inches (163 cm) often find a 6-foot strap sufficient, while those taller than 5 feet 10 inches (178 cm) almost always require a 10-foot strap
+
+## [OK] L63 · low
+> 만두카 유럽 공식몰은 243cm를 표준으로 두되 180cm가 넘으면 304cm를 고려하라고 안내해요
+
+만두카 EU 공식몰 요가 스트랩 컬렉션 페이지에는 243cm가 대부분의 사람에게 맞는 표준 길이이고, 키 180cm가 넘거나 회복(리스토러티브) 요가를 하는 경우 304cm를 고려하라고 적혀 있습니다.
+- [https://eu.manduka.com/collections/yoga-straps](https://eu.manduka.com/collections/yoga-straps) — The standard length of 243cm is suitable for most people, while people over 180cm or those doing a restorative practice might consider the longer length of 304cm.
+
+## [OK] L71 · low
+> 6피트는 약 183cm, 8피트는 약 244cm, 10피트는 약 305cm입니다.
+
+국제 피트는 정확히 30.48cm로 정의되어 있습니다. 따라서 6피트=182.88cm(약 183cm), 8피트=243.84cm(약 244cm), 10피트=304.8cm(약 305cm)이므로 반올림한 값이 모두 맞습니다.
+- [https://en.wikipedia.org/wiki/Foot_(unit)](https://en.wikipedia.org/wiki/Foot_(unit)) — the international foot is defined to be equal to exactly 0.3048 meters
+
+## [OK] L73 · low
+> 폭은 약 3.8cm(1.5인치)가 표준이고 손에 끈이 파고드는 느낌이 싫다면 약 5cm(2인치)가 편합니다.
+
+작성자가 인용한 Lazada 가이드에 1.5인치(약 3.8cm)가 대부분의 요가 스튜디오에서 쓰는 표준 폭이라고 나옵니다. 또 2인치(약 5cm)는 압력을 넓게 분산해 손에 더 편하다고 설명합니다. 따라서 글의 내용은 출처와 맞습니다.
+- [https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/](https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/) — The 1.5-inch width is the standard size found in most yoga studios.
+- [https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/](https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/) — those seeking maximum grip comfort and pressure distribution often prefer a wider 2-inch option.
+
+## [OK] L79 · low
+> D링은 끈을 두 개의 D자 고리에 통과시켜 마찰로 잡는 방식이라 당길수록 단단해지고
+
+Lazada 가이드는 메탈 D링 버클이 끈을 두 고리에 통과시킨 뒤 하나 위로 되감아 거는 자가 잠금 구조이며, 장력이 커질수록 자연스럽게 조여진다고 설명합니다. 글의 설명과 일치합니다.
+- [https://sports.lazada.sg/comparing-yoga-strap-brands-material-quality-buckle-types-and-durability-sg/](https://sports.lazada.sg/comparing-yoga-strap-brands-material-quality-buckle-types-and-durability-sg/) — By threading the strap through both rings and looping it back over one, you create a self-locking mechanism that tightens naturally as tension increases.
+
+## [OK] L81 · low
+> 옆을 눌러 여는 플라스틱 원터치형은 장력이 걸리면 풀릴 수 있어 피하라는 가이드도 있습니다
+
+Lazada 가이드는 옆을 눌러 여는 플라스틱 퀵릴리스 버클을 피하라고 권하며, 장력이 걸리면 튕겨 열릴 수 있다는 점을 이유로 듭니다. 글 내용과 일치합니다.
+- [https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/](https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/) — Avoid quick-release plastic side-squeeze buckles. They do not allow for micro-adjustments and can snap open under tension
+
+## [OK] L87 · low
+> 요가스트랩은 늘어나지 않는 끈이고 요가밴드는 고무처럼 늘어나는 라텍스 밴드입니다.
+
+요가스트랩은 면·나일론 등 늘어나지 않는 소재로 만들고, 저항(요가)밴드는 고무줄처럼 늘어나도록 만든다는 설명이 여러 자료와 일치합니다. 다만 일부 밴드는 라텍스 대신 TPE나 원단으로 만들고, 영어권에서는 'yoga band'를 스트랩과 같은 뜻으로 쓰기도 하지만 핵심 구분은 맞습니다.
+- [https://www.yogafitness.group/what-is-the-difference-between-a-yoga-band-and-a-resistance-band/](https://www.yogafitness.group/what-is-the-difference-between-a-yoga-band-and-a-resistance-band/) — crafted from sturdy, non-elastic materials such as cotton, hemp, or nylon
+- [https://www.onepeloton.com/blog/how-to-use-yoga-strap](https://www.onepeloton.com/blog/how-to-use-yoga-strap) — resistance bands stretch. They're designed to operate like large rubber bands
+
+## [OK] L99 · low
+> 가격대는 저가 EVA가 몇천 원대(2026년 10월 기준, 시기마다 바뀜)이고, 코르크나 브랜드 고밀도 제품은 그보다 몇 배 높은 편
+
+다이소몰에서 EVA 요가 블럭은 개당 2,000원이고, 다른 저가 EVA 제품도 대략 1,700~5,000원대입니다. 브랜드 코르크나 고밀도 제품은 1만~1만8천 원대 이상이어서 '몇 배 높다'는 설명은 대체로 맞습니다. 다만 6,700원짜리 저가 코르크 제품도 있습니다.
+- [https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1070993](https://www.daisomall.co.kr/pd/pdr/SCR_PDR_0001?pdNo=1070993) — EVA 원컬러 요가 블럭 22.5 X 16.5 X 10 cm 2,000원
+- [https://spokok.kr/yoga-block/](https://spokok.kr/yoga-block/) — 스포홀릭 EVA 요가블럭 판매가 1,700원 / 밸런스 8cm 판매가 18,000원
+- [https://prod.danawa.com/info/?pcode=12890711](https://prod.danawa.com/info/?pcode=12890711) — 고밀도 EVA 요가블럭 최저가 2,500원

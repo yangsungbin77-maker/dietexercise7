@@ -1,0 +1,214 @@
+{
+  "type": "review",
+  "keyword": "요가블럭 추천",
+  "keyword_filter": {
+    "keyword": "요가블럭 추천",
+    "competition": {
+      "method": "serp-scan (네이버 모바일 + 구글 allintitle)",
+      "evidence": "구글 allintitle:\"요가블럭 추천\" 한국어 제목 결과 사실상 0(영문 쇼핑 페이지만 반환). 네이버 모바일 '요가블럭 추천' 1페이지=개인 블로그 15+(쇼핑커넥트 제휴글 다수)·카페·소형 사이트 spokok.kr, 대형 언론·위키 없음 → 진입 가능",
+      "pass": true
+    },
+    "demand": {
+      "method": "autocomplete (google suggest + naver ac)",
+      "evidence": "구글 자동완성 '요가블록' 입력 시 '요가블럭 추천'이 1순위 제안(요가블록→요가블럭 표기로 정규화). 네이버 자동완성 '요가블록 고르는 방법'·'요가블록 재질비교'·'요가 스트랩 추천'·'요가 스트랩 사용법' 노출",
+      "pass": true
+    },
+    "intent": {
+      "method": "serp-scan",
+      "evidence": "네이버 '요가블럭 추천'·'요가블록 고르는 방법' 상위가 블로그 정보·후기글(재질 EVA/코르크 비교, 두께, 활용법). 쇼핑 블록이 있지만 본문 영역은 블로그가 다수 → 정보성 블로그로 충족 가능",
+      "pass": true
+    }
+  },
+  "cluster": [
+    "요가블럭 추천",
+    "요가블록",
+    "요가블록 고르는 방법",
+    "요가블록 재질비교",
+    "코르크 요가블럭",
+    "EVA 요가블럭",
+    "요가블럭 두께",
+    "다이소 요가블럭",
+    "요가스트랩 추천",
+    "요가스트랩 길이",
+    "요가밴드",
+    "요가링"
+  ],
+  "serp": [
+    {
+      "url": "https://spokok.kr/yoga-block/",
+      "opened": true,
+      "note": "제휴형 추천 4선(EVA 2·코르크·8cm 프리미엄). 두께 8~10cm·무게 120~300g 편차 언급, 용도 먼저 정하라. 강점=상황별 바로가기. 약점=두께별 높이 계산·개수·스트랩 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/picknote365/224373787707",
+      "opened": true,
+      "note": "고무나라 vs 스포홀릭 EVA 2종 가격·평점 비교(쇼핑커넥트). 2개 필요한 동작 언급만, 판단 기준 없음. 재질 비교 얕음"
+    },
+    {
+      "url": "https://m.blog.naver.com/pyhyasabe/224394548769",
+      "opened": true,
+      "note": "가장 충실한 정보글. 크기 23x15x7~8cm·3단 높이, EVA/코르크/나무 장단점, 활용법 6가지, 블록 위에 올라서기 금지 주의. 약점=건강효과 서술, 스트랩·두께 선택표 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/naum7575/224434220205",
+      "opened": true,
+      "note": "트라택 EVA 블록 소개. 높이 7.6/15.3/23.3cm 3단, 약 110g, 라운딩 모서리. 브랜드 홍보형"
+    },
+    {
+      "url": "https://m.blog.naver.com/seulji12/224433365436",
+      "opened": true,
+      "note": "에그플랜 고밀도 EVA 10cm 후기, 사선(베벨) 모서리, 3가지 높이. 단일 제품 후기라 비교 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/ooccd94/224423267983",
+      "opened": true,
+      "note": "밸런시스 8cm 후기(쇼핑커넥트). 색·보관 위주, 선택 기준 부재"
+    },
+    {
+      "url": "https://m.blog.naver.com/junjunnote/224392425166",
+      "opened": true,
+      "note": "EVA 블록 입문 후기. 가벼움·보관 장점, 추천 대상 나열. 재질 비교·두께 정보 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/ahxm105/224440123094",
+      "opened": true,
+      "note": "'요가스트랩 추천' SERP 상위인데 실제 내용은 라텍스 요가밴드 목록 → 스트랩/밴드 혼동 확인(빈틈 근거)"
+    },
+    {
+      "url": "https://m.blog.naver.com/plisi2/224439548228",
+      "opened": true,
+      "note": "역시 요가밴드(라텍스·루프밴드) 추천 목록. 비탄성 스트랩 설명 없음"
+    },
+    {
+      "url": "https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/",
+      "opened": true,
+      "note": "스트랩 6/8/10ft 키 기준(163cm 미만 6ft, 163~178 8ft, 178 초과 10ft), 폭 1/1.5/2인치, D링 vs 플라스틱 시치 vs 원터치(피할 것), 면 vs 나일론"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Yoga_brick",
+      "opened": true,
+      "note": "아이엥가 22.5x11x7.5cm, 2인치=brick·3인치+=block, 재질 나무/대나무/코르크/폼, 폼 200~400g, 하드우드 최대 약 1.1kg, 코르크 그립·사용 중 부스러짐, 나무 젖으면 미끄러움"
+    },
+    {
+      "url": "https://www.webmd.com/fitness-exercise/how-to-use-blocks-for-yoga",
+      "opened": true,
+      "note": "재질 foam/cork/rubber/wood, 코르크가 무난한 선택, 저가로 시작해도 되나 고품질이 오래감, 매일 쓰면 튼튼한 것"
+    },
+    {
+      "url": "https://m.blog.naver.com/naulimyoga/224421455696",
+      "opened": true,
+      "note": "'요가블록 고르는 방법' 상위 노출이나 요가vs필라테스 글로 무관 → SERP 관련도 약함(경쟁 약함 신호)"
+    },
+    {
+      "url": "https://www.vishnu.co.kr/yoga/?idx=30",
+      "opened": false,
+      "note": "403 차단"
+    },
+    {
+      "url": "https://puregym.com/blog/beginners-guide-to-yoga-blocks",
+      "opened": false,
+      "note": "403 차단"
+    },
+    {
+      "url": "https://eu.manduka.com/collections/yoga-straps",
+      "opened": true,
+      "note": "만두카 EU 스트랩 컬렉션(jina reader로 열람, 직접 접속은 429). 'The standard length of 243cm is suitable for most people, while people over 180cm or those doing a restorative practice might consider the longer length of 304cm.'"
+    }
+  ],
+  "factcheck": [
+    {
+      "claim": "판매 제품 크기 약 23x15x7.5~10cm(9x6x3~4인치), 세 면 길이가 달라 3단 높이(7.5cm 블록=7.5/15/23cm, 10cm 블록=10/15/23cm, 두께는 가장 낮은 면만 바꿈). 아이엥가 권장 크기 22.5x11x7.5cm(9x4.5x3인치)",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_brick",
+        "https://m.blog.naver.com/pyhyasabe/224394548769",
+        "https://m.blog.naver.com/naum7575/224434220205"
+      ]
+    },
+    {
+      "claim": "EVA 폼 블록은 대략 200~400g대(위키 200~400g), 초경량 제품은 그 이하도 있음(국내 110g·120~300g 표기). 코르크는 판매 사양 기준 1kg 안팎(9x6x4인치 약 2~2.5lb). 하드우드 나무 블록은 최대 약 1.1kg",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_brick",
+        "https://spokok.kr/yoga-block/",
+        "https://m.blog.naver.com/naum7575/224434220205",
+        "https://shopsavvy.com/answers/how-much-do-the-manduka-yoga-cork-blocks-weigh"
+      ]
+    },
+    {
+      "claim": "위키백과 정의 인용 \"a smooth block of wood or of firm but comfortable material\" + 정렬 보조용 나무 블록을 들인 사람은 B.K.S. 아이엥가",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_brick",
+        "https://en.wikipedia.org/w/index.php?title=Yoga_brick&action=raw"
+      ]
+    },
+    {
+      "claim": "EVA는 매끈하면 땀에 미끄럽고 저밀도는 눌림, 코르크는 단단·땀에도 그립 유지·사용 중 모서리 부스러짐, 나무는 가장 단단·무겁고 젖으면 미끄러움",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yoga_brick",
+        "https://m.blog.naver.com/pyhyasabe/224394548769",
+        "https://spokok.kr/yoga-block/"
+      ]
+    },
+    {
+      "claim": "요가스트랩 길이 6/8/10피트(약 1.8/2.4/3m). 라자다 가이드=163cm 미만 6ft·163~178cm 8ft·178cm 초과 10ft, 만두카 EU=243cm 표준·180cm 초과 또는 회복 요가면 304cm 고려 → 가이드마다 경계값 다름. 폭 1.5인치(약 3.8cm) 표준, 2인치는 손 편함",
+      "sources": [
+        "https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/",
+        "https://eu.manduka.com/collections/yoga-straps",
+        "https://bestreviews.com/sports-and-fitness/yoga/best-yoga-straps"
+      ]
+    },
+    {
+      "claim": "D링=두 금속 고리 마찰 고정·당길수록 단단·부품 고장 적음·떨어질 때 소리, 시치/슬라이드 버클=빠른 조절, 플라스틱 원터치는 장력에 풀릴 수 있음. 스트랩은 비탄성(면·폴리), 밴드는 라텍스 탄성",
+      "sources": [
+        "https://sports.lazada.sg/how-to-choose-the-right-yoga-strap-length-and-width-for-your-body-sg/",
+        "https://sports.lazada.sg/comparing-yoga-strap-brands-material-quality-buckle-types-and-durability-sg/",
+        "https://m.blog.naver.com/ahxm105/224440123094"
+      ]
+    },
+    {
+      "claim": "저가 EVA 블록은 몇천 원대(2026년 10월 기준, 시기마다 바뀜), 코르크·브랜드 고밀도는 몇 배 높음",
+      "sources": [
+        "https://m.blog.naver.com/picknote365/224373787707",
+        "https://spokok.kr/yoga-block/"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "요가블럭 추천",
+    "headline_finding": "요가블럭은 재질(단단함)·두께(높이)·개수(동작) 3가지로 끝 — 두께 높을수록 좋은 게 아니라 앉기 보조는 낮은 면이 핵심",
+    "spelling_insight": "요가블록/요가블럭은 같은 물건, 구글 자동완성은 '요가블럭 추천'으로 정규화하고 네이버는 '요가블록 고르는 방법·재질비교'가 뜸",
+    "material_matrix": "EVA=200~400g대(초경량은 그 이하) 가볍고 말랑·땀에 미끄럼 / 코르크=판매 사양 기준 1kg 안팎 단단·그립·모서리 부스러짐 / 나무=가장 단단·하드우드 최대 약 1.1kg·젖으면 미끄럼",
+    "thickness_table": "7.5cm 블록=7.5/15/23cm, 10cm 블록=10/15/23cm(두께는 낮은 면만 바꿈). 손끝이 멀면 두께 무관·높은 면 23cm, 상황 4종 매칭표",
+    "strap_length_by_height": "6ft≈183cm(약 163 미만), 8ft≈244cm(약 163~178), 10ft≈305cm(약 178 초과, 만두카는 180 초과) — 가이드마다 경계값 다름. 폭 3.8cm 표준·5cm 편함",
+    "serp_confusion": "'요가스트랩 추천' 네이버 상위에 라텍스 요가밴드 목록이 섞임 → 비탄성 스트랩 vs 탄성 밴드 구분 섹션으로 해결"
+  },
+  "structure": "질문연결",
+  "external_link": "https://en.wikipedia.org/wiki/Yoga_brick (curl 200 확인 2026-10-13)",
+  "internal_link": "/yoga-mat-guide/",
+  "gaps": [
+    {
+      "gap": "상위 10개 중 아무도 블록 두께(7.5cm vs 10cm)를 세 방향 높이와 내 상황별로 매칭한 선택표를 주지 않음",
+      "covered_in": "두께는 7.5cm와 10cm 중 뭘 사야 하나요?"
+    },
+    {
+      "gap": "요가블럭을 1개 살지 2개 살지 판단 기준(양손 짚기·등과 머리 받치기·재질 섞기)을 다룬 글이 없음",
+      "covered_in": "요가블럭은 1개면 되나요, 2개 사야 하나요?"
+    },
+    {
+      "gap": "네이버 '요가스트랩 추천' 상위가 라텍스 요가밴드 목록을 섞어 소개하며 비탄성 스트랩과의 차이를 설명하지 않음",
+      "covered_in": "요가스트랩과 요가밴드, 요가링은 뭐가 다른가요?"
+    },
+    {
+      "gap": "국내 글 중 요가스트랩 피트 단위 길이를 cm·키 기준으로 환산해 준 곳이 없음(6/8/10ft↔183/244/305cm)",
+      "covered_in": "요가스트랩은 몇 m짜리를 사야 하나요?"
+    }
+  ],
+  "images": [
+    "src/assets/posts/yoga-block-strap-guide.webp (hero 16:9)",
+    "src/assets/posts/yoga-block-strap-guide-materials.webp (body 4:3)"
+  ],
+  "hermes_score": 94,
+  "score_history": [
+    84,
+    94
+  ]
+}

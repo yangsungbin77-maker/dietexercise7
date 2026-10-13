@@ -1,0 +1,203 @@
+{
+  "type": "review",
+  "keyword": "층간소음 운동매트",
+  "keyword_filter": {
+    "keyword": "층간소음 운동매트",
+    "cluster": [
+      "홈트 층간소음 매트",
+      "층간소음 매트 추천",
+      "층간소음 방지 운동매트",
+      "층간소음 방지매트",
+      "홈트 매트 두께",
+      "홈트 매트 추천",
+      "퍼즐매트",
+      "고무 매트",
+      "경량충격음 중량충격음",
+      "층간소음 기준 dB",
+      "줄넘기 층간소음"
+    ],
+    "competition": {
+      "method": "bing-intitle/serp-scan",
+      "evidence": "Bing intitle:홈트+층간소음+매트 약 51건으로 적음. 1페이지가 wikidocs 개인블로그(Ounwan)·picjjang·literaturepackaging·a-ha Q&A·brunch 등 소형 블로그/커뮤니티 위주, 대형 언론은 소비자원 기사(레이디경향) 1건뿐 → 진입 가능",
+      "pass": true
+    },
+    "demand": {
+      "method": "autocomplete",
+      "evidence": "네이버 자동완성 '층간소음 운동' → '층간소음운동매트' 노출, 구글 자동완성 '층간소음 운동매트'·'층간소음 방지 운동매트'·'홈트 층간소음 매트' 노출, 네이버 '홈트 매트' → '홈트 매트 두께'·'홈트 매트 10mm' 노출",
+      "pass": true
+    },
+    "intent": {
+      "method": "serp-scan",
+      "evidence": "상위 결과가 개인 블로그 추천글·Q&A(a-ha, 몬스터짐)·정보성 기사(MBC 스마트리빙, 레이디경향)로 정보/비교 의도. 쇼핑카드는 있으나 블로그가 다수 노출",
+      "pass": true
+    }
+  },
+  "serp": [
+    {
+      "url": "https://lady.khan.co.kr/living/article/202512241418001",
+      "opened": true,
+      "note": "소비자원 4cm 폴더형 어린이 매트 8종 시험: 경량 16~17dB, 0.4m 중량 1~5dB, 1m 중량 1~2dB 저감, 제품간 유의차 없음, 1종 DMF(VOC) 기준 초과, 가격 16.5만~39.9만. 홈트 관점 해석은 없음"
+    },
+    {
+      "url": "https://imnews.imbc.com/replay/2020/nwtoday/article/5905549_32531.html",
+      "opened": true,
+      "note": "MBC 홈트 매트 고르는 법: 두께 1~1.5cm 기본, 0.5cm 이하 비추, 소재 PVC·NBR·TPE 구별법. 소음 수치·법정 기준 없음"
+    },
+    {
+      "url": "https://picjjang.com/1005162/",
+      "opened": true,
+      "note": "홈짐 매트 추천: 최소 10mm 이상, EVA·퍼즐형 언급, 공간 측정 팁. 비교 데이터·근거 부족, 광고성"
+    },
+    {
+      "url": "https://www.a-ha.io/questions/48c63bbfaa40b3589c02e50528d81101",
+      "opened": true,
+      "note": "Q&A: TPE·NBR·PVC·EVA, 두께 6mm/10~15mm/20mm+, 겹치기·방음패드·정적 운동 권장. dB 근거·안정성 고려 없음"
+    },
+    {
+      "url": "https://brunch.co.kr/@gymblic/8",
+      "opened": true,
+      "note": "홈짐 매트 3종 EPDM·TPE·EVA 고경도 장단점(EVA 기름기·눌림, TPE 재단 어려움·고가, EPDM 가루·냄새). 수치 없음, 회원가입 유도"
+    },
+    {
+      "url": "https://literaturepackaging.com/%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%A7%A4%ED%8A%B8-%EC%B6%94%EC%B2%9C-%EB%B9%84%EA%B5%90-%EC%8B%9C%EA%B3%B5%EB%B9%84%EC%9A%A9-%EA%B2%AC%EC%A0%81-%ED%9A%A8%EA%B3%BC-%ED%9B%84%EA%B8%B0",
+      "opened": true,
+      "note": "층간소음 매트 비교표(고무 2cm·EVA 1.5cm·PE 3cm), 시공비. 법정 기준은 배너로만, dB 근거 없음, 파트너스"
+    },
+    {
+      "url": "https://www.k-health.com/news/articleView.html?idxno=54747",
+      "opened": true,
+      "note": "헬스경향: 층간소음 걱정되면 누워서 하는 스트레칭 권장. 매트 사양·시간대 언급 없음"
+    },
+    {
+      "url": "https://skibidig.com/%EA%B1%B0%EC%8B%A4-%EC%B8%B5%EA%B0%84%EC%86%8C%EC%9D%8C-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%A7%A4%ED%8A%B8-%EC%A2%85%EB%A5%98-%EC%84%A4%EC%B9%98%EB%B9%84%EC%9A%A9/",
+      "opened": true,
+      "note": "거실 매트 폼·고무·퍼즐 3종, 1.5~4cm 권장, 평당 비용. 경량/중량 구분 없음"
+    },
+    {
+      "url": "https://www.a-ha.io/questions/433703078a8369e984d8fb8064686779",
+      "opened": true,
+      "note": "방음매트 효과 Q&A: 체감 후기 위주, 알집매트 추천. 경량/중량 한계 설명 없음"
+    },
+    {
+      "url": "https://www.monsterzym.com/index.php?dispatch=community.view&community_code=coach&community_data_idx=10297938&list_page=158&search_target=&search_keyword=",
+      "opened": true,
+      "note": "몬스터짐 커뮤니티: 매트만으로 완전 차단 불가, 고밀도(고경도) 매트 권장, 기구 살살 내려놓기, 동작 조심"
+    },
+    {
+      "url": "https://wikidocs.net/blog/@Ounwan/24558/",
+      "opened": false,
+      "note": "403(Cloudflare 봇차단), scrapling·jina 모두 실패. 검색요약으로 요가매트 한계·퍼즐/롤형 구분만 참고"
+    },
+    {
+      "url": "https://wikidocs.net/blog/@Ounwan/22767/",
+      "opened": false,
+      "note": "403 차단"
+    },
+    {
+      "url": "https://luckybonnie.com/%ED%99%88%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%A7%A4%ED%8A%B8-%EA%B3%A0%EB%A5%B4%EB%8A%94-%EA%B8%B0%EC%A4%80-%EC%B8%B5%EA%B0%84-%EC%86%8C%EC%9D%8C-%EB%B0%A9%EC%A7%80-%EC%A0%9C%EB%8C%80%EB%A1%9C/",
+      "opened": false,
+      "note": "소켓 종료·타임아웃. 검색요약으로 '두께보다 밀도·탄성' 주장만 참고"
+    },
+    {
+      "url": "https://exervital.com/fitness/home/home-gym-mat-guide/",
+      "opened": false,
+      "note": "404"
+    }
+  ],
+  "factcheck": [
+    {
+      "claim": "소비자원 시험(2025.12): 두께 4cm 폴더형 어린이 매트 8종, 경량충격음 16~17dB·0.4m 중량충격음 1~5dB·1m 중량충격음 1~2dB 저감, 제품 간 유의차 없음, 1종 VOC(DMF) 기준 초과",
+      "sources": [
+        "https://lady.khan.co.kr/living/article/202512241418001",
+        "https://isplus.com/article/view/isp202512240065"
+      ]
+    },
+    {
+      "claim": "공동주택 층간소음 기준: 직접충격소음 1분 등가 주간 39dB·야간 34dB, 최고소음도 주간 57dB·야간 52dB, 주간 06~22시. 2023.1.2부터 등가 기준 4dB 강화(43→39, 38→34)",
+      "sources": [
+        "https://mobile.newsis.com/view/NISX20221231_0002143355",
+        "https://www.lawtalk.co.kr/posts/146963",
+        "https://www.law.go.kr/법령/공동주택층간소음의범위와기준에관한규칙"
+      ]
+    },
+    {
+      "claim": "경량충격음=작고 딱딱한 물체 낙하·의자 끄는 소리(탭핑머신), 중량충격음=뛰는 소리 등 무겁고 저주파(뱅머신·임팩트볼)",
+      "sources": [
+        "https://koreascience.kr/article/JAKO200462679972908.pdf",
+        "https://kfpa.or.kr/mem/pdf_file/A/38/A38_4-3.pdf",
+        "https://lady.khan.co.kr/living/article/202512241418001"
+      ]
+    },
+    {
+      "claim": "홈트 층간소음용 두께 10mm 이상(점프 10~15mm, 20mm+ 언급), 너무 푹신하면 발목 불안정, 두께보다 밀도 중요 — 권장치는 블로그·Q&A 의견이라 '의견이 많다'로 헤지",
+      "sources": [
+        "https://www.a-ha.io/questions/48c63bbfaa40b3589c02e50528d81101",
+        "https://picjjang.com/1005162/",
+        "https://www.monsterzym.com/index.php?dispatch=community.view&community_code=coach&community_data_idx=10297938&list_page=158&search_target=&search_keyword="
+      ]
+    },
+    {
+      "claim": "소재: TPE 복원·냄새 적음·고가·재단 어려움 / EVA 가성비·개봉 후 유분·기구 눌림 / EPDM 단단·가루·냄새 / 요가매트 4~8mm는 충격흡수 부족",
+      "sources": [
+        "https://brunch.co.kr/@gymblic/8",
+        "https://imnews.imbc.com/replay/2020/nwtoday/article/5905549_32531.html"
+      ]
+    },
+    {
+      "claim": "직접충격소음 최고소음도(주간 57dB·야간 52dB)는 1시간 안에 3회 이상 기준을 넘으면 기준 초과로 판단",
+      "sources": [
+        "https://kbthink.com/main/living-finance/consumption-life/single-consumption/floornoise.html",
+        "https://mobile.newsis.com/view/NISX20251022_0003371740",
+        "https://www.mt.co.kr/politics/2021/09/20/2021091720450363506"
+      ]
+    },
+    {
+      "claim": "층간소음 이웃사이센터는 환경부 산하 공공 상담·측정 창구(2012년 설립, 한국환경공단 등이 상담 수행)",
+      "sources": [
+        "https://www.nocutnews.co.kr/news/4855362",
+        "https://www.hankyung.com/amp/202101222246i",
+        "https://www.segye.com/newsView/20260626513258"
+      ]
+    },
+    {
+      "claim": "소비자원 매트 시험 1m 중량충격음 1~2dB 감소, 보도 원문 '소음 저감 효과가 작았다'",
+      "sources": [
+        "https://lady.khan.co.kr/living/article/202512241418001",
+        "https://isplus.com/article/view/isp202512240065"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "층간소음 운동매트",
+    "headline_finding": "4cm 매트도 경량충격음은 16~17dB 줄이지만 1m 중량충격음은 1~2dB만 줄임 → 점프 홈트는 매트+동작 조절이 답",
+    "legal_threshold": "주간 직접충격 1분 등가 39dB·최고 57dB, 야간 34/52dB (2023.1.2 4dB 강화)",
+    "candidate_matrix": "요가매트 4~8mm / 고밀도 홈트 매트 10~20mm / EVA 퍼즐 10~20mm / 고무 10~20mm / 폴더형 40mm",
+    "motion_to_mat": "스트레칭=요가매트, 맨몸근력=10~15mm 고밀도, 점프=퍼즐15mm+ 위 요가매트+낮시간, 덤벨=고무·고밀도 퍼즐, 기구=전용 고무",
+    "safety_check": "소비자원 8종 중 1종 VOC 기준 초과 → 유해물질 시험성적서 확인"
+  },
+  "structure": "비교선택",
+  "gaps": [
+    {
+      "gap": "상위 10개 중 법정 층간소음 기준(주간 39dB·최고 57dB·야간 기준)을 홈트 동작과 연결해 설명한 글이 없음",
+      "covered_in": "층간소음 기준은 몇 dB이고, 홈트 소리는 어디에 걸리나요?"
+    },
+    {
+      "gap": "소비자원 시험의 경량 16~17dB 대 중량 1~2dB 결과를 홈트 매트 기대치로 풀어낸 블로그가 없음(기사만 단순 전달)",
+      "covered_in": "경량충격음과 중량충격음, 매트가 막는 소리는 정해져 있어요"
+    },
+    {
+      "gap": "운동 동작별(스트레칭·맨몸·점프·덤벨·기구) 매트 조합을 결정표로 제시한 글이 없음",
+      "covered_in": "내 운동 동작으로 고르는 매트 조합표"
+    }
+  ],
+  "images": [
+    "floor-noise-workout-mat.webp (hero 16:9)",
+    "floor-noise-workout-mat-thickness.webp (4:3)",
+    "floor-noise-workout-mat-layering.webp (1:1)"
+  ],
+  "hermes_score": 96,
+  "score_history": [
+    88,
+    96
+  ]
+}

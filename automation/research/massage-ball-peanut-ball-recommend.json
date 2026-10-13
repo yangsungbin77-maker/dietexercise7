@@ -1,0 +1,204 @@
+{
+  "type": "review",
+  "keyword": "마사지볼 추천",
+  "note": "dietexercise7(핏기어). 루트=마사지볼 추천(땅콩볼 추천은 네이버 블로그 탭에서 과자 '땅콩볼'·얼굴 '땅콩형' 글과 섞여 의도가 흐려 클러스터로 내림). 구성=결론먼저(첫 문단 답=직경 6cm 안팎 중간 경도 싱글볼 → 근거=소재·형태·크기 → 예외=땅콩볼·돌기형·진동). 비YMYL: 효능 단정 없음, 금지 부위+전문가 상담 문구만. 가격은 막연한 가격대만. 1인칭은 리서치 과정만.",
+  "keyword_filter": {
+    "keyword": "마사지볼 추천",
+    "competition": {
+      "method": "serp-scan(네이버 블로그 탭·구글)",
+      "evidence": "네이버 블로그 탭 '마사지볼 추천' 상위가 개인 블로그(meongji__ 트라이에이드 후기, gamesoondol 바리바디 후기, 마사지샵 후기 다수)와 카페 글뿐이고 대형 매체·공식기관 없음. 구글도 wikidocs 개인 블로그·쇼핑몰 상품 페이지 위주라 신생 블로그 진입 가능 신호",
+      "pass": true
+    },
+    "demand": {
+      "method": "autocomplete(구글·네이버)",
+      "evidence": "구글 자동완성 '마사지볼 추천' → 마사지볼 추천 디시/더쿠/클리앙, 땅콩 마사지볼 추천, 다이소 마사지볼 추천, 발바닥 마사지볼 추천. 네이버 자동완성 '마사지볼' → 발마사지볼, 다이소 마사지볼, 땅콩마사지볼, 마사지볼 땅콩볼 / '땅콩볼' → 땅콩볼 마사지, 블랙롤 땅콩볼, 땅콩볼 사용법, 땅콩볼 추천",
+      "pass": true
+    },
+    "intent": {
+      "method": "serp-scan",
+      "evidence": "상위가 제품 비교·사용법 정보성 블로그(thehadam 싱글볼·땅콩볼 차이와 10분 루틴, kiltie999 셀프 마사지 기구 비교, dalliza88 고르는 조건) 위주. 쇼핑 카드가 일부 섞이지만 블로그가 다수라 정보성 추천글로 충족 가능",
+      "pass": true
+    }
+  },
+  "cluster": [
+    "마사지볼 추천",
+    "땅콩볼 추천",
+    "땅콩 마사지볼",
+    "라크로스볼",
+    "마사지볼 사이즈",
+    "발바닥 마사지볼",
+    "진동 마사지볼",
+    "다이소 마사지볼",
+    "마사지볼 사용법",
+    "마사지볼 vs 폼롤러",
+    "승모근 마사지볼"
+  ],
+  "serp": [
+    {
+      "url": "https://blog.naver.com/thehadam/224430496070",
+      "opened": true,
+      "note": "가장 충실. 싱글볼 vs 땅콩볼 차이, 벽 이용 압력 조절, 10분 루틴, 구매 체크(경도·크기·재질·표면·형태·구성수량), 금지부위. 약점=소재별 비교표·직경 수치 없음, 진동볼 없음, 자사 판매 링크"
+    },
+    {
+      "url": "https://blog.naver.com/kiltie999/224424667690",
+      "opened": true,
+      "note": "폼롤러·마사지건·땅콩볼·마사지볼 역할 비교와 구매 순서(폼롤러→볼). 땅콩볼=척추 양옆·목 뒤, 몇천 원대 저렴. 약점=크기·소재 기준 수치 없음"
+    },
+    {
+      "url": "https://blog.naver.com/dalliza88/224372269427",
+      "opened": true,
+      "note": "원리+승모근+부위별, 고르는 조건(골프공=손발, 테니스공=승모근·엉덩이, 초보 말랑→단단, 고무·실리콘 미끄럼 적음). 약점=효능 단정 표현 많음, 직경 cm 표 없음"
+    },
+    {
+      "url": "https://blog.naver.com/meongji__/224427445444",
+      "opened": true,
+      "note": "트라이에이드 3면 실리콘볼 협찬 후기. 단일 제품, 비교 없음"
+    },
+    {
+      "url": "https://blog.naver.com/kim_gomgom/224417918176",
+      "opened": true,
+      "note": "트라택 기본형·피넛형 내돈내산 짧은 후기. 다이소 대비 단단함 언급, 정보 얕음"
+    },
+    {
+      "url": "https://blog.naver.com/yangjinss/224397518739",
+      "opened": true,
+      "note": "포얼라인 대왕 땅콩볼 협찬 후기. 땅콩볼 vs 폼롤러 언급, 스펙·비교 없음"
+    },
+    {
+      "url": "https://blog.naver.com/asdfyu/224398839419",
+      "opened": true,
+      "note": "포얼라인 땅콩볼 부위별(목·등·종아리·허리) 사용법. 가운데 홈으로 위치 잡기 편함. 단일 제품"
+    },
+    {
+      "url": "https://blog.naver.com/artmxn/224432152643",
+      "opened": true,
+      "note": "장요근 홈트 글 속 라크로스볼·땅콩볼 비교(땅콩볼은 좌우로 덜 굴러감). 복부 직접 압박 피하기"
+    },
+    {
+      "url": "https://blog.naver.com/gamesoondol/224434081245",
+      "opened": true,
+      "note": "바리바디 릴렉스틱+돌기 볼 후기. 돌기볼=발바닥 강자극, 저가 대체품 실패담"
+    },
+    {
+      "url": "https://www.venturesquare.net/796884/",
+      "opened": true,
+      "note": "다노 마사지볼 출시 기사: 직경 6cm·7g·EPP·휴대용, 승모근·발바닥 용도"
+    },
+    {
+      "url": "https://wikidocs.net/blog/@Ounwan/21695/",
+      "opened": false,
+      "note": "구글 상위. 403 차단(스니펫만: 라크로스볼=깊은 압박, 돌기볼=분산 자극)"
+    },
+    {
+      "url": "https://wikidocs.net/blog/@Ounwan/24180/",
+      "opened": false,
+      "note": "구글 상위. 403 차단(스니펫만: 라크로스·스파이크·더블피넛 3종 비교)"
+    }
+  ],
+  "factcheck": [
+    {
+      "claim": "라크로스볼은 속이 꽉 찬 고무 공으로 직경 약 6.27~6.47cm(2.47~2.55인치) 규격, 단단하고 눌러도 잘 변형되지 않음",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lacrosse_ball",
+        "https://www.usalacrosse.com/magazine/beware-greasers-balls-dont-meet-nocsae-standard",
+        "https://www.healthline.com/health/fitness-exercise/lacrosse-ball-massage"
+      ]
+    },
+    {
+      "claim": "땅콩볼은 볼 두 개가 이어진 형태로 가운데 홈 덕분에 척추를 피해 양옆 근육 두 지점을 누르며, 싱글볼보다 덜 굴러감. 척추뼈 위 직접 압박은 피함",
+      "sources": [
+        "https://blog.naver.com/thehadam/224430496070",
+        "https://blog.naver.com/kiltie999/224424667690",
+        "https://blog.naver.com/artmxn/224432152643"
+      ]
+    },
+    {
+      "claim": "초보는 말랑한 볼부터 시작, 작고 단단할수록 압력이 한 점에 집중돼 강하게 느껴지고 큰 볼은 압력이 분산됨",
+      "sources": [
+        "https://blog.naver.com/thehadam/224430496070",
+        "https://blog.naver.com/dalliza88/224372269427"
+      ]
+    },
+    {
+      "claim": "크기 기준: 골프공 크기=손·발, 테니스공 크기=승모근·엉덩이(우리 표의 4~5cm/6~7cm 구간 근거). 다노 마사지볼은 직경 6cm·EPP",
+      "sources": [
+        "https://blog.naver.com/dalliza88/224372269427",
+        "https://www.venturesquare.net/796884/"
+      ]
+    },
+    {
+      "claim": "소재: TPE·고무·실리콘 계열 제품이 주류, 고무·실리콘은 미끄럼이 적음, EPP는 매우 가벼움(다노 6cm 7g, 블랙롤 듀오볼 EPP)",
+      "sources": [
+        "https://blog.naver.com/thehadam/224430496070",
+        "https://blog.naver.com/dalliza88/224372269427",
+        "https://www.venturesquare.net/796884/"
+      ]
+    },
+    {
+      "claim": "진동 마사지볼(하이퍼스피어 계열)은 충전식, 진동 3단계, 1회 충전 약 2시간 안팎",
+      "sources": [
+        "https://pickleballcentral.com/hyperice-hypersphere-mini-massage-ball/",
+        "https://www.garagegymreviews.com/equipment/hyperice-hypersphere-2 (검색 스니펫: 3 levels, up to 2 hours)",
+        "https://www.galaxus.fr/en/s6/product/hyperice-hypersphere-125cm-massagers-9018950 (검색 스니펫: battery 2h, charging 4h)"
+      ]
+    },
+    {
+      "claim": "돌기형은 압력을 여러 점으로 분산해 단단한 볼보다 덜 아프고 발바닥 지압용으로 많이 쓰임",
+      "sources": [
+        "https://blog.naver.com/gamesoondol/224434081245",
+        "https://wikidocs.net/blog/@Ounwan/21695/ (검색 스니펫)"
+      ]
+    },
+    {
+      "claim": "피해야 할 곳: 척추뼈·목 앞·무릎 뒤 오금·관절·뼈 돌출부·다친 곳, 저림·날카로운 통증 시 중단",
+      "sources": [
+        "https://blog.naver.com/thehadam/224430496070",
+        "https://blog.naver.com/dalliza88/224372269427"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "마사지볼 추천",
+    "headline_finding": "처음 1개는 직경 6cm 안팎 중간 경도의 매끈한 싱글볼, 땅콩볼은 등 양옆·목 뒤용 두 번째 볼",
+    "lacrosse_ball_spec": "라크로스볼 규격 직경 약 6.27~6.47cm, 속이 꽉 찬 고무 → 입문용으로는 셈",
+    "material_matrix": "실리콘(말랑~중간·미끄럼 적음)/TPE(경도 폭 넓음)/EPP(가볍고 단단)/고무(라크로스·단단) — 제조사 설명·후기 종합 판단(실측 아님) 명시",
+    "size_matrix": "4~5cm 골프공=발·손 / 6~7cm 테니스공=둔근·종아리·승모근 / 8~10cm+=등 넓은 부위",
+    "vibration_spec": "하이퍼스피어 계열 3단 진동·약 2시간 배터리, 가격이 일반 볼의 몇 배 → 습관 생긴 뒤",
+    "role_split": "폼롤러=넓은 면, 마사지건=손 닿는 곳, 마사지볼=손 안 닿는 좁은 곳"
+  },
+  "structure": "결론먼저",
+  "gaps": [
+    {
+      "gap": "상위 10개 중 TPE·실리콘·EPP·고무를 소재별로 나눠 느낌과 맞는 사람을 비교한 표가 없음(재질 '확인하라'는 말뿐)",
+      "covered_in": "소재별로 보면 경도가 보인다"
+    },
+    {
+      "gap": "골프공·테니스공 크기 언급만 있고 cm 직경 구간별로 부위·느낌을 매칭한 사이즈표를 준 글이 없음",
+      "covered_in": "직경으로 고르는 마사지볼 사이즈표"
+    },
+    {
+      "gap": "진동 마사지볼의 실제 사양(진동 단수·배터리)과 언제 사야 하는지 판단 기준을 다룬 글이 없음",
+      "covered_in": "돌기형·진동 마사지볼은 언제 사야 할까?"
+    }
+  ],
+  "external_link": "https://en.wikipedia.org/wiki/Lacrosse_ball (curl 200, 라크로스볼 규격 설명용 — 건강 효과 인용 아님)",
+  "internal_links": [
+    "/foam-roller-recommend/",
+    "/massage-gun-recommend/"
+  ],
+  "images": {
+    "count": 4,
+    "files": [
+      "massage-ball-peanut-ball-recommend.webp (hero, 16:9)",
+      "massage-ball-peanut-ball-recommend-types.webp (body, 4:3)",
+      "massage-ball-peanut-ball-recommend-peanut.webp (body, 1:1)",
+      "massage-ball-peanut-ball-recommend-size.webp (body, 16:9)"
+    ],
+    "generator": "fal-ai/flux-pro/v1.1 via automation/_gen_imgs_massage-ball.py"
+  },
+  "hermes_score": 94,
+  "score_history": [
+    87,
+    94
+  ]
+}
