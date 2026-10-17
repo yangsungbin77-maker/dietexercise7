@@ -1,0 +1,272 @@
+{
+  "type": "guide",
+  "keyword": "가정용 철봉 추천",
+  "keyword_filter": {
+    "keyword": "가정용 철봉 추천",
+    "cluster": [
+      "문틀 철봉",
+      "문틀 철봉 추천",
+      "문틀 철봉 단점",
+      "문틀 철봉 문틀 손상",
+      "문틀 철봉 자국",
+      "치닝디핑 추천",
+      "가정용 철봉 설치",
+      "가정용 철봉 무게",
+      "풀업바",
+      "벽 고정 철봉",
+      "턱걸이 기구"
+    ],
+    "competition": {
+      "method": "serp-scan",
+      "evidence": "네이버 1페이지 본문이 개인 블로그 4개(강건·메꿀다이어트·히뉴뉴·소횬)와 oopy.io 수수료 노션 약 12개, 카페 3개뿐이고 대형 언론·위키·공식기관 없음. 상위 글 중앙값 약 2천자로 얇음. 구글은 봇차단으로 직접 확인 불가, WebSearch 상위도 제휴 블로그·쇼핑 위주. allintitle 연산자는 검색엔진이 무시해 결과수 미확인",
+      "pass": true
+    },
+    "demand": {
+      "method": "autocomplete",
+      "evidence": "구글 자동완성 '가정용 철봉' → 가정용 철봉 추천·설치·가격·무게 노출, '문틀 철봉' → 문틀 철봉 추천·단점·문틀 손상·자국·벌어짐 노출(2026-10-17 suggestqueries 확인). 네이버 파워링크 10개·쇼핑 묶음이 붙을 만큼 상업 수요 있음",
+      "pass": true
+    },
+    "intent": {
+      "method": "serp-scan",
+      "evidence": "네이버 본문 결과가 블로그·노션 후기·카페 질문 등 정보·비교형 글로 채워짐(쇼핑 묶음은 상단에 있으나 블로그가 다수 노출). PAA형 질문=떨어지지 않나·문틀 상하나·문 폭 맞나·전세집 괜찮나",
+      "pass": true
+    }
+  },
+  "serp": [
+    {
+      "url": "https://reviewpro.co.kr/best-pull-up-station/",
+      "opened": true,
+      "note": "치닝디핑 7종 하중·높이·크기 수치. 본문은 2021 업데이트, 천장고·바닥·소음·FAQ 없음"
+    },
+    {
+      "url": "https://www.clien.net/service/board/park/16148742",
+      "opened": true,
+      "note": "'문틀 철봉 사지 마세요' 커뮤니티 — 압축 고정 원리·문틀 깨짐·세입자 교체비 사례, 수치 근거 약함"
+    },
+    {
+      "url": "https://pickfarm.oopy.io/3ad29ffb-659a-8153-b008-f0cbc2a063cb",
+      "opened": true,
+      "note": "수수료 노션 틀 글, 모델명·하중·문 폭 없음"
+    },
+    {
+      "url": "https://ssolreview.oopy.io/3b473c89-7674-8144-b9d5-d3eb4bfbc640",
+      "opened": true,
+      "note": "같은 틀 찍어낸 후기, 수치 없음"
+    },
+    {
+      "url": "https://reviewplaza.oopy.io/38a29ffb-659a-813e-aa34-c64b190e894c",
+      "opened": true,
+      "note": "핏에이블 치닝디핑 소개, 하중·높이·천장 없음"
+    },
+    {
+      "url": "https://itemwalk.oopy.io/3acddde3-24c1-8193-8fd6-e338c22680fe",
+      "opened": true,
+      "note": "'고르는 법' 제목이나 수치 없음"
+    },
+    {
+      "url": "https://pickmark.oopy.io/3abddde3-24c1-81fe-bdd6-f622e2cb96d9",
+      "opened": true,
+      "note": "멜킨 문틀철봉, 문틀 두께 제약 언급만"
+    },
+    {
+      "url": "https://m.blog.naver.com/aledma8925/224415020558",
+      "opened": true,
+      "note": "인플루언서 원고료 후기, 스펙·설치·단점 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/heei407/224352537501",
+      "opened": true,
+      "note": "설치 4단계·하중 500/700kg·잠금, 문 폭 범위 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/thgus09150/224402606191",
+      "opened": true,
+      "note": "강철 3T·지지대 12cm·수평계, 문틀 확인법 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/ytcrew7919/224420727741",
+      "opened": true,
+      "note": "설치 전 확인 3가지(폭·재질·하중) 언급, cm 수치·측정법 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/fllove85/224430713969",
+      "opened": true,
+      "note": "패드 23cm·8중 잠금, 봉 길이를 문틀 폭으로 오기"
+    },
+    {
+      "url": "https://m.blog.naver.com/p1000w/224406041000",
+      "opened": true,
+      "note": "1페이지권 최다 체계(종류3·손상기준4·설치5단계), 걸이식 몰딩 턱 0.7~1cm. 하중 인증 근거 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/banglehomes/224426396262",
+      "opened": true,
+      "note": "문틀 구조·힘 전달 원리·문 폭 70~95/99~120cm·경첩 반대쪽 밀림. 제품 정보 없음"
+    },
+    {
+      "url": "https://m.blog.naver.com/kim_assistant/224431148873",
+      "opened": true,
+      "note": "단축·장축 봉 길이 vs 권장 문 폭 표, 한 제품 홍보"
+    },
+    {
+      "url": "https://wikidocs.net/blog/@Ounwan/22295/",
+      "opened": false,
+      "note": "403·클라우드플레어 차단"
+    },
+    {
+      "url": "https://m.blog.naver.com/kwonhuiseok/224419179595",
+      "opened": true,
+      "note": "안방 문틀 안쪽 폭 92cm라 와이드 그립 어려움 경험담"
+    },
+    {
+      "url": "https://sports.khan.co.kr/article/202607011235003/amp",
+      "opened": true,
+      "note": "핏에이블 아크 출시 보도자료 72~96cm·700kg"
+    },
+    {
+      "url": "https://fitablekorea.com/product/30/",
+      "opened": true,
+      "note": "제조사 공식몰 스펙 1차 출처"
+    }
+  ],
+  "factcheck": [
+    {
+      "claim": "핏에이블 롱패드 권장 문틀 안쪽 폭 단축 76~95cm·장축 96~120cm, 하중 700kg, 패드 5×23cm",
+      "sources": [
+        "https://fitablekorea.com/product/%ED%95%8F%EC%97%90%EC%9D%B4%EB%B8%94-%EB%A1%B1%ED%8C%A8%EB%93%9C-%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%AC%B8%ED%8B%80-%EC%B2%A0%EB%B4%89-%EC%B5%9C%EB%8C%80-%ED%95%98%EC%A4%91-700kg/30/",
+        "https://m.blog.naver.com/fllove85/224430713969"
+      ]
+    },
+    {
+      "claim": "숀리 하이퍼 봉 길이 단축 76~110cm·장축 96~140cm, 권장 문틀 폭 단축 76~95cm·장축 96~120cm",
+      "sources": [
+        "https://m.blog.naver.com/kim_assistant/224431148873",
+        "다나와 상품 요약(WebSearch 결과, 76~110/96~140 일치)"
+      ]
+    },
+    {
+      "claim": "국내 일반 아파트 천장고 약 2.3m, 신축 고급 단지 2.4~2.6m",
+      "sources": [
+        "https://www.smarttoday.co.kr/ko-kr/articles/112049",
+        "https://www.smarttoday.co.kr/ko-kr/articles/41355",
+        "https://www.fnnews.com/news/202211151017541965"
+      ]
+    },
+    {
+      "claim": "제8차 인체치수조사 두신지수 7.2~7.3, 평균 키 남 172.5cm·여 159.6cm",
+      "sources": [
+        "https://www.fnnews.com/news/202203301811045858",
+        "https://www.motir.go.kr/kor/article/ATCL8764a1224/155118041/view"
+      ]
+    },
+    {
+      "claim": "CPSC 2011 문틀형 Perfect Pullup 약 7,000개 리콜, 손잡이 균열 보고 약 2,200건",
+      "sources": [
+        "https://www.cpsc.gov/Recalls/2011/Perfect-Pullup-Recalled-by-Perfect-Fitness-Due-to-Fall-Injury-Hazard",
+        "https://recalls.justia.com/outdoor-recreation-and-sports/exercise-equipment/11-136"
+      ]
+    },
+    {
+      "claim": "한국소비자원 2009 보도: 2008년 8월 20대 남성 가정 설치 철봉 안전장치 이탈로 압박 골절",
+      "sources": [
+        "https://www.newswire.co.kr/newsRead.php?no=389745",
+        "한국소비자원 보도자료 2009-02-26(동일 내용 배포본)"
+      ]
+    },
+    {
+      "claim": "해외 걸이식 대표 제품 300lb(약 136kg) 표기, 헬스장용 치닝디핑 약 159kg 표기",
+      "sources": [
+        "https://www.desertcart.nz/products/715052",
+        "https://slickdeals.net/f/19083043-18-8-iron-gym-adjustable-doorway-pull-up-bar-no-screw-portable-chin-up-bar-300-lb-capacity",
+        "https://www.lifefitness.com.au/commercial/chindipleg-raise-bwcdlr"
+      ]
+    },
+    {
+      "claim": "고정형 치닝디핑 높이 205~215cm 안팎, 조절형 최대 220cm대 후반",
+      "sources": [
+        "https://reviewpro.co.kr/best-pull-up-station/",
+        "https://www.lifefitness.com.au/commercial/chindipleg-raise-bwcdlr"
+      ]
+    },
+    {
+      "claim": "걸이식은 몰딩 턱 0.7~1cm 이상 필요(정보형 블로그 안내), 해외 걸이식은 몰딩 조건이 붙음",
+      "sources": [
+        "https://m.blog.naver.com/p1000w/224406041000",
+        "https://bullbarfit.com/blogs/q-as/how-to-choose-the-right-pull-up-bar-for-different-door-types"
+      ]
+    },
+    {
+      "claim": "핏에이블 공식몰 문구 '두 구간을 벗어나면 설치가 어려우니 주문 전에 꼭 재 보시기를 권해 드립니다'",
+      "sources": [
+        "https://fitablekorea.com/product/%ED%95%8F%EC%97%90%EC%9D%B4%EB%B8%94-%EB%A1%B1%ED%8C%A8%EB%93%9C-%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%AC%B8%ED%8B%80-%EC%B2%A0%EB%B4%89-%EC%B5%9C%EB%8C%80-%ED%95%98%EC%A4%91-700kg/30/",
+        "https://sports.khan.co.kr/article/202607011235003/amp"
+      ]
+    },
+    {
+      "claim": "조절형 치닝디핑 최저 높이 160~180cm대(고무나라 163~227, 핏분 182~232, 반석 180~190), 바닥 면적 65×75cm~128×100cm, 무게 13.5~54kg",
+      "sources": [
+        "https://reviewpro.co.kr/best-pull-up-station/",
+        "제조사 표기 재인용(reviewpro 표), 본문은 '제품마다 차이' 헤지"
+      ]
+    }
+  ],
+  "variables": {
+    "keyword": "가정용 철봉 추천",
+    "headline_finding": "천장고 230cm 집에서 205cm 고정형 치닝디핑은 여유 25cm로 머리 길이(약 22~24cm)와 비슷해 빠듯함",
+    "door_width_short": "단축 권장 문틀 폭 76~95cm",
+    "door_width_long": "장축 96~120cm",
+    "rod_vs_door": "봉 최대 110cm vs 권장 폭 95cm",
+    "head_length": "남 약 24cm·여 약 22cm(두신지수 환산)",
+    "load_rating_gap": "문틀형 700kg vs 해외 걸이식 136kg vs 상업용 159kg"
+  },
+  "structure": "비교선택",
+  "gaps": [
+    {
+      "gap": "상위 10개 중 치닝디핑 높이와 아파트 천장고(2.3m)로 머리 여유를 계산해 준 글이 없음",
+      "covered_in": "치닝디핑 추천 전에, 천장 높이부터 계산하세요"
+    },
+    {
+      "gap": "봉 길이와 권장 문틀 안쪽 폭을 구분하지 않아 오기한 글까지 있음, 측정법 부재",
+      "covered_in": "우리 집 문 폭에 맞을까? 단축·장축 고르는 법"
+    },
+    {
+      "gap": "최대하중 500~700kg 표기가 문틀 고정력과 다른 숫자라는 설명, 업체별 표기 편차 설명 없음",
+      "covered_in": "최대하중 700kg, 믿어도 될까?"
+    },
+    {
+      "gap": "문틀을 두드려 재질·속 빈 구조를 자가 진단하는 표가 추천 글 상위권에 없음",
+      "covered_in": "문틀 철봉 단점, 문틀 손상·자국은 왜 생길까?"
+    },
+    {
+      "gap": "치닝디핑 바닥 면적·무게·바닥재 눌림·착지 소음을 다룬 글 없음",
+      "covered_in": "치닝디핑은 바닥 면적과 층간소음도 같이 보세요"
+    }
+  ],
+  "own_evidence": [
+    {
+      "type": "calc",
+      "desc": "천장고 230cm 기준 철봉 높이 215·205·195cm별 남는 여유를 직접 계산해 표로 만듦",
+      "proof": "천장고 230cm에서 205cm 고정형을 놓으면 남는 여유는 25cm"
+    },
+    {
+      "type": "calc",
+      "desc": "인체치수조사 두신지수와 평균 키로 머리 길이를 직접 나눠 환산",
+      "proof": "머리 길이는 남성 약 24cm, 여성 약 22cm"
+    },
+    {
+      "type": "table",
+      "desc": "제조사·판매처 스펙을 봉 길이와 권장 문틀 폭으로 나눠 다시 정리한 표",
+      "proof": "봉은 110cm까지 늘어나도 권장 폭은 95cm까지"
+    }
+  ],
+  "images": [
+    "home-pull-up-bar-guide.webp(히어로, Wikimedia CC BY-SA 4.0 Buidhe, 16:9 크롭)",
+    "home-pull-up-bar-measure.webp(직접 그린 측정 그림, 1:1)",
+    "home-pull-up-bar-wall-mount.webp(Wikimedia CC BY 4.0 Santeri Viinamäki, 약 5:3)"
+  ],
+  "hermes_score": 95,
+  "score_history": [
+    88,
+    95
+  ]
+}
