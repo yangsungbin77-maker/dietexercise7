@@ -1,0 +1,21 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+---
+
+<!doctype html>
+<html lang="ko">
+	<head>
+		<BaseHead title="페이지를 찾을 수 없어요 | 핏기어" description="요청한 주소의 페이지가 없습니다." />
+	</head>
+	<body>
+		<Header />
+		<main style="max-width: 720px; margin: 4rem auto; padding: 0 1rem; text-align: center;">
+			<h1>페이지를 찾을 수 없어요</h1>
+			<p>주소가 바뀌었거나 없는 페이지예요. 아래에서 찾던 장비 글로 가 보세요.</p>
+			<p><a href="/">홈으로</a> · <a href="/blog/">전체 글 보기</a></p>
+		</main>
+		<Footer />
+	</body>
+</html>
