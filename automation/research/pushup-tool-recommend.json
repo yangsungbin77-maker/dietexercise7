@@ -1,0 +1,237 @@
+{
+ "type": "guide",
+ "keyword": "푸쉬업 도구 추천",
+ "keyword_filter": {
+  "keyword": "푸쉬업 도구 추천",
+  "competition": {
+   "method": "serp-scan (구글 + 네이버)",
+   "evidence": "구글 '푸쉬업 도구 추천' 1페이지=대부분 쇼핑 카테고리(다나와·SSG·오늘의집·G마켓)와 개인 블로그. 대형 매체·공식기관 없음. '푸쉬업 도구'는 '푸쉬업바'로 좁혀진 상위가 대부분이라, 바·보드·회전형·파렐렛을 함께 비교하는 글은 공석",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete + 관련 검색어",
+   "evidence": "구글 자동완성 '푸쉬업' 입력 시 '푸쉬업 도구'·'푸쉬업보드 추천'·'푸쉬업바 추천' 노출. 쿠팡·오늘의집도 '푸쉬업 도구' 카테고리 검색이 활성화돼 상업적 수요 확인",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "'푸쉬업 도구 추천' 상위가 쇼핑몰 카테고리와 블로그 추천 글로 구성 → 정보성 구매 가이드로 충족 가능. 상위 공석(바·보드·회전형·파렐렛 종합 비교)이 명확",
+   "pass": true
+  }
+ },
+ "cluster": [
+  "푸쉬업 도구 추천",
+  "푸쉬업바",
+  "푸쉬업보드",
+  "멀티 푸쉬업보드",
+  "회전형 푸쉬업바",
+  "파렐렛",
+  "푸쉬업보드 색깔",
+  "팔굽혀펴기 기구",
+  "홈트레이닝 용품",
+  "손목 보호",
+  "칼리스테닉스"
+ ],
+ "serp": [
+  {
+   "url": "https://sports.goodranking.co.kr/13",
+   "opened": true,
+   "note": "운동용품 굳랭킹 '푸쉬업바 후기순 추천'. 제품 리스트형(제품명+가격+후기수)만 반복, 종류/보드/파렐렛 구분 없음. 상위 글의 전형적 한계 확인"
+  },
+  {
+   "url": "https://trustedhealthgear.com/reviews/best-push-up-bars",
+   "opened": true,
+   "note": "2026년 영문 비교. fixed/rotating/parallette 3축으로 분류 + 가격대(저가 $8-10, 중가 $19-25, 프리미엄 $37-40). Perfect Pushup Elite $39.99가 회전형 1순위. 본문 참고 축"
+  },
+  {
+   "url": "https://www.setforset.com/blogs/news/best-push-up-boards",
+   "opened": true,
+   "note": "푸쉬업보드 색깔 매핑(파랑=가슴/초록=삼두/빨강=어깨/노랑=등). 포지션 10-15, 손목 중립 그립의 장점. 보드 전용 전문 글"
+  },
+  {
+   "url": "https://www.trxtraining.com/blogs/news/best-push-up-tools",
+   "opened": true,
+   "note": "TRX의 best push-up tools 7종(바·회전·보드·스탠드·YBell·TRX·메디신볼). 각 도구의 pros/cons/ideal user. 다양한 축을 가장 넓게 커버한 소스"
+  },
+  {
+   "url": "https://blog.hundredpushups.com/push-up-equipment-the-best-push-up-bars-and-handles/",
+   "opened": true,
+   "note": "바·핸들 중심 추천 5개. 손목 완화·가동범위·근육 타겟·관절 보호 4대 이점. 종류 구분은 얕음"
+  },
+  {
+   "url": "https://ohou.se/productions/836089/selling",
+   "opened": false,
+   "note": "오늘의집 '아이워너 멀티 푸쉬업보드' 상품 페이지 403 차단. 제품 사양은 hanatechtool.com으로 교차 확인"
+  },
+  {
+   "url": "https://pusandate.com/916",
+   "opened": true,
+   "note": "국내 블로그 TOP20형. 표준/접이식/멀티 3종 구분과 안티슬립 패드·소재 품질을 선택 기준으로 제시. 보드/파렐렛/회전 구분 없음"
+  },
+  {
+   "url": "https://chiliguides.com/guides/guide-to-buying-push-up-bars/",
+   "opened": false,
+   "note": "500 에러로 열람 실패. 이전 리서치(pushup-bar-recommend.json)에서 원판형=가장 안정·고가, 플라스틱<금속<원판 순 안정성 교차 확인됨"
+  },
+  {
+   "url": "https://www.wavar.com/blog/3-best-push-up-boards-in-2023.html",
+   "opened": true,
+   "note": "제조사 Wavar의 보드 3유형(회전형 보드/12기능 보드/저항밴드 결합 보드). 색깔 매핑은 가슴/어깨/삼두/코어 타겟이라 명시"
+  },
+  {
+   "url": "https://www.physioroom.com/info/how-to-use-push-up-bars/",
+   "opened": true,
+   "note": "재활 전문 가이드. 자세 체크(손 어깨너비·일자·팔꿈치 안쪽), 초보 5-10회, 가장 흔한 실수 3개(엘보우 벌어짐·힙 처짐·그립 미스). 안전 섹션의 1차 출처"
+  },
+  {
+   "url": "https://fitnessmastered.com/fitness-tips/best-pushup-equipment-accessories-review",
+   "opened": true,
+   "note": "액세서리 4분류(바·저항밴드·머신·보드). 하중 2200lb 바, 24레벨 저항 플러스 등 하중 수치 확인. 가격·기능 폭넓음"
+  },
+  {
+   "url": "https://www.gdgrip.co.kr/blogPost/untitled-19",
+   "opened": true,
+   "note": "국내. 체중 60~70% 부하 수치, 자세별 자극 부위, 손목 90도 꺾임→중립 그립 원리. 초보 자세 섹션 교차 출처"
+  },
+  {
+   "url": "https://hanatechtool.com/product/멀티푸쉬업보드아이워너/177/",
+   "opened": true,
+   "note": "아이워너 멀티 푸쉬업보드 사양 61×20×2cm, ABS, 옐로우/그린/블루/퍼플. 보드 치수·소재의 국내 교차 출처"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Parallettes",
+   "opened": true,
+   "note": "위키 파렐렛 공식 정의. '푸쉬업바보다 길고 딥바보다 낮다', L싯·V싯·플란체·핸드스탠드. PVC로 자작 가능. 파렐렛 섹션 1차 출처"
+  },
+  {
+   "url": "https://rollrestorerepeat.com/best-push-up-boards-for-home-workouts-2026-5-color-coded-systems-that-actually-work/",
+   "opened": true,
+   "note": "2026년 보드 5종 비교. HOTWAVE는 빨강=가슴/파랑=등/노랑=어깨/초록=삼두. 가격 $27~$40. 매핑이 또 다름을 확인"
+  },
+  {
+   "url": "https://www.harisonfitness.com/maximizing-your-workout-how-to-use-the-harison-push-up-board/",
+   "opened": true,
+   "note": "HARISON HR-424 공식 가이드. 빨강=어깨/노랑=등/파랑=삼두/초록=가슴. 하중 500lb. 색깔 매핑이 제조사마다 다름의 1차 증거"
+  }
+ ],
+ "serp_summary": {
+  "intent": "추천/구매 — 푸쉬업 도구로 뭘 살지(바 1종에 쏠리지 않고)",
+  "common_must": [
+   "푸쉬업바 종류",
+   "손목 보호 원리",
+   "선택 기준(안정성·그립)",
+   "가격대",
+   "자세·실수"
+  ],
+  "gap": "국내 상위는 '푸쉬업바'로 좁혀 바만 다루고, 멀티 푸쉬업보드·회전형·파렐렛을 함께 비교하지 않음. 보드 색깔-근육 매핑이 제조사마다 다르다는 함정 지적도 없음. 파렐렛과 바의 높이·쓸모 구분도 공석",
+  "our_angle": "4종 전부 다루며 상황별 결정표 + 색깔 매핑 함정 + 파렐렛 vs 바 높이 차이를 1차 출처로 정리"
+ },
+ "factcheck": [
+  {
+   "claim": "푸쉬업바(고정)는 손을 약 3~5인치(약 7.5~13cm) 올려 손목 꺾임을 중립 그립으로 완화하고 가동범위를 넓힘. 바닥 팔굽혀펴기는 체중의 약 60~70% 부하",
+   "sources": [
+    "https://trustedhealthgear.com/reviews/best-push-up-bars",
+    "https://www.physioroom.com/info/how-to-use-push-up-bars/",
+    "https://www.gdgrip.co.kr/blogPost/untitled-19"
+   ]
+  },
+  {
+   "claim": "멀티 푸쉬업보드의 색깔-근육 매핑은 제조사마다 다르다. HARISON 공식 가이드는 빨강=어깨/노랑=등/파랑=삼두/초록=가슴, 다른 보드(Set For Set/Roll Restore Repeat 2026)는 파랑=가슴/초록=삼두 등으로 다르게 씀",
+   "sources": [
+    "https://www.harisonfitness.com/maximizing-your-workout-how-to-use-the-harison-push-up-board/",
+    "https://www.setforset.com/blogs/news/best-push-up-boards",
+    "https://rollrestorerepeat.com/best-push-up-boards-for-home-workouts-2026-5-color-coded-systems-that-actually-work/"
+   ]
+  },
+  {
+   "claim": "회전형 손잡이는 삼각근·전거근·복사근 등 안정근을 더 쓰게 하지만, 아이소메트릭 긴장이 흐트러질 수 있고 통제된 움직임이 익은 뒤 쓰기를 권장(초보 제한)",
+   "sources": [
+    "https://www.physioroom.com/info/benefits-of-rotating-push-up-handles/",
+    "https://theworkoutdigest.com/push-bars-benefits-beat-regular-pushups/"
+   ]
+  },
+  {
+   "claim": "파렐렛은 푸쉬업바보다 더 높고 길다. 로우 파렐렛 약 6인치(약 15cm), 스탠더드 9~12인치(약 23~30cm). L싯·V싯·플란체·핸드스탠드 푸쉬업까지 지원. 푸쉬업바(3~5인치/7.5~13cm)와 쓸모 구분",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Parallettes",
+    "https://trustedhealthgear.com/reviews/best-push-up-bars"
+   ]
+  },
+  {
+   "claim": "국내 가격대 2026년 10월 정가 기준(세일·세트 구성에 따라 변동) — 바 약 5,000~15,000원, S형·접이식 7,000~15,000원, 회전형 25,000~50,000원, 멀티 보드 25,000~40,000원, 파렐렛 30,000~80,000원. 영문 가격대와 교차 — 저가 $8~10, 중가 $19~25, 프리미엄 $37~40",
+   "sources": [
+    "https://topten-blog.com/articles/푸쉬업-바-추천",
+    "https://trustedhealthgear.com/reviews/best-push-up-bars",
+    "https://rollrestorerepeat.com/best-push-up-boards-for-home-workouts-2026-5-color-coded-systems-that-actually-work/"
+   ]
+  },
+  {
+   "claim": "아이워너 멀티 푸쉬업보드 사양 — ABS 소재, 61×20×2cm, 옐로우/그린/블루/퍼플 색상 구성. 하중 표기는 제품마다 다르나 상위 보드는 200kg(약 500lb) 안팎 지지",
+   "sources": [
+    "https://hanatechtool.com/product/멀티푸쉬업보드아이워너/177/",
+    "https://www.harisonfitness.com/maximizing-your-workout-how-to-use-the-harison-push-up-board/"
+   ]
+  }
+ ],
+ "variables": {
+  "keyword": "푸쉬업 도구 추천",
+  "headline_finding": "국내 상위는 '푸쉬업바'로만 쏠려 있고, 바·보드·회전형·파렐렛 4종 비교와 색깔 매핑 함정·파렐렛 높이 차이가 상위 공석",
+  "tool_matrix": "바 7.5~13cm·안정성/가성비 / 보드 10~14그립·부위 전환 / 회전형 베어링·안정근↑ / 파렐렛 15~30cm·체조까지",
+  "color_mapping_trap": "HARISON 공식=빨/노/파/초=어깨/등/삼두/가슴 vs 흔한 보드=파/초=가슴/삼두. 같은 색이라도 보드마다 다른 부위라 설명서 사진 필수",
+  "parallette_vs_bar": "바 3~5인치(7.5~13cm) vs 파렐렛 로우 6인치(15cm)/스탠더드 9~12인치(23~30cm) + 길이도 파렐렛이 길어 핸드스탠드·L싯·플란체에 안정",
+  "price_range_2026_10": "바 5,000~15,000원 / S·접이식 7,000~15,000원 / 회전형 25,000~50,000원 / 보드 25,000~40,000원 / 파렐렛 30,000~80,000원 (정가 기준)",
+  "beginner_rule": "입문자는 넓은 바닥의 표준 바 → 보드·회전형 → 파렐렛 순서로 넓혀가는 게 정석"
+ },
+ "structure": "비교선택",
+ "external_link": "https://www.samsung.com/sec/watches/all-watches/ (assignment.json 지정, 심박·세트 트래킹 맥락으로 자연 삽입)",
+ "internal_link": "/pushup-bar-recommend/ (바 상세 비교로 연결), /home-pull-up-bar-guide/ (철봉 설치형), /home-workout-beginner-gear/ (홈트 입문)",
+ "gaps": [
+  {
+   "gap": "국내 상위 글 중 멀티 푸쉬업보드의 색깔-근육 매핑이 제조사마다 다르다는 함정을 지적한 글이 없음(HARISON vs 흔한 매핑 교차)",
+   "covered_in": "멀티 푸쉬업보드 — 색깔로 부위를 바꾼다는 아이디어"
+  },
+  {
+   "gap": "국내 상위 글 중 파렐렛과 푸쉬업바의 높이 차이(바 3-5인치 vs 파렐렛 6-12인치)와 쓸모 구분을 다룬 글이 거의 없음",
+   "covered_in": "파렐렛 — 푸쉬업바와 뭐가 다른가요"
+  },
+  {
+   "gap": "상위 글이 대부분 '푸쉬업바' 한 종류만 다뤄, 바·보드·회전형·파렐렛 네 종류를 상황별 결정표(6가지 상황)로 정리한 곳이 없음",
+   "covered_in": "상황별로 뭘 사야 할까요"
+  },
+  {
+   "gap": "국내 상위 글은 가격대를 제품명 나열로만 보여줘, 도구 유형별 범위를 영문권 가격과 교차해 정리한 비교표가 없음",
+   "covered_in": "가격대와 살 때 주의할 점"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "table",
+   "desc": "푸쉬업 도구 4종(바·보드·회전형·파렐렛)의 특징·대상·아쉬운점을 상위 글 교차 분석으로 직접 비교표 작성",
+   "proof": "처음 하나만 사고 싶은 입문"
+  },
+  {
+   "type": "data",
+   "desc": "제품별 색깔-근육 매핑 차이(HARISON vs Set For Set/Roll Restore Repeat 2026)를 직접 수집해 함정 섹션으로 정리",
+   "proof": "색깔-근육 매핑이 제조사마다 다릅니다"
+  },
+  {
+   "type": "table",
+   "desc": "상위 글 공석인 '상황별 추천 도구 결정표'를 내 상황 6종(처음 하나·손목·부위 전환·좁은 공간·체조·안정근)으로 직접 작성",
+   "proof": "홈트 공간이 매우 좁다"
+  },
+  {
+   "type": "data",
+   "desc": "국내 TOP텐 블로그 가격대와 영문 Trusted Health Gear 분류를 교차해 도구 유형별 가격 범위표(2026-10 정가 기준) 직접 정리",
+   "proof": "약 5,000~15,000원"
+  }
+ ],
+ "images": [
+  "src/assets/posts/pushup-tool-recommend-hero.png (hero 16:9, 제목·높이·그립 수)",
+  "src/assets/posts/pushup-tool-recommend-types.png (body 16:9, 4종 비교 인포그래픽)",
+  "src/assets/posts/pushup-tool-recommend-color.png (body 16:9, 색깔 매핑 비교)"
+ ],
+ "hermes_score": 88,
+ "score_history": [
+  88
+ ]
+}
