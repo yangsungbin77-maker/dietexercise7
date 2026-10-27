@@ -1,0 +1,269 @@
+{
+ "type": "guide",
+ "keyword": "가정용 런닝머신 추천",
+ "keyword_filter": {
+  "keyword": "가정용 런닝머신 추천",
+  "competition": {
+   "method": "serp-scan (구글 + 다음)",
+   "evidence": "구글 '가정용 런닝머신 추천' 1페이지 — brunch(접근 제한)·usefulguide·topten-blog·gola4u·cleverreview·slampanic·coufinder·jadblog 등 개인/소형 블로그 중심. 대형 매체는 다음뉴스 1건·다나와 기획전뿐. 대부분 TOP5~7 리스트형이고 사양 교차·공식 공식 수치 묶음은 공석이라 보강 여지 큼",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete + 관련 검색어",
+   "evidence": "구글 자동완성 '가정용 런닝머신' 입력 시 '가정용 런닝머신 추천'·'가정용 런닝머신 접이식'·'가정용 런닝머신 저소음'·'워킹패드 추천' 노출. 쿠팡·오늘의집 '런닝머신' 카테고리 활성화돼 상업적 수요 확인",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "'가정용 런닝머신 추천' 상위가 블로그 추천 목록·실매장 비교로 구성 → 정보성 구매 가이드로 충족 가능. 상위 공석(워킹패드 vs 러닝머신 공식 구분, CHP·벨트폭 공통 기준선, 층간소음 2축 분리)이 명확",
+   "pass": true
+  }
+ },
+ "cluster": [
+  "가정용 런닝머신 추천",
+  "워킹패드 추천",
+  "접이식 러닝머신",
+  "저소음 러닝머신",
+  "아파트 러닝머신",
+  "러닝머신 모터 마력",
+  "CHP 상시마력",
+  "러닝머신 벨트폭",
+  "층간소음 러닝머신",
+  "워킹패드 vs 러닝머신",
+  "홈트 러닝머신",
+  "러닝머신 가격대"
+ ],
+ "serp": [
+  {
+   "url": "https://usefulguide.net/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "유즈풀가이드 TOP 6. 정직한형제들·멜킨 플렉스·이고진 마에스트로 8200·비앰비·아이러너 P100 등 가격·접이식 중심 정리. 모터 CHP·벨트 폭·소음 dB 사양 공석이라 보강 지점 확인"
+  },
+  {
+   "url": "https://gola4u.com/foldable-treadmill-walking-pad-recommendation/",
+   "opened": true,
+   "note": "GOLA4U 접이식 TOP 7. 디자인·가성비·특수목적 3분류 + 층간소음 저감 5개(방진매트·속도·운동화·벽 띄우기·시간대) + '안 접히면 처분 1순위' 지적. 접이식 2종 구분은 공석"
+  },
+  {
+   "url": "https://topten-blog.com/articles/%EC%9D%B8%EA%B8%B0-%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C",
+   "opened": true,
+   "note": "탑텐블로그 TOP 5. '크기·휴대성·모터 출력·속도·편의/안전' 3대 기준. 모터 세부 CHP·벨트 치수 명시는 없고 상위 글 전형적 한계 재확인"
+  },
+  {
+   "url": "https://jadblog.co.kr/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-%ED%9B%84%EA%B8%B0-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC%EC%99%80-%EC%9B%8C%ED%82%B9-%ED%8C%A8%EB%93%9C/",
+   "opened": true,
+   "note": "JADBLOG 실사용 후기. 최대 하중 100~150kg·속도 1~12km/h·벨트 400~500mm 범위 수치 묶음. 워킹패드/런닝머신 가격 격차(6만/50만원대) 비교. 전체 1500~2000자"
+  },
+  {
+   "url": "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+   "opened": true,
+   "note": "클레버리뷰 TOP 5. 이고진 ET3(DC 2.0HP, 16km/h, 120×52cm, 15% 자동 경사, 120kg), 킹스미스 G1(1.25HP, 12km/h, 62×143cm, 2단 접이), 멜킨 마실로(0.75HP, 6km/h, 63.5×133.5cm), 두스룬·몬테리아 사양 명확. 사양 교차 근거 1차"
+  },
+  {
+   "url": "https://slampanic.co.kr/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "슬램패닉 TOP 5. 체크포인트 6개(런닝머신/워킹패드 차이·DC vs AC·마력·접이식·벨트폭·프로그램). 추천 모델별 벨트폭 36~45cm, 최대 10~12km/h 범위 교차"
+  },
+  {
+   "url": "https://coufinder.com/%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-best-6/",
+   "opened": true,
+   "note": "쿠파인더 BEST 5. 이고진 마에스트로 8200(29만원대, 벨트 97cm) · 두스룬(19만원대, 47cm) · 아이러너 P100(99만원대, 42cm, 53kg) · 멜킨 플렉스(30만원대, 38cm, 28.5kg) · 정직한형제들(60만원대, 42cm, 48.5kg) 가격·중량·벨트 교차 사양 1차"
+  },
+  {
+   "url": "https://ko.wikipedia.org/wiki/%EB%9F%AC%EB%8B%9D%EB%A8%B8%EC%8B%A0",
+   "opened": true,
+   "note": "위키백과 러닝머신. '러닝머신'=콩글리시, 공식=트레드밀. 전문가용 사양 150×50cm·속도 0~20km/h·경사 0~20%·모터 3.3kW(4.4HP). 선수용 300×100cm·45km/h. 공식 정의·사양 상한 1차 출처"
+  },
+  {
+   "url": "https://v.daum.net/v/GnmjzvHROI",
+   "opened": true,
+   "note": "다음뉴스 크로스엑스 1C 저소음 리뷰. '도서관 40dB과 대화 60dB 사이 49.8dB'·'KFE 쿨모터 저소음 DC·8개 범퍼 흡수'·정가 49만/리퍼 39만. 소음 수치 1차 출처"
+  },
+  {
+   "url": "https://v.daum.net/v/FkUGzRiPuH",
+   "opened": true,
+   "note": "다음뉴스 가정용 러닝머신 완벽 가이드. 선택 5기준(저소음 BLDC 모터·접이식·속도 범위·벨트 42cm+·최대 하중 +20~30kg 여유). 워킹패드·일반 러닝머신 공식 구분 1차 출처"
+  },
+  {
+   "url": "https://egojin.com/article/%EC%9E%90%EC%A3%BC%ED%95%98%EB%8A%94%EC%A7%88%EB%AC%B8/5/142/",
+   "opened": true,
+   "note": "이고진 공식 FAQ AC vs DC 모터. 가정용=DC(소음·전력·미세 조절), 클럽용=AC(힘·내구성, 전기세↑). 가정용 선택 기준 공식 출처"
+  },
+  {
+   "url": "https://brunch.co.kr/@choicemon/73",
+   "opened": false,
+   "note": "브런치 TOP 5 리뷰. 플랫폼 운영 제한으로 접근 차단('약관 위배'). 다른 TOP 리스트 글로 모델명 교차"
+  },
+  {
+   "url": "https://plan.danawa.com/info/?nPlanSeq=7540",
+   "opened": false,
+   "note": "다나와 '층간 소음 걱정없는 러닝머신' 기획전. ECONNREFUSED. gola4u/다음뉴스 크로스엑스 1C로 저소음 모델 교차"
+  },
+  {
+   "url": "https://plan.danawa.com/info/?nPlanSeq=4142",
+   "opened": false,
+   "note": "다나와 '나에게 맞는 러닝머신 고르는 법'. URL 포트 오류로 접근 실패. 다나와 DPG 러닝머신 가이드와 이고진 공식 FAQ로 모터/마력 기준 교차"
+  },
+  {
+   "url": "https://kingsmith.kr/article/%EC%9E%90%EC%A3%BC-%EB%AC%BB%EB%8A%94-%EC%A7%88%EB%AC%B8/5/523/",
+   "opened": false,
+   "note": "킹스미스 공식 FAQ '워킹패드 vs 러닝머신'. 404. 위키백과·슬램패닉 체크포인트로 공식 차이 교차 확인(워킹패드 ~6km/h, 러닝머신 20km/h)"
+  }
+ ],
+ "serp_summary": {
+  "intent": "구매·추천 — 홈트용 러닝머신을 사기 전 워킹패드/접이식/중급 중 어떤 걸 사야 할지, 모터·벨트·소음·가격 기준을 알고 싶음",
+  "common_must": [
+   "워킹패드 vs 러닝머신 차이",
+   "모터·마력(HP) 기준",
+   "벨트폭/길이 기준",
+   "접이식·보관",
+   "층간소음·방진 매트",
+   "추천 제품 TOP 5~7",
+   "가격대"
+  ],
+  "gap": "상위 글은 '제품 5~7개 리스트+가격'으로 끝나 ① 걷기/조깅/러닝 세 그룹별 공통 기준선(CHP·벨트·속도)을 매트릭스로 묶지 않음 ② 접이식 '수직 세우기 vs 수평 2단' 구분이 공석 ③ 층간소음을 '모터 소음(dB)·바닥 진동'으로 분리해 해결책을 각각 제시한 글이 없음 ④ 벨트 폭 42cm 기준·CHP vs 피크 마력 혼동 설명 공석 ⑤ 전문가용 상한(Wikipedia 150×50·4.4HP) 참고선 제시한 글 없음",
+  "our_angle": "질문연결 구조로 '걷기? 조깅? 러닝?' → 공식 구분 → 모터 CHP → 벨트 → 접이식 2종 → 층간소음 2축 → 가격 → 상황 매칭표로 순차 연결. Wikipedia·이고진·다나와 DPG·다음뉴스 1차 출처 교차"
+ },
+ "factcheck": [
+  {
+   "claim": "워킹패드는 '걷기 중심 축소 러닝머신'으로 최대 속도 약 6km/h, 벨트 폭 38~42cm, 데크 길이 120~140cm. 러닝머신(트레드밀)은 공식적으로 '달리기+걷기' 기구이며 전문가용 사양이 150×50cm·0~20km/h·경사 0~20%·모터 약 3.3kW(4.4HP). '러닝머신'은 콩글리시, 영어 통용어는 treadmill",
+   "sources": [
+    "https://ko.wikipedia.org/wiki/%EB%9F%AC%EB%8B%9D%EB%A8%B8%EC%8B%A0",
+    "https://v.daum.net/v/FkUGzRiPuH",
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/"
+   ]
+  },
+  {
+   "claim": "가정용 러닝머신 모터는 상시 마력(CHP, Continuous Horsepower) 기준으로 걷기 전용 0.75~1.0HP, 걷기+조깅 1.0~1.5HP, 러닝까지 2.0HP 이상이 공통 기준선. 가정용은 DC 모터(소음·전력·미세 조절), 클럽용은 AC 모터가 기본",
+   "sources": [
+    "https://egojin.com/article/%EC%9E%90%EC%A3%BC%ED%95%98%EB%8A%94%EC%A7%88%EB%AC%B8/5/142/",
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://coufinder.com/%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-best-6/"
+   ]
+  },
+  {
+   "claim": "성인용 벨트 폭 공식 최소선은 42cm. 걷기 전용 38~42cm, 조깅 42~45cm, 러닝 48cm 이상이 상위 가이드 공통. 실제 모델은 이고진 ET3 120×52cm, 킹스미스 G1 62×143cm, 멜킨 마실로 63.5×133.5cm로 중급은 데크 130cm 이상 묶임",
+   "sources": [
+    "https://v.daum.net/v/FkUGzRiPuH",
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://usefulguide.net/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/"
+   ]
+  },
+  {
+   "claim": "저소음 DC 모터 러닝머신은 40~50dB대. 다음뉴스 보도 크로스엑스 1C 49.8dB('도서관 40dB·대화 60dB 사이'), 스포틀러 러닝패드 X2 최대 40dB대, 멜킨 플렉스 트레일 워킹패드 47dB. 모터 소음(공기 전달)과 바닥 진동(발 충격 고체 전달)은 다른 축이며 해결책도 다름(방진 매트·속도·벽 띄우기·시간대 등 5가지)",
+   "sources": [
+    "https://v.daum.net/v/GnmjzvHROI",
+    "https://gola4u.com/foldable-treadmill-walking-pad-recommendation/",
+    "https://jadblog.co.kr/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-%ED%9B%84%EA%B8%B0-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC%EC%99%80-%EC%9B%8C%ED%82%B9-%ED%8C%A8%EB%93%9C/"
+   ]
+  },
+  {
+   "claim": "2026-10 국내 가격대(정가 기준·세일 변동) — 워킹패드 입문(0.75~1HP·6km/h) 15~30만 원(두스룬 19만/멜킨 마실로), 워킹패드 중급 30~50만 원, 접이식 러닝머신(10~12km/h) 25~60만 원(이고진 마에스트로 29만/멜킨 플렉스 30만/정직한형제들 60만/아이러너 P100 99만), 중급 러닝머신 40~80만 원(크로스엑스 1C 정가 49만/리퍼 39만), 본격 러닝 90~150만 원",
+   "sources": [
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://coufinder.com/%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-best-6/",
+    "https://usefulguide.net/%EA%B0%80%EC%A0%95%EC%9A%A9-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+    "https://v.daum.net/v/GnmjzvHROI"
+   ]
+  },
+  {
+   "claim": "접이식은 두 종류 — 수직 세우기(워킹패드, 접힘 두께 5~15cm, 책상 밑·소파 틈 수납 가능)와 수평 2단(일반 러닝머신, 접어도 가로 60~80cm, 바퀴 이동 필수). 바퀴가 부실하면 '접은 채로 그 자리'가 돼 '안 접히는 모델은 처분 1순위'로 지목됨",
+   "sources": [
+    "https://gola4u.com/foldable-treadmill-walking-pad-recommendation/",
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://v.daum.net/v/GnmjzvHROI"
+   ]
+  },
+  {
+   "claim": "유형별 TOP 추천 1픽(상위 가이드 교차 6종) — 이고진 ET3(DC 2.0HP·최대 16km/h·벨트 120×52cm·15% 자동 경사·최대 하중 120kg), 멜킨 마실로(DC 0.75HP·6km/h·63.5×133.5cm), 킹스미스 G1(DC 1.25HP·12km/h·62×143cm·2단 접이), 두스룬 접이식 워킹머신(19만원대·벨트 폭 47cm), 아이러너 P100(99만원대·벨트 폭 42cm·중량 53kg), 크로스엑스 1C(49.8dB·8개 범퍼 흡수·정가 49만/리퍼 39만). 모터·속도·벨트·가격 사양이 cleverreview·coufinder·다음뉴스에서 1차 교차됨",
+   "sources": [
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://coufinder.com/%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-best-6/",
+    "https://v.daum.net/v/GnmjzvHROI"
+   ]
+  },
+  {
+   "claim": "상위 가이드 공통 지적 — '모터와 벨트는 늘릴 수 없고 바꾸려면 처분해야 하는 영역'이라 운동 상한선(걷기/조깅/러닝)과 모터 CHP·벨트 폭·가격을 처음부터 묶어 사야 하며, 사양을 볼 때는 반드시 상시 마력(CHP)을 기준으로 비교해야 함. 피크 마력은 유지되지 않는 순간값",
+   "sources": [
+    "https://gola4u.com/foldable-treadmill-walking-pad-recommendation/",
+    "https://cleverreview.co.kr/%EC%9B%8C%ED%82%B9%ED%8C%A8%EB%93%9C-%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-top-5/",
+    "https://egojin.com/article/%EC%9E%90%EC%A3%BC%ED%95%98%EB%8A%94%EC%A7%88%EB%AC%B8/5/142/",
+    "https://coufinder.com/%EB%9F%B0%EB%8B%9D%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-best-6/"
+   ]
+  }
+ ],
+ "variables": {
+  "type": "review",
+  "keyword": "가정용 런닝머신 추천",
+  "headline_finding": "상위 글은 'TOP 5~7 가격 리스트'로 끝나고 ① 걷기/조깅/러닝 세 그룹별 CHP·벨트 기준선 ② 접이식 2종 구분 ③ 층간소음 2축 분리가 상위 공석",
+  "three_group_matrix": "A 워킹패드(0.75~1HP·6km/h·38~42cm·15~50만) / B 접이식 러닝머신(1~2HP·10~12km/h·42~45cm·25~60만) / C 중급 러닝머신(2HP+·16km/h+·48cm+·40~80만)",
+  "motor_rule": "상시 마력(CHP)만 기준. 피크 마력은 참고. DC=가정용(소음·전력·미세 조절) / AC=클럽용(힘·내구성, 전기세↑)",
+  "belt_width_rule": "성인 공식 최소 42cm. 걷기 38~42 / 조깅 42~45 / 러닝 48+. 보폭 60~130cm라 데크 길이도 그룹별 달라짐",
+  "noise_two_axis": "모터 소음(공기·DC 40~50dB대)과 바닥 진동(고체·발 충격)은 다른 문제. 저소음 모터 + 2cm+ 방진 매트 + 속도 유지 + 벽 띄우기 + 야간 금지",
+  "fold_two_types": "수직 세우기(워킹패드 두께 5~15cm) vs 수평 2단(러닝머신 접힘 가로 60~80cm). 바퀴 지지 하중까지 확인해야 '접은 채로 그 자리' 안 됨",
+  "beginner_rule": "'어디까지 뛸지' 솔직히 정한 뒤 +2km/h만 여유. 모터·벨트는 늘릴 수 없는 영역이라 모자라면 두 번 사게 됨"
+ },
+ "structure": "질문연결",
+ "external_link": "https://www.coupang.com/np/categories/115749 (쿠팡 헬스·운동기구, 유형별 가격 범위 확인 맥락으로 자연 삽입)",
+ "internal_link": "/home-kettlebell-guide/ (케틀벨 무게 추천 — 러닝머신과 함께 홈트 중량 기구 세팅으로 연결)",
+ "gaps": [
+  {
+   "gap": "상위 TOP 리스트 글은 제품 5~7개를 가격 중심으로 나열할 뿐, 걷기/조깅/러닝 세 그룹별로 CHP·벨트 폭·속도·데크 길이·접이식 방식을 기준선으로 묶은 매트릭스가 공석",
+   "covered_in": "걷기만? 조깅까지? 러닝까지? — 세 그룹부터 가르자"
+  },
+  {
+   "gap": "접이식은 '수직 세우기(워킹패드)'와 '수평 2단(러닝머신)' 두 종류로 접힘 두께·수납 공간이 완전히 다른데, 상위 글은 '접이식'으로 뭉뚱그려 다룸",
+   "covered_in": "접이식은 두 종류 — 수직 세우기 vs 수평 2단"
+  },
+  {
+   "gap": "층간소음을 '모터 소음(공기 전달·dB)'과 '바닥 진동(고체 전달·발 충격)' 두 축으로 분리해 해결책을 각각 제시한 상위 글이 거의 없음",
+   "covered_in": "아파트 층간소음은 \"모터 소리\"와 \"바닥 진동\" 둘로 나눠 봐야"
+  },
+  {
+   "gap": "모터 마력에서 상시 마력(CHP) vs 피크 마력 혼동을 지적하고 가정용 DC vs 클럽용 AC 공식 FAQ로 교차 설명한 상위 글이 공석",
+   "covered_in": "모터 마력(CHP) — 걷기 1HP, 조깅 1.5HP, 러닝 2HP+가 기준선"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "photo",
+   "desc": "걷기·조깅·러닝 세 그룹의 모터 CHP·벨트·접이식·가격 결론을 요약한 전용 히어로 인포그래픽을 HTML로 직접 설계·렌더링",
+   "proof": "../../assets/posts/home-treadmill-recommend-hero.png"
+  },
+  {
+   "type": "photo",
+   "desc": "용도별 사양 매트릭스(최대 속도·CHP·벨트 폭·데크 길이·접이식·하중)를 전문가용 참고선과 함께 네 행 표로 직접 설계·렌더링",
+   "proof": "../../assets/posts/home-treadmill-recommend-matrix.png"
+  },
+  {
+   "type": "photo",
+   "desc": "아파트 층간소음을 '모터 소음(공기 전달·dB 바 그래프)'과 '바닥 진동(속도별 발 충격)' 두 축으로 분리한 비교 인포그래픽 직접 설계·렌더링",
+   "proof": "../../assets/posts/home-treadmill-recommend-noise.png"
+  },
+  {
+   "type": "table",
+   "desc": "cleverreview·coufinder·usefulguide·v.daum 수치를 교차해 걷기/조깅/러닝 세 그룹의 최대 속도·상시 마력·벨트 폭·가격 범위를 1차 결론표로 직접 작성",
+   "proof": "| A. 워킹패드 | 걷기·파워워킹 | 6km/h | 0.75~1.0HP"
+  },
+  {
+   "type": "data",
+   "desc": "2026-10 국내 유형별 가격 범위를 cleverreview·coufinder·usefulguide·다음뉴스 교차해 '유형→가격→대표 모델 예시' 매트릭스로 직접 묶음",
+   "proof": "유형 간 가격 차이의 핵심은"
+  },
+  {
+   "type": "data",
+   "desc": "다음뉴스에 공개된 크로스엑스 1C 저소음 측정치(49.8dB, 도서관 40dB·대화 60dB 사이) 등 1차 보도 수치를 모터 소음 축에 직접 교차",
+   "proof": "크로스엑스 트레드밀 1C 리뷰는 \"조용한 도서관(40dB)보다는 크고"
+  }
+ ],
+ "images": [
+  "src/assets/posts/home-treadmill-recommend-hero.png (hero 16:9, 세 그룹 결론 카드)",
+  "src/assets/posts/home-treadmill-recommend-matrix.png (body 16:9, 용도별 사양 매트릭스 표)",
+  "src/assets/posts/home-treadmill-recommend-noise.png (body 16:9, 층간소음 2축 분리 바 그래프)"
+ ],
+ "hermes_score": 89,
+ "score_history": [
+  87,
+  89
+ ]
+}
