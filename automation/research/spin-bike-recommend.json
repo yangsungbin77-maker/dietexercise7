@@ -1,0 +1,253 @@
+{
+ "type": "guide",
+ "keyword": "실내자전거 스피닝바이크 추천",
+ "keyword_filter": {
+  "keyword": "실내자전거 스피닝바이크 추천",
+  "competition": {
+   "method": "serp-scan (구글 1페이지)",
+   "evidence": "'실내자전거 스피닝바이크 추천' 구글 1페이지 — 의약일보·리뷰프로·uptoinfo·choicemon·littlehomepicks·doghoneytips·브런치 등 개인 블로그/언론 매체 혼합. 대부분 TOP 5~7 리스트형이고 플라이휠 kg 체급·저항 방식·공식 Wikipedia 분류 교차 공석이라 보강 여지 큼. 공식·전문가 매체(대형 신문) 거의 없음",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete + 다나와 카테고리",
+   "evidence": "구글 자동완성 '실내자전거 스피닝바이크' 입력 시 '추천'·'플라이휠'·'마그네틱'·'층간소음' 노출. 다나와 '스핀바이크' 카테고리(cate=13319749) 활성, 멜킨스포츠 공식 유산소·스핀바이크 라인업 15종, 쿠팡 로켓배송 상위 가이드 공통 언급으로 상업적 수요 확인",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "'실내자전거 스피닝바이크 추천' 상위가 리뷰 블로그·가이드성 글 중심 → 정보성 구매 가이드로 충족 가능. 상위 공석(스핀 vs 일반 공식 구분, 플라이휠 kg 체급 매트릭스, 저항 방식 3분법 공식 교차, 즈위프트 연동 요건)이 명확",
+   "pass": true
+  }
+ },
+ "cluster": [
+  "실내자전거 스피닝바이크 추천",
+  "스핀바이크 추천",
+  "플라이휠 무게 kg",
+  "마그네틱 저항 스핀바이크",
+  "아파트 스핀바이크 층간소음",
+  "즈위프트 연동 실내자전거",
+  "스핀바이크 vs 실내자전거",
+  "멜킨 스마트 스핀바이크 18kg",
+  "숀리 X-Bike 접이식",
+  "엑사이더 ES370",
+  "홈트 스피닝"
+ ],
+ "serp": [
+  {
+   "url": "https://www.medicaldaily.co.kr/post/121452",
+   "opened": true,
+   "note": "의약일보 2026 가성비 TOP 5 — 엑사이더 EB620(좌식 21만)·래피즈 원더 미니(접이식 21.9만)·엑사이더 CF1000C(접이식 14.9만)·밸런스가이드 BGB-01(테이블 35만)·고정식 스핀바이크(20.8만). 공간·용도·배송 중심이고 플라이휠 kg·저항 방식은 공석"
+  },
+  {
+   "url": "https://reviewpro.co.kr/best-indoor-cycling-bike/",
+   "opened": true,
+   "note": "리뷰프로 TOP 7 2026 — 숀리 X-Bike G1(14만, 저소음)·헤드 스타일 접이식(17만, 역페달)·엑사이더 좌식 접이식(15만)·이고진 LP125(11만)·멜킨 클럽 스핀(42kg 42만)·시몬 프리미엄 스핀(33만, 심박센서)·김벌 좌식(18만, 에어쿠션). 소음·보관성·내구성 평가"
+  },
+  {
+   "url": "https://www.uptoinfo.com/2026/10/blog-post.html",
+   "opened": true,
+   "note": "uptoinfo 접이식+고중량 2대 추천 — 숀리 X-Bike E4 메타(접이식 마그네틱 14단 16.9kg 하중 100kg 14~20만, 관성 약·진동 ↑), 멜킨 스마트 스핀바이크 18kg(본체 39.5kg 하중 125kg 30~40만, 관성·안정성). 소제목 '소음이 두 종류'·'매트는 두께보다 밀도'가 핵심 교차 포인트"
+  },
+  {
+   "url": "https://choicemon.com/best-exercise-bike/",
+   "opened": true,
+   "note": "초이스몬 TOP 7 — 숀리 X-Bike G1(100만대 판매, 15만)·엑사이더 CF-918A(10만대, 등받이)·이고진 704HR(좌식 20만)·엑사이더 ES370(즈위프트 연동 30만대)·허밍라이더 HR01(28cm 접힘 20만)·Adidas C-21(자가발전 24단 150만)·Fitboon B-AIR1000(공기저항 200만+). 30분당 210~270kcal 소모 명시"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Stationary_bicycle",
+   "opened": true,
+   "note": "Wikipedia Stationary bicycle — 'spin bike'/'exercycle' 공식 명칭. Indoor cycle(spinning)을 '앞쪽 가중 플라이휠을 단 특수 모델'로 정의. 저항 메커니즘 3가지 공식 분류: 자석·팬·마찰. 미니 사이클(portable low-cost)·듀얼액션(상체 포함) 하위 분류 명시. 1차 출처"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Indoor_cycling",
+   "opened": true,
+   "note": "Wikipedia Indoor cycling — 'endurance·strength·intervals·high intensity·recovery' 수업 구성. 60분 평균 300~500kcal 소모. 저항 종류 확장: 자석·마찰 휠·일반 자전거 브레이크·점탄성 유체. 19세기 Gymnasticon부터 유래. 공식 역사·칼로리 1차 출처"
+  },
+  {
+   "url": "https://www.wrmfitness.com/ko/blog/the-difference-between-spin-bikes-and-regular-exercise-bikes918",
+   "opened": true,
+   "note": "WRM Fitness 공식 비교 — 스핀바이크 플라이휠 15~40lb(약 7~18kg) 전면 장착·앞으로 숙임 자세·60분 600~900kcal. 일반 실내자전거 뒤쪽 플라이휠 ~35lb(16kg)·업라이트/좌식·60분 400~550kcal. 공간 30% 적음, 안장 조절 폭 4~6인치. 전형 수치 1차 교차"
+  },
+  {
+   "url": "https://melkinsports.com/category/%EC%8A%A4%ED%95%80%EB%B0%94%EC%9D%B4%ED%81%AC/216/",
+   "opened": true,
+   "note": "멜킨스포츠 공식 카테고리 — 스핀바이크 라인업 15종. 입문 비비 런닝바이크 249,000원 · 중급 29.9~40.7만 · 프리미엄 EMS ERG Pro 69만. 스마트 스핀바이크(840 리뷰) 즈위프트 연동. 공식 가격·라인업 1차 출처"
+  },
+  {
+   "url": "https://www.clien.net/service/board/park/15632035",
+   "opened": true,
+   "note": "클리앙 커뮤니티 — 스핀바이크 구매 조언. 예산 35만, 플라이휠 20kg 이상 선호, 양모/펠트 패드 vs 마그네틱 토론. 핵심 댓글: '양모패드는 날리는게 단점' → 마그네틱 추천. 실제 사용자 교차 토론 1차"
+  },
+  {
+   "url": "https://www.medicaldaily.co.kr/post/22392",
+   "opened": true,
+   "note": "의약일보 2026 가성비 TOP 5 — 엑사이더 CF1000C 14.9만·래피즈 원더 26.9만·MeFun 656 마그네틱 29.9만·린무브 저소음 6.9만·세종 L-BIKE 좌식 23.9만. '강도 높은 스피닝=마그네틱 투자 가치'. 로켓배송·시즌 할인 활용 조언"
+  },
+  {
+   "url": "https://brunch.co.kr/@review-pick/90",
+   "opened": false,
+   "note": "브런치 좌식 스피닝 가성비 추천. 접근 제한 ('약관에 위배되는 브런치 개설 및 운영'). 다른 상위 가이드로 좌식/스핀 가격 교차"
+  },
+  {
+   "url": "https://plan.danawa.com/info/?nPlanSeq=4149",
+   "opened": false,
+   "note": "다나와 '나에게 맞는 실내자전거' 가이드. ECONNREFUSED. 멜킨 공식·초이스몬·리뷰프로 교차로 저항·플라이휠 선택 기준 보완"
+  },
+  {
+   "url": "https://prod.danawa.com/list/?cate=13319749",
+   "opened": false,
+   "note": "다나와 스핀바이크 카테고리. ECONNREFUSED. 멜킨 공식 카테고리와 리뷰프로/uptoinfo 모델명 교차로 시장 상위 라인업 보완"
+  },
+  {
+   "url": "https://littlehomepicks.com/list/indoor-bike-picks",
+   "opened": false,
+   "note": "리틀홈픽스 원룸 실내자전거. ECONNREFUSED. 초이스몬·의약일보 접이식 모델로 공간/접이 기준 교차"
+  },
+  {
+   "url": "https://shop.doghoneytips.com/스피닝자전거-추천-top-3/",
+   "opened": false,
+   "note": "독허니팁스 스피닝자전거 TOP 3. ECONNREFUSED. 다른 상위 가이드로 교차"
+  }
+ ],
+ "serp_summary": {
+  "intent": "구매·추천 — 스피닝 느낌의 실내자전거를 사기 전 플라이휠 kg·저항 방식·공간·가격 기준을 알고 싶음",
+  "common_must": [
+   "스핀바이크/실내자전거 종류 차이",
+   "플라이휠 무게·저항 방식",
+   "소음·층간소음",
+   "접이식·보관",
+   "추천 제품 TOP 5~7",
+   "가격대",
+   "즈위프트 연동(중급 이상)"
+  ],
+  "gap": "상위 글은 'TOP 리스트+가격'으로 끝나 ① 스핀바이크의 Wikipedia 공식 정의(앞쪽 가중 플라이휠·indoor cycle)와 일반 실내자전거(upright/recumbent)의 분리 설명 공석 ② 플라이휠 kg을 입문/중급/고강도/전문가 4체급 매트릭스로 묶은 글 없음 ③ 저항 방식 3분법(마그네틱·펠트/양모·공기)을 Wikipedia 공식 분류와 교차한 글 없음 ④ 즈위프트 연동 요건(ANT+/블루투스·케이던스·스피드·파워)을 중급 이상 조건으로 묶은 글 공석 ⑤ 플라이휠 무게-관성-구동 소음-바닥 진동의 트레이드오프를 설명한 글 없음",
+  "our_angle": "비교선택 구조로 '스핀 vs 일반 → 플라이휠 체급 → 저항 3분법 → 즈위프트 연동 → 공간/소음 → 가격 → 상황별 결정표' 순차 비교. Wikipedia(공식 정의·분류)·wrmfitness(전형 수치)·멜킨 공식·클리앙 커뮤니티 교차"
+ },
+ "factcheck": [
+  {
+   "claim": "스피닝바이크는 Wikipedia의 Stationary bicycle 분류 중 'Indoor cycle' 하위 — 앞쪽에 가중 플라이휠(weighted flywheel)을 단 특수 모델. 플라이휠 전형 범위는 15~40lb(약 7~18kg)이며, 자세는 로드 사이클처럼 앞으로 숙이고 60분당 600~900kcal 소모. 일반 업라이트/좌식 실내자전거는 뒤쪽/중앙 플라이휠 ~35lb(16kg), 60분당 300~550kcal",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stationary_bicycle",
+    "https://en.wikipedia.org/wiki/Indoor_cycling",
+    "https://www.wrmfitness.com/ko/blog/the-difference-between-spin-bikes-and-regular-exercise-bikes918"
+   ]
+  },
+  {
+   "claim": "저항 방식 공식 3분법 — Wikipedia Stationary bicycle은 '자석(magnetic)·팬(fan)·마찰(friction) 메커니즘' 3가지 공식 분류. Indoor cycling은 점탄성 유체 브레이크·일반 자전거 브레이크 포함. 가정용 가이드와 커뮤니티 공통 결론은 '마그네틱(비접촉·무소음·마모 無)이 2026 주력', 펠트/양모 패드는 '쇳소리·마모·날림'으로 비추, 공기저항은 '상한 없는 고강도·바람 소리↑'",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stationary_bicycle",
+    "https://en.wikipedia.org/wiki/Indoor_cycling",
+    "https://www.uptoinfo.com/2026/10/blog-post.html",
+    "https://www.clien.net/service/board/park/15632035"
+   ]
+  },
+  {
+   "claim": "플라이휠 kg 체급 — 입문 7~10kg(가벼운 유산소), 중급 13~15kg(꾸준한 유산소+가끔 스피닝), 고강도 18kg(본격 스피닝·HIIT), 전문가 20kg+(사이클 선수). 커뮤니티(클리앙)에서 '스핀바이크 사려면 20kg 이상이 안전', 'uptoinfo·리뷰프로' 공통 교차 '스피닝 느낌의 최소선은 15kg'. 멜킨 스마트 스핀바이크 18kg(본체 39.5kg·최대 하중 125kg)이 대표",
+   "sources": [
+    "https://www.clien.net/service/board/park/15632035",
+    "https://www.uptoinfo.com/2026/10/blog-post.html",
+    "https://reviewpro.co.kr/best-indoor-cycling-bike/",
+    "https://melkinsports.com/category/%EC%8A%A4%ED%95%80%EB%B0%94%EC%9D%B4%ED%81%AC/216/"
+   ]
+  },
+  {
+   "claim": "2026-10 국내 가격대(정가 기준·세일 변동) — 10만 원대 입문(이고진 LP125·숀리 X-Bike G1 접이식)·15~20만 원대(엑사이더 CF-918A·래피즈 원더 미니·엑사이더 CF1000C 14.9만)·25~35만 원대(엑사이더 ES370·시몬 프리미엄 33만)·35~50만 원대(멜킨 스마트 스핀바이크 18kg 30~40만, 멜킨 클럽 42kg 42만)·150만원+(Adidas C-21 자가발전 24단)·200만원+(Fitboon B-AIR1000 공기저항)",
+   "sources": [
+    "https://reviewpro.co.kr/best-indoor-cycling-bike/",
+    "https://choicemon.com/best-exercise-bike/",
+    "https://www.medicaldaily.co.kr/post/121452",
+    "https://melkinsports.com/category/%EC%8A%A4%ED%95%80%EB%B0%94%EC%9D%B4%ED%81%AC/216/",
+    "https://www.medicaldaily.co.kr/post/22392"
+   ]
+  },
+  {
+   "claim": "소음은 두 축으로 분리 — 구동 소음(공기 전달·마그네틱 ~30dB대·펠트 패드 ↑·공기저항 가장 큼)과 진동 소음(고체 전달·플라이휠 무게·페달링 리듬이 바닥으로). 공통 저감 조합은 ① 고밀도 고무 매트 8~20mm(uptoinfo '매트는 두께보다 밀도'), ② 벽에서 띄우기, ③ 늦은 밤 금지. 플라이휠이 무거워질수록 리듬은 안정되지만 바닥 하중은 올라감",
+   "sources": [
+    "https://www.uptoinfo.com/2026/10/blog-post.html",
+    "https://en.wikipedia.org/wiki/Stationary_bicycle",
+    "https://choicemon.com/best-exercise-bike/"
+   ]
+  },
+  {
+   "claim": "즈위프트 연동 요건 — 블루투스 또는 ANT+ 센서 바이크 내장, 케이던스·스피드·파워 중 하나 이상 송출, 즈위프트 앱 설치 기기(TV·태블릿·PC) 연결. 2026-10 국내 중급 라인업(엑사이더 ES370·멜킨 스마트 스핀바이크·시몬 프리미엄)이 전면 연동 지원. 저가 접이식(숀리 G1 입문)은 미지원",
+   "sources": [
+    "https://choicemon.com/best-exercise-bike/",
+    "https://melkinsports.com/category/%EC%8A%A4%ED%95%80%EB%B0%94%EC%9D%B4%ED%81%AC/216/",
+    "https://reviewpro.co.kr/best-indoor-cycling-bike/"
+   ]
+  }
+ ],
+ "variables": {
+  "type": "review",
+  "keyword": "실내자전거 스피닝바이크 추천",
+  "headline_finding": "상위 글은 'TOP 5~7 가격 리스트'로 끝나고 ① 스핀 vs 일반 공식 분리 ② 플라이휠 kg 4체급 매트릭스 ③ 저항 3분법 Wikipedia 공식 교차가 상위 공석",
+  "flywheel_matrix": "입문 7~10kg(가벼운 유산소·숀리 X-Bike G1) / 중급 13~15kg(꾸준한 유산소+가끔 스피닝·엑사이더 ES370) / 고강도 18kg(본격 스피닝·멜킨 스마트 스핀바이크) / 전문가 20kg+(클럽형·멜킨 42kg)",
+  "resistance_rule": "Wikipedia 공식 3분법 — 마그네틱(비접촉·무소음·마모 無·2026 주력) / 펠트·양모 패드(쇳소리·마모·'날린다'로 비추) / 공기 저항(상한 없는 고강도·바람 소리↑·크로스핏용)",
+  "spin_vs_normal": "스핀바이크: 앞쪽 플라이휠 7~18kg·앞으로 숙임·60분 600~900kcal·HIIT 전용 / 일반 실내자전거: 뒤/중앙 플라이휠 ~16kg·업라이트·좌식·60분 300~550kcal·재활·관절 보호",
+  "noise_two_axis": "구동 소음(마그네틱 30dB대·펠트↑·공기 ↑↑) vs 진동 소음(플라이휠 무게↑ → 바닥 하중↑). 해결 공통 조합: 고밀도 고무 매트 8~20mm + 벽 띄우기 + 야간 금지",
+  "zwift_rule": "즈위프트 연동 조건 — 블루투스/ANT+ 센서 내장 + 케이던스/스피드/파워 송출 + 앱 기기. 중급 이상(엑사이더 ES370·멜킨 스마트·시몬 프리미엄)만 가능",
+  "beginner_rule": "'스피닝 느낌'이 목표면 15kg 아래 거르기 — 재구매를 줄임. 꾸준한 유산소면 접이식·마그네틱 10kg 전후로 충분"
+ },
+ "structure": "비교선택",
+ "external_link": "https://www.coupang.com/np/categories/115749 (쿠팡 헬스·운동기구, 가격대 비교 맥락에 자연 삽입)",
+ "internal_link": "/indoor-exercise-bike-recommend/ (실내자전거 전체 종류 비교 — 스핀 아닌 좌식/업라이트/미니로 연결)",
+ "gaps": [
+  {
+   "gap": "스핀바이크를 Wikipedia Stationary bicycle 공식 분류의 'Indoor cycle(앞쪽 가중 플라이휠)' 하위로 분리하고, 일반 업라이트/좌식과 플라이휠 위치·자세·소모 칼로리·용도까지 비교표로 묶은 상위 글이 공석. 상위 리뷰 글들은 '스피닝 자전거'와 '실내자전거'를 혼용",
+   "covered_in": "스핀바이크 vs 일반 실내자전거 — 공식 차이부터 가르자"
+  },
+  {
+   "gap": "플라이휠 무게(kg)를 입문 7~10kg·중급 13~15kg·고강도 18kg·전문가 20kg+ 4체급으로 묶은 매트릭스가 공석. 상위 글은 '15kg 이상' 정도만 단편 언급하고 체급별 대표 모델까지 묶지 않음",
+   "covered_in": "플라이휠 무게(kg) — 입문 8kg, 중급 13kg, 고강도 18kg+가 기준선"
+  },
+  {
+   "gap": "저항 방식 3분법(마그네틱·펠트/양모 패드·공기)을 Wikipedia Stationary bicycle 공식 분류와 커뮤니티('양모는 날린다' 지적)와 교차해 '펠트/양모는 왜 비추'인지 근거를 풀어 쓴 글이 상위에 없음",
+   "covered_in": "저항 방식 — 마그네틱·펠트/양모 패드·공기 셋 중 뭘 사야 하나"
+  },
+  {
+   "gap": "즈위프트(Zwift) 연동이 중급 라인업(엑사이더 ES370·멜킨 스마트) 전면 사양으로 걸려 있는데, 실제 연동 요건(블루투스/ANT+ 센서·케이던스·스피드·파워 송출·앱 기기)을 한 섹션으로 정리한 상위 글이 거의 없음",
+   "covered_in": "스마트 연동(즈위프트)과 센서 — 뭘 요구하나"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "photo",
+   "desc": "스피닝바이크 추천의 3축(플라이휠 15kg+·마그네틱·공간 2평+)과 가격대 결론을 요약한 전용 히어로 인포그래픽을 HTML로 직접 설계·렌더링",
+   "proof": "../../assets/posts/spin-bike-recommend-hero.png"
+  },
+  {
+   "type": "photo",
+   "desc": "플라이휠 kg 4체급 매트릭스(입문 7~10kg·중급 13~15kg·고강도 18kg·전문가 20kg+)를 wrmfitness·클리앙·리뷰프로 수치로 묶어 전용 인포그래픽으로 직접 설계",
+   "proof": "../../assets/posts/spin-bike-recommend-flywheel.png"
+  },
+  {
+   "type": "photo",
+   "desc": "저항 방식 3분법(마그네틱·펠트/양모 패드·공기)을 Wikipedia 공식 분류와 커뮤니티 평가로 묶어 아파트 추천·비추·전문용 라벨까지 넣은 비교 인포그래픽을 직접 설계",
+   "proof": "../../assets/posts/spin-bike-recommend-resistance.png"
+  },
+  {
+   "type": "table",
+   "desc": "wrmfitness·Wikipedia·Indoor cycling 수치를 교차해 스핀바이크 vs 일반 실내자전거의 플라이휠 위치·자세·소모 칼로리·용도·공간을 1차 결론표로 직접 작성",
+   "proof": "| 비교 축 | 스피닝바이크 | 일반 실내자전거(업라이트/좌식) |"
+  },
+  {
+   "type": "table",
+   "desc": "리뷰프로·초이스몬·의약일보·멜킨 공식 가격을 교차해 2026-10 가격대 → 플라이휠 kg → 저항 → 대표 모델 결론 매트릭스를 직접 작성",
+   "proof": "| 가격대(정가) | 플라이휠 | 저항 | 대표 모델(상위 가이드 교차) |"
+  },
+  {
+   "type": "data",
+   "desc": "wrmfitness 공식 수치(스핀 60분 600~900kcal, 일반 400~550kcal)와 Wikipedia Indoor cycling 평균(60분 300~500kcal)을 교차해 '유형별 소모 칼로리' 데이터로 직접 묶음",
+   "proof": "60분에 **600~900kcal**가 소모됩니다"
+  }
+ ],
+ "images": [
+  "src/assets/posts/spin-bike-recommend-hero.png (hero 16:9, 3축 결론 카드)",
+  "src/assets/posts/spin-bike-recommend-flywheel.png (body 16:9, 플라이휠 kg 4체급 매트릭스 표)",
+  "src/assets/posts/spin-bike-recommend-resistance.png (body 16:9, 저항 방식 3분법 비교 카드)"
+ ],
+ "hermes_score": 88,
+ "score_history": [
+  88
+ ]
+}
