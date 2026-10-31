@@ -1,0 +1,209 @@
+{
+ "type": "guide",
+ "structure": "결론먼저",
+ "keyword_filter": {
+  "keyword": "가정용 스텝퍼 추천",
+  "competition": {
+   "method": "serp-scan",
+   "evidence": "구글 1페이지 상위 10개 중 개인 블로그·커머스 리뷰 글이 과반(choicemon·troubleshooter·bonacoupon·picjjang·gugaissue·seoulhangang·v.daum·yogasunny1 등). 공식기관·대형매체는 거의 없고 Wikipedia stair climbing 1건만 노출. 신생 도메인이 보강형 콘텐츠로 침투할 여지가 큼.",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete/serp-scan",
+   "evidence": "구글 자동완성 '가정용 스텝퍼 추천 2026·소음·마그네틱' 노출 확인. 다나와 '천국의계단/스텝퍼' 카테고리가 별도로 존재해 월간 쇼핑 수요가 안정적이고, 상위 10편 중 다수가 2026년 발행이라 매년 리프레시 수요 존재.",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "상위 10개 모두 '추천/비교/구매 가이드' 성격의 정보 블로그 글(choicemon TOP7·troubleshooter TOP5·bonacoupon TOP7·gugaissue 체크10). 거래/브랜드 사이트는 다나와 1건뿐이고 나머지는 전부 비교·설명형. 블로그 글로 충족 가능한 정보 의도.",
+   "pass": true
+  }
+ },
+ "serp": [
+  {
+   "url": "https://choicemon.com/best-stepper-machine/",
+   "opened": true,
+   "note": "TOP7 리스트. 로베라 EST-300·이고진 8320·트라택 TS-B500·프로스펙스 에어·멜킨 다나을·다이어트학교 RAST24·이고진 백스텝 ST7. 저항 방식별(유압·에어·자동·트위스트) 특징과 30분 칼로리(스텝퍼 240~360kcal, 천국의계단 350~500kcal) 비교. H2 3개로 얕음."
+  },
+  {
+   "url": "https://troubleshooter.co.kr/best-home-stairmaster-steppers-2026/",
+   "opened": true,
+   "note": "천국의 계단 가정용 TOP5. 엑사이더 스카이 스텝(13.9만)·핏에이블 스텝메이트 PRO(37.9만, 마그네틱 16단계·하중 300kg)·숀리 에어(10.8만)·멜킨 클라임맥스 엘리트(129만, 전자동 15단계)·멜킨 마운틴(3.79만). 소음 서열 '유압 > 공기압 > 마그네틱 > 전자동'과 체중×1.5~2배 하중 공식을 명확히 제시한 유일 글."
+  },
+  {
+   "url": "https://picjjang.com/1005130/",
+   "opened": true,
+   "note": "홈트 스테퍼 가성비 글. 브랜드 추천(멜킨·이고진·메디니스·스포틀러)·3만 원대 범위·4가지 체크(유압식·소음·발판 크기·체중 제한). H2 분리 없고 본문 짧음, 깊이 낮음."
+  },
+  {
+   "url": "https://bonacoupon.com/%EC%8A%A4%ED%85%9D%ED%8D%BC-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "스텝퍼 TOP7(엑사이더 트위스트·엑스킹 튜빙밴드·잇지바디 에어·코어메이트 에어·트라택 스텝핏·핏분 애플힙·이고진 8320). 상하수직/트위스트/사이드좌우 3분법을 가장 명확히 분리. 각 제품 무게·특징·가격대 포함."
+  },
+  {
+   "url": "https://www.excider.co.kr/article/faq/5/12580/",
+   "opened": true,
+   "note": "엑사이더 공식 FAQ. '스텝퍼는 체중을 좌우로 옮기며 발판을 밟는 방식으로 러닝머신보다 충격 소음이 적다. 아파트·오피스텔에서 비교적 부담 없이 사용 가능. 매트 사용 권장'을 제조사 공식 문구로 확정."
+  },
+  {
+   "url": "https://www.excider.co.kr/article/faq/5/12598/",
+   "opened": true,
+   "note": "엑사이더 공식 FAQ 유압 실린더. '오일 저항으로 발판이 부드럽게 내려가도록 설계. 장시간 연속 사용 시 열 발생, 휴식이 수명 유지에 도움'. 유압식 열 발생 공식 근거."
+  },
+  {
+   "url": "https://gugaissue.com/%EC%8A%A4%ED%85%9D%ED%8D%BC-%EC%B6%94%EC%B2%9C-%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C/",
+   "opened": true,
+   "note": "스텝퍼 체크 10가지(이중 실린더/저항 조절/발판/최대 사용자 무게 100kg+/스틸 프레임/소음 50dB 이하/스텝 높이/미터기/보관/조립). 공식적 체크리스트 글이지만 수치 교차는 적음."
+  },
+  {
+   "url": "https://bonacoupon.com/%EC%8A%A4%ED%85%9D%ED%8D%BC-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "(중복 재방문용) 사이드좌우 전신 운동 특성·트위스트의 코어 자극 포지셔닝 재확인."
+  },
+  {
+   "url": "https://seoulhangang.com/entry/%EC%8A%A4%ED%85%9D%ED%8D%BC%EC%9D%98-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95",
+   "opened": true,
+   "note": "스텝퍼 원리와 활용. 기본형/트위스트/로잉/미니 4분법 + 유압·기계 저항 작동원리 설명. 20~30분 유산소 효과·관리 유지보수 포함."
+  },
+  {
+   "url": "https://v.daum.net/v/QsQxFfb0iY",
+   "opened": true,
+   "note": "스텝퍼 운동효과. 30분 200~300kcal(가벼운 조깅 수준), 둔근·대퇴사두·햄스트링 자극, 20분 이상 심박수 상승 유산소 효과. 처음 15분→30분까지 점진."
+  },
+  {
+   "url": "https://yogasunny1.com/%EA%B0%B1%EB%85%84%EA%B8%B0-%EC%8A%A4%ED%85%9D%ED%8D%BC-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC-%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%86%8C%EB%AA%A8%EB%9F%89/",
+   "opened": true,
+   "note": "체중 60kg 여성 30분 150~250kcal. 발바닥이 발판에서 떨어지지 않아 저충격, 양말+운동화 필수, 주 4~5회 20~30분 권장."
+  },
+  {
+   "url": "https://picjjang.com/1093439/",
+   "opened": true,
+   "note": "저렴한 스테퍼 추천. 멜킨 마운틴·이고진 7320·비드브로·엑사이더 TS100. 3만 원대 입문용 가성비 라인업 재확인, 네이버쇼핑 리뷰 교차 권장."
+  },
+  {
+   "url": "https://www.82cook.com/entiz/read.php?bn=35&num=489278&page=19928",
+   "opened": true,
+   "note": "82cook 커뮤니티 토론. 기계음(끽끽)보다 쿵쿵 충격음이 민원 1순위. WD-40 윤활유·방음재·낮 시간 사용·요가매트/소음방지매트 조합이 공통 해결. 밤 사용 금지 조언."
+  },
+  {
+   "url": "https://www.82cook.com/entiz/read.php?bn=35&num=719239&page=12428",
+   "opened": true,
+   "note": "82cook 층간소음 가해자 사례. 저녁 10~11시 거실 스텝퍼 → 아래층 민원. 요가 매트 3겹 후 소리 안 들렸다·발이 바닥에 닿지 않게 쓰라는 조언. 베란다는 울림 더 심함."
+  },
+  {
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7828146/",
+   "opened": true,
+   "note": "NCBI 2021 가정 계단 운동 통제군 연구. 성인 여성 8주 주 5일 → VO2max +1.63, 체중 -0.99kg, LDL -0.20 mmol/L, 중성지방 -0.21 mmol/L, 다리 파워 +5.9%. '가정 운동이 피트니스 센터 운동과 동등한 효과'."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Stair_climbing",
+   "opened": true,
+   "note": "Wikipedia Stair climbing. 15cm 1칸 상승 0.11kcal, 하강 0.05kcal. 심폐 피트니스 최소 요구 충족·저충격 운동 분류."
+  },
+  {
+   "url": "https://prod.danawa.com/list/?cate=13256091",
+   "opened": false,
+   "note": "다나와 '천국의계단/스텝퍼' 카테고리. ECONNREFUSED로 직접 열기 실패. 검색 결과 상단 노출 사실만 확인(카테고리 분리 존재)."
+  },
+  {
+   "url": "https://mdarch.co.kr/%EC%9A%B4%EB%8F%99%EA%B8%B0%EA%B5%AC-%EC%8A%A4%ED%83%AC%ED%8D%BC-%ED%9A%A8%EA%B3%BC-%EC%9E%88%EC%9D%84%EA%B9%8C/",
+   "opened": false,
+   "note": "모던아키 스탬퍼 효과 글. 60초 타임아웃으로 열람 실패."
+  }
+ ],
+ "factcheck": [
+  {
+   "claim": "엑사이더 공식 FAQ — 스텝퍼는 체중을 좌우로 옮기는 방식이라 러닝머신보다 충격 소음이 적어 아파트·오피스텔에서 비교적 부담 없이 사용 가능하며 매트 사용 권장",
+   "sources": [
+    "https://www.excider.co.kr/article/faq/5/12580/",
+    "https://www.82cook.com/entiz/read.php?bn=35&num=489278&page=19928"
+   ]
+  },
+  {
+   "claim": "유압식 소음 서열이 가장 크고 '유압 > 공기압 > 마그네틱 > 전자동' 순서로 작아진다. 유압 실린더는 장시간 사용 시 열 발생",
+   "sources": [
+    "https://troubleshooter.co.kr/best-home-stairmaster-steppers-2026/",
+    "https://www.excider.co.kr/article/faq/5/12598/"
+   ]
+  },
+  {
+   "claim": "안전 하중은 체중의 1.5~2배 — 70kg 체중이면 하중 100kg 이상 모델 권장",
+   "sources": [
+    "https://troubleshooter.co.kr/best-home-stairmaster-steppers-2026/",
+    "https://gugaissue.com/%EC%8A%A4%ED%85%9D%ED%8D%BC-%EC%B6%94%EC%B2%9C-%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C/"
+   ]
+  },
+  {
+   "claim": "스텝퍼 30분 운동 칼로리 소모 — 체중 60kg 기준 150~250kcal, 전체 범위 200~360kcal",
+   "sources": [
+    "https://v.daum.net/v/QsQxFfb0iY",
+    "https://yogasunny1.com/%EA%B0%B1%EB%85%84%EA%B8%B0-%EC%8A%A4%ED%85%9D%ED%8D%BC-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-%EC%9A%B4%EB%8F%99-%ED%9A%A8%EA%B3%BC-%EC%B9%BC%EB%A1%9C%EB%A6%AC-%EC%86%8C%EB%AA%A8%EB%9F%89/",
+    "https://choicemon.com/best-stepper-machine/"
+   ]
+  },
+  {
+   "claim": "NCBI 2021 가정 계단 운동 통제군 연구 — 8주 주 5일 운동으로 VO2max +1.63 mL/min/kg, 체중 -0.99kg, LDL -0.20 mmol/L, 중성지방 -0.21 mmol/L, 다리 파워 +5.9%",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC7828146/",
+    "https://en.wikipedia.org/wiki/Stair_climbing"
+   ]
+  },
+  {
+   "claim": "2026년 10월 정가 기준 가격대 — 유압식 미니 3~10만 원, 공기압 10~15만 원, 마그네틱 다단계 30~40만 원, 전자동 계단형 100만 원대 이상",
+   "sources": [
+    "https://troubleshooter.co.kr/best-home-stairmaster-steppers-2026/",
+    "https://choicemon.com/best-stepper-machine/",
+    "https://bonacoupon.com/%EC%8A%A4%ED%85%9D%ED%8D%BC-%EC%B6%94%EC%B2%9C/"
+   ]
+  }
+ ],
+ "variables": {
+  "keyword": "가정용 스텝퍼 추천",
+  "headline_finding": "작동 방식(유압·공기압·마그네틱·전자동) × 소음 × 하중 세 축으로 결정하면 가격·모델이 자동으로 좁혀진다",
+  "noise_order": "유압식 > 공기압 > 마그네틱 > 전자동",
+  "load_formula": "안전 하중 = 체중 × 1.5~2배 (동적 충격 반영)",
+  "price_band_2026_10": "유압 3~10만 / 에어 10~15만 / 마그네틱 30~40만 / 전자동 100만+",
+  "kcal_30min": "체중 60kg 기준 150~250kcal, 전체 200~360kcal",
+  "apartment_mat_min": "고밀도 매트 2cm 이상 또는 요가 매트 3겹"
+ },
+ "gaps": [
+  {
+   "gap": "스텝퍼와 천국의 계단(스텝밀) 공식 분류 차이를 명확히 분리한 글이 거의 없음 (choicemon·picjjang·gugaissue 모두 섞어서 다룸)",
+   "covered_in": "스텝퍼와 천국의 계단(스텝밀) — 공식 분류부터 다르다"
+  },
+  {
+   "gap": "'유압 > 공기압 > 마그네틱 > 전자동' 소음 서열을 가격 10배 격차와 묶어 설명한 글이 troubleshooter 외에는 없다는 점",
+   "covered_in": "작동 방식 네 가지 — 소음·내구성 서열이 가격을 결정한다"
+  },
+  {
+   "gap": "하중을 '100kg 이상'으로만 적는 상위 글들과 달리 체중의 1.5~2배 공식을 체중대별 매칭표로 변환한 구체 수치",
+   "covered_in": "하중은 체중의 1.5~2배가 안전선이다"
+  },
+  {
+   "gap": "층간소음을 기계음(공기 전달)과 충격음(고체 전달) 둘로 분리해 각각 해결책을 묶은 글이 상위 10편 중 없음",
+   "covered_in": "아파트 층간소음은 \"기계음\"과 \"충격음\" 둘로 나눠 봐야"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "table",
+   "desc": "상위 10편 가이드 수치·엑사이더 공식 FAQ·커뮤니티 사례를 교차해 체중별 안전 하중(1.5~2배)과 추천 사양을 매칭한 자체 제작 표",
+   "proof": "| 내 체중 | 안전 하중(1.5~2배) | 추천 사양 |"
+  },
+  {
+   "type": "table",
+   "desc": "작동 방식 4종(유압·공기압·마그네틱·전자동) × 소음·저항단계·하중·강점·2026-10 가격을 묶은 자체 비교 매트릭스",
+   "proof": "| 가격대(정가) | 작동 방식 | 특징 | 대표 모델(상위 가이드 교차) |"
+  },
+  {
+   "type": "photo",
+   "desc": "작동 방식 4종 소음·하중·2026-10 가격을 1200×675 인포그래픽으로 직접 디자인·렌더링한 이 글 전용 비교 카드",
+   "proof": "../../assets/posts/home-stepper-recommend-compare.png"
+  }
+ ],
+ "score_history": [
+  89
+ ],
+ "overlap_ok": "실내자전거 스피닝바이크·런닝머신·케틀벨 등 사이트 내 기존 피트니스 기구 글과 '스텝퍼'는 카테고리가 완전히 다른 장비(상하 발판 교대 작동)라 제목·본문 토큰이 겹치지 않습니다.",
+ "hermes_score": 89
+}
