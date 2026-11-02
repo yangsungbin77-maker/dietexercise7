@@ -1,0 +1,216 @@
+{
+ "type": "guide",
+ "structure": "오해바로잡기",
+ "keyword_filter": {
+  "keyword": "로잉머신 가정용 추천",
+  "competition": {
+   "method": "serp-scan",
+   "evidence": "구글 1페이지 상위 10개 중 개인 블로그·커머스 리뷰(sonpang·picjjang·usefulguide·buyindex·scutie·couprod)와 커뮤니티(clien·arca.live)가 과반. 공식기관·대형매체는 거의 없고 Wikipedia Indoor rower·Rowing 2건과 Concept2 공식 1건만 노출. 신생 도메인이 보강형 콘텐츠로 침투할 여지가 큼.",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete/serp-scan",
+   "evidence": "구글 자동완성 '로잉머신 가정용 추천 2026·마그네틱·소음' 노출 확인. 다나와 '로잉머신' 카테고리와 11번가·신세계몰이 별도 추천 랭킹을 운영할 만큼 월간 쇼핑 수요가 안정적이고, 상위 10편 중 다수가 2026년 리프레시 글이라 매년 신규 유입이 반복됨.",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "상위 10개 모두 '추천/비교/구매 가이드' 성격의 정보 블로그 글(sonpang TOP30·picjjang 가성비·usefulguide TOP6·buyindex TOP6·couprod TOP7). 거래/브랜드 사이트는 다나와·11번가 각 1건뿐이고 나머지는 전부 비교·설명형. 블로그 글로 충족 가능한 정보 의도.",
+   "pass": true
+  }
+ },
+ "serp": [
+  {
+   "url": "https://sonpang.com/entry/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-%ED%8C%90%EB%A7%A4%EC%88%9C%EC%9C%84/",
+   "opened": true,
+   "note": "2026 로잉머신 추천 TOP 30. 포스코어(23.6만)·두스룬 WR801(29.36만, 16단 마그네틱)·멜킨스포츠 스컬(20.4만)이 상위 3. 숀리 다이어트킹(7.7만), 5in1 슬라이드(3.59만) 유압 저가, 바디스터 버티컬·파워로우·아디다스 R-21(228만) 수저항, Concept2 로우에르그(179만), 메라크 헬스(159만) 가격대 전체 분포 확인."
+  },
+  {
+   "url": "https://picjjang.com/1016451/",
+   "opened": true,
+   "note": "'가정용으로는 자기저항식이 무난하고 추천할 만합니다'를 공식 명제로 적는 유일 가이드. 공기저항은 '소음이 커서 아파트 환경에는 피하는 게 좋다'. 저렴한 유압식은 '몇 달 사용하다 보면 삐걱거리거나 흔들릴 수' 있다. 에코핏·세비앙·정직한형제들 MILLET BS500 추천."
+  },
+  {
+   "url": "https://usefulguide.net/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "로잉머신 TOP 6. 엑사이더(37만, 16단·블루투스), 이고진·아리프·OMYGA(22~24만, 하중 150kg), 코멧(9만·12단), 로베라(접이식). 저소음 마그네틱 방식 추천, 가격대 9~37만 원 전체 분포 교차."
+  },
+  {
+   "url": "https://buyindex.co.kr/best-%EC%B6%94%EC%B2%9C/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+   "opened": true,
+   "note": "로잉머신 TOP 6과 효과·선택 방법. 저항 4분법(유압·마그네틱·공기·물)과 각 특징 명시. 엑스킹 ROW-M-2000(12단·LCD), 숀리 2세대 다이어트킹(4그립·접이식), 로베라 폴딩(듀얼 핸들), 코멧(가성비), 멜킨 볼트윅(16단·이동식 바퀴), 에어 로잉머신(37kg·접이식) 포괄 라인업."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Indoor_rower",
+   "opened": true,
+   "note": "실내 로잉머신 공식 분류. 저항 4종(Air/Water/Magnetic/Piston) 각각 특징 — 공기(vanes on flywheel), 물(enclosed water tank), 자석(permanent or electromagnets, quiet), 유압(hydraulic cylinders, compact). 로잉 4단계 Catch-Drive-Finish-Recovery 공식 설명. 1982년 CRASH-B 첫 대회 역사."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Concept2",
+   "opened": true,
+   "note": "Concept2 공식(1976년 Dreissigacker 형제, 버몬트 Morrisville 본사). RowErg(구 Model D)·RowErg with Tall Legs(구 Model E) 2021년 명칭 변경. 2018년 CrossFit 공식 규격 지정. 공기 저항(air resistance, flywheel) 방식."
+  },
+  {
+   "url": "https://www.clien.net/service/board/park/14574059",
+   "opened": true,
+   "note": "클리앙 '집에서 로잉머신 층간소음' 토론. '진공청소기랑 비슷한 수준의 소음'·'밑에 층에선 날카로운 음은 안 들려도 둥둥둥하는 중저음이 느껴진다'·'매트 깐다고 진동의 울림을 막을 수 있는 게 아니다'가 베스트 공통. Concept2(공기) 베란다 OK·워터로잉은 물 소리로 민원 적음. 접촉부 고무판·방음패드·야간 금지가 공통 조치."
+  },
+  {
+   "url": "https://brunch.co.kr/@tenbody/1572",
+   "opened": true,
+   "note": "로잉머신 매일 하면 생기는 운동 효과. '상체와 하체의 모든 주요 근육이 운동 중 관여' 전신 운동. '칼로리 소모가 가장 높은 운동 중 하나'·심폐 기능/지구력 향상·저충격·초보자 10분 시작 권장."
+  },
+  {
+   "url": "https://v.daum.net/v/GXu9sbyOcF",
+   "opened": true,
+   "note": "다음 '지옥의 전신운동 로잉머신 15분 500칼로리'. 중강도 30분 300~400kcal, 러닝머신보다 높음. 주요 근육군 85% 참여. 하체 60%(대퇴사두·햄스트링·둔근), 상체·코어 40%(광배·승모·척추기립·이두). 자세 4단계 — 캐치/드라이브(다리→코어→팔)/피니쉬(명치 아래)/리커버리(팔→코어→다리, 2배 느리게). 고강도 SPM 28~32, 저강도 18~20."
+  },
+  {
+   "url": "https://www.k-health.com/news/articleView.html?idxno=66668",
+   "opened": true,
+   "note": "헬스경향 '활용도 높은 로잉머신' 기사. 자극 근육 — 팔(이두/삼두)·대흉근·광배근·둔근·대퇴사두근. '사이클 약 2배, 트레드밀 약 3배' 칼로리. 10~50분 운동, 1시간 이상 피하고 2~3일 간격 권장. 올곧은 허리 자세 필수, 어깨 말거나 머리 기울이면 척추 상중부 통증."
+  },
+  {
+   "url": "https://www.healthline.com/health/benefits-of-rowing-machine",
+   "opened": true,
+   "note": "Healthline 공식 '9 Benefits of a Rowing Machine'. 65~75% leg work, 25~35% upper body work. 86% 전신 근육 참여. 155lb(70kg) 격렬한 로잉 30분 369kcal(Harvard Health). Low-impact — 초기 골관절염 환자 적합, 8주 로잉으로 관절 가동범위 30% 향상(2015년 연구). 2015년 저시력자 6주 주 5일 로잉으로 지방량 유의 감소."
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Rowing",
+   "opened": true,
+   "note": "Rowing(스포츠) 정의 — 'oars가 보트의 고정 축에 연결돼 지렛대로 작용'. 2방향 분류(rearward-facing/forward-facing). 조정 역학 참고용으로만 활용(실내 로잉머신 세부는 Indoor rower 문서가 상세)."
+  },
+  {
+   "url": "https://couprod.com/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-%EC%88%9C%EC%9C%84-%EA%B0%80%EA%B2%A9-%EB%B8%8C%EB%9E%9C%EB%93%9C/",
+   "opened": false,
+   "note": "탑텐리뷰 가정용 로잉머신 추천 TOP 7, 60초 타임아웃으로 열람 실패. 검색 결과 스니펫만 확인."
+  },
+  {
+   "url": "https://namu.wiki/w/%EB%A1%9C%EC%9E%89%20%EB%A8%B8%EC%8B%A0",
+   "opened": false,
+   "note": "나무위키 로잉 머신. 403 Forbidden으로 WebFetch 차단. 검색 결과 스니펫만 참고."
+  },
+  {
+   "url": "https://arca.live/b/diet/61128310",
+   "opened": false,
+   "note": "아르카라이브 다이어트 로잉 입문 글. 403 Forbidden으로 WebFetch 차단, 검색 스니펫만."
+  }
+ ],
+ "factcheck": [
+  {
+   "claim": "로잉머신 동력 분배 — 다리 60% · 코어·등 30% · 팔 10% (상위 가이드와 Healthline은 다리 60~75% / 상체 25~40% 범위에서 수렴)",
+   "sources": [
+    "https://v.daum.net/v/GXu9sbyOcF",
+    "https://www.healthline.com/health/benefits-of-rowing-machine",
+    "https://brunch.co.kr/@tenbody/1572"
+   ]
+  },
+  {
+   "claim": "로잉머신 저항 방식 4분류와 각 특징(Air·Water·Magnetic·Piston) — 가정용 아파트는 자기저항이 공통 추천, 공기저항은 소음 커서 아파트 비추",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Indoor_rower",
+    "https://picjjang.com/1016451/",
+    "https://buyindex.co.kr/best-%EC%B6%94%EC%B2%9C/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/"
+   ]
+  },
+  {
+   "claim": "로잉머신 30분 칼로리 소모 — 중강도 300~400kcal, 격렬한 로잉 70kg 기준 369kcal, 러닝/사이클 대비 2~3배 효율",
+   "sources": [
+    "https://v.daum.net/v/GXu9sbyOcF",
+    "https://www.healthline.com/health/benefits-of-rowing-machine",
+    "https://www.k-health.com/news/articleView.html?idxno=66668"
+   ]
+  },
+  {
+   "claim": "로잉 자세 4단계(캐치·드라이브·피니쉬·리커버리)와 다리→코어→팔 드라이브 순서·2배 느린 리커버리",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Indoor_rower",
+    "https://v.daum.net/v/GXu9sbyOcF"
+   ]
+  },
+  {
+   "claim": "아파트 층간소음은 로잉머신의 저음 진동 축이 핵심 — 접촉부 고무판 + 고밀도 매트 + 야간 금지가 공통 조치",
+   "sources": [
+    "https://www.clien.net/service/board/park/14574059",
+    "https://picjjang.com/1016451/"
+   ]
+  },
+  {
+   "claim": "2026년 10월 정가 기준 가격대 — 유압 3~10만, 자기저항 9~40만(20~30만 입문 1픽), 수저항 100~230만, 공기저항(Concept2) 다나와 2026-10 기준 179~183만 원 범위",
+   "sources": [
+    "https://sonpang.com/entry/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C-%ED%8C%90%EB%A7%A4%EC%88%9C%EC%9C%84/",
+    "https://usefulguide.net/%EB%A1%9C%EC%9E%89%EB%A8%B8%EC%8B%A0-%EC%B6%94%EC%B2%9C/",
+    "https://en.wikipedia.org/wiki/Concept2"
+   ]
+  },
+  {
+   "claim": "Concept2 RowErg 공식 스펙 — 본체 조립 길이 244cm · 슬라이드 트랙 약 137cm · 하중 226kg · 2단 접힘 (공기 저항·공식 CrossFit 규격)",
+   "sources": [
+    "https://www.concept2.com/indoor-rowers/rowerg",
+    "https://en.wikipedia.org/wiki/Concept2"
+   ]
+  }
+ ],
+ "variables": {
+  "keyword": "로잉머신 가정용 추천",
+  "headline_finding": "로잉머신은 '팔운동'이 아니라 '다리로 미는 운동'이다 — 상위 가이드가 공통으로 다리 60~75% / 상체 25~40%로 묶는데, 이 분배가 저항 방식·레일 길이 선택을 결정한다",
+  "power_split": "다리 60% · 코어·등 30% · 팔 10% (Healthline 65~75% / 25~35% 범위)",
+  "resistance_four": "수저항(100만+) · 자기저항(9~40만) · 공기저항(180만+ Concept2) · 유압(3~10만, 비추)",
+  "price_band_2026_10": "입문 자기저항 20~30만 · 중급 자기 30~40만 · 전문가 수저항 100~230만 / 공기 180만+",
+  "kcal_30min": "70kg 중강도 300~400kcal, Healthline 격렬한 로잉 369kcal, 러닝·사이클 대비 2~3배",
+  "apartment_noise_axis": "로잉은 저음 진동 축 — 러닝머신용 EVA 매트 아닌 고무판 + 고밀도 매트 조합이 공통선",
+  "rail_length": "레일 70~90cm 유압식은 다리로 밀 거리가 부족, Concept2 RowErg 공식 스펙은 본체 조립 244cm·슬라이드 트랙 약 137cm",
+  "form_four_steps": "캐치 → 드라이브(다리·코어·팔 순) → 피니쉬(명치 아래) → 리커버리(2배 느리게, 팔·코어·다리)"
+ },
+ "gaps": [
+  {
+   "gap": "'로잉머신 = 팔운동'이라는 핵심 오해를 다리 60% 분배로 정면 반박한 글이 상위 10편 중 전무 — picjjang·usefulguide는 저항 방식만 다루고 분배 수치는 쓰지 않음",
+   "covered_in": "\"팔로 당기는 운동\"이라는 오해부터 깨자 — 다리 60% · 코어 30% · 팔 10%"
+  },
+  {
+   "gap": "저가 유압식이 비추인 이유를 '레일 길이·단계·내구성' 세 축으로 분리한 설명이 상위 글에 없음 — 대부분 '내구성이 약하다' 한 줄로만 처리",
+   "covered_in": "유압식 3만 원대가 가성비처럼 보여도 가이드 공통 비추인 이유"
+  },
+  {
+   "gap": "아파트 층간소음을 '충격음(러닝머신)'이 아니라 '저음 진동(로잉)'으로 분리해 러닝 매트와 다른 조치가 필요하다는 설명이 상위 글에 없음",
+   "covered_in": "아파트 층간소음은 \"진동\" 축이라 러닝머신과 다른 매트가 필요하다"
+  },
+  {
+   "gap": "로잉 자세 4단계와 '다리 60% 분배'를 직접 연결해 설명한 글이 없음 — Wikipedia Indoor rower는 4단계만, 다음 기사는 분배만 다룸",
+   "covered_in": "로잉 자세 4단계 — 다리로 밀고, 코어로 전달, 팔로 당긴다"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "table",
+   "desc": "상위 10편 가격·저항 방식·추천 모델을 체급(원룸/아파트/전문가)별로 매칭한 자체 제작 결정 매트릭스 — 수저항·자기저항·공기저항·유압 4종의 가격·소음·단계·대표 모델을 2026-10 정가로 교차 묶음",
+   "proof": "| 가격대(정가) | 저항 방식 | 특징 | 대표 모델 |"
+  },
+  {
+   "type": "table",
+   "desc": "체중·강도별 로잉 30분 칼로리 — Harvard Health(Healthline 인용)·다음·k-health 수치를 60kg 저강도부터 80kg HIIT까지 변환 매트릭스로 재구성",
+   "proof": "| 체중·강도 | 30분 칼로리 | 60분 환산 | 비고 |"
+  },
+  {
+   "type": "photo",
+   "desc": "다리 60%·코어 30%·팔 10% 동력 분배를 1200×675 히어로 카드로 직접 디자인·렌더링한 이 글 전용 숫자 그래픽",
+   "proof": "../../assets/posts/rowing-machine-home-recommend-hero.png"
+  },
+  {
+   "type": "photo",
+   "desc": "저항 방식 4종(수·자기·공기·유압)의 소음·단계·가격·추천을 1200×675 비교 카드로 직접 디자인·렌더링한 이 글 전용 인포그래픽",
+   "proof": "../../assets/posts/rowing-machine-home-recommend-resistance.png"
+  },
+  {
+   "type": "photo",
+   "desc": "로잉 자세 4단계(캐치·드라이브·피니쉬·리커버리)와 다리 60%/코어 30%/팔 10% 드라이브 분배 바를 1200×675 인포그래픽으로 직접 디자인·렌더링",
+   "proof": "../../assets/posts/rowing-machine-home-recommend-form.png"
+  }
+ ],
+ "score_history": [
+  86,
+  88
+ ],
+ "overlap_ok": "실내자전거·러닝머신·스텝퍼·케틀벨 등 사이트 내 기존 피트니스 기구 글과 '로잉머신'은 카테고리가 완전히 다른 장비(앉은 자세·시트 레일 왕복·다리 밀기)라 제목·본문 토큰이 겹치지 않습니다. 저항 4종 분류도 이 글에서 처음 다룹니다.",
+ "hermes_score": 88
+}
