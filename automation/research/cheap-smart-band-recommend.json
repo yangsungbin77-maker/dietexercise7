@@ -1,0 +1,195 @@
+{
+ "type": "review",
+ "structure": "문제해결",
+ "serp": [
+  {
+   "url": "https://www.medicaldaily.co.kr/post/121800",
+   "opened": true,
+   "note": "2026 건강측정 스마트밴드 TOP5 비교. 쿠팡 광고 라인업(LifeSync·BEX5S·메디코치), 공식 제조사(샤오미·삼성·화웨이)는 비교 대상에서 빠짐. 신뢰도 1차 출처 교차가 약함."
+  },
+  {
+   "url": "https://www.medicaldaily.co.kr/post/120920",
+   "opened": true,
+   "note": "쿠팡 가성비 TOP5 — 1픽부터 5픽까지 노네임·중소브랜드(LifeSync·글루코워치) 중심. 1차 출처 샤오미/삼성/화웨이 가격 교차 없음."
+  },
+  {
+   "url": "https://www.medicaldaily.co.kr/post/122230",
+   "opened": true,
+   "note": "손목 혈압계 스마트밴드 추천 — 9,400원 밴드부터 소개. '혈압 측정'을 참고치 이상으로 표현하는 지점이 리스크."
+  },
+  {
+   "url": "https://www.medicaldaily.co.kr/post/122674",
+   "opened": true,
+   "note": "수면 측정기 추천 — 샤오미 미밴드 11 액티브·9 액티브 등 신모델 언급. 하지만 공식 미밴드 10 vs 핏3 vs 화웨이 밴드 10 교차는 다루지 않음."
+  },
+  {
+   "url": "https://reviewpro.co.kr/best-smart-watch/",
+   "opened": true,
+   "note": "가성비 스마트워치 TOP7 — 애플워치·갤럭시워치 중심이라 '밴드' 카테고리 가성비 분해는 1건(미밴드 8)뿐. 2026 신제품 미반영."
+  },
+  {
+   "url": "https://news.jkn.co.kr/post/1072647",
+   "opened": true,
+   "note": "미밴드 9 vs 갤럭시 핏3 쇼핑몰 비교. 가격·배송만 짚고 센서·배터리 스펙 비교는 얕음. 미밴드 10 미반영."
+  },
+  {
+   "url": "https://www.clien.net/service/board/use/19066937",
+   "opened": true,
+   "note": "미밴드 10 한달 사용기 — 약 56,000원, 1.72 AMOLED, 7일 이상 배터리 체감, MiFitness 고도 기록 누락 단점 포착. 실사용 데이터 1차 소스."
+  },
+  {
+   "url": "https://news.appstory.co.kr/tech13980",
+   "opened": true,
+   "note": "'3만 원대 가성비' 글이지만 다루는 모델이 미밴드 5(구형). 2026 1픽 비교에는 불충분."
+  },
+  {
+   "url": "https://jogomhan.com/%EC%83%A4%EC%98%A4%EB%AF%B8-%EB%AF%B8%EB%B0%B4%EB%93%9C10-%EA%B0%80%EC%84%B1%EB%B9%84%EC%99%80-%ED%94%84%EB%A6%AC%EB%AF%B8%EC%97%84%EC%9D%98-%EC%A1%B0%ED%99%94/",
+   "opened": true,
+   "note": "미밴드 10 공식가 59,800원·세라믹 79,800원, 1.72 AMOLED 1,500nit, 233mAh 21일, 5ATM, 15.95g 등 공식 스펙 상세. 1차 출처 교차 우수."
+  },
+  {
+   "url": "https://consumer.huawei.com/kr/wearables/band10/",
+   "opened": true,
+   "note": "화웨이 코리아 공식 — 최대 8일(AOD 3일·특정 조건 14일), 100가지 운동 모드, 5ATM/ISO 22810, 15g, 8.99mm, iOS·Android 호환. 1차 출처."
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202404021427107010",
+   "opened": true,
+   "note": "갤럭시 핏3 국내 출시 보도 — 89,000원, 1.6 AMOLED 402x256, 18.5g, IP68+5ATM, 13일 배터리, 100+ 운동 모드, 낙상 감지·SOS. 1차 출처."
+  }
+ ],
+ "factcheck": [
+  {
+   "claim": "샤오미 미밴드 10 한국 공식 출시가 59,800원 (세라믹 에디션 79,800원)",
+   "sources": [
+    "jogomhan.com 리뷰 (공식가 59,800/79,800 명시)",
+    "aju(경제일보) 2025-06-28 국내 출시 보도 — '5만9800원 국내 출시' 헤드라인",
+    "다나와 prod 코드 94692290 정품 최저가 페이지"
+   ]
+  },
+  {
+   "claim": "미밴드 10 공식 스펙 — 1.72\" AMOLED 1,500 nit, 최대 21일 배터리, 5ATM, 150+ 운동 모드, 15.95 g, 9축 센서",
+   "sources": [
+    "Xiaomi KR 공식 제품 리스트 (mi.com/kr/product-list/bands/) — 스마트 밴드 10 라인업",
+    "jogomhan.com — 1.72\" AMOLED 1,500nit·233mAh·21일·5ATM·15.95g 상세",
+    "경제일보 2025-06 국내 출시 — 1.72 AMOLED·1,500 nit·전작 대비 25% 향상·세계수면학회 인증"
+   ]
+  },
+  {
+   "claim": "갤럭시 핏3 국내 출시가 89,000원 — 1.6\" AMOLED 402×256, 최대 13일 배터리, IP68+5ATM, 18.5 g, 100+ 운동 모드, Android 전용",
+   "sources": [
+    "YTN 2024-04-02 '삼성 갤럭시 핏3 국내 출시...가격은 8만 9천 원'",
+    "다나와 prod 코드 45546626 정품 페이지 — 1.6\" 402x256·18.5g·IP68+5ATM·13일",
+    "5minutes-info 블로그 2025-09 '갤럭시핏3 출시일 가격 디자인 기능 총정리' — Android 전용 공식 기재"
+   ]
+  },
+  {
+   "claim": "화웨이 밴드 10 — 최대 8일 배터리(AOD 3일·조건 14일), 100 운동 모드, 5ATM ISO 22810, 15 g, 두께 8.99 mm, iOS·Android 호환, 다나와 최저가 45,900원대",
+   "sources": [
+    "Huawei 코리아 공식 (consumer.huawei.com/kr/wearables/band10/) — 8일·AOD 3일·100 모드·5ATM·15g·8.99mm·iOS·Android",
+    "다나와 prod 코드 93914288 최저가 45,900원~ 2026-11 교차",
+    "root-nation.com 2025 Huawei Band 10 리뷰 — 1.47\" AMOLED·9축·PPG·45분 급속"
+   ]
+  },
+  {
+   "claim": "세 밴드 공식 배터리 격차 — 미밴드 10 공식 21일 : 갤럭시 핏3 13일 : 화웨이 밴드 10 8일 (약 1.6배씩 벌어짐)",
+   "sources": [
+    "Xiaomi/jogomhan: 미밴드 10 21일",
+    "삼성/YTN: 갤럭시 핏3 13일",
+    "Huawei KR 공식: 화웨이 밴드 10 일반 8일, 특정 조건 14일"
+   ]
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "photo",
+   "desc": "직접 만든 히어로 카드 — 세 모델 공식가·배터리·운동 모드·무게 압축",
+   "proof": "../../assets/posts/cheap-smart-band-recommend-hero.png"
+  },
+  {
+   "type": "photo",
+   "desc": "직접 만든 공식 스펙 비교 인포그래픽 — 가격·배터리·방수·운동 모드·무게·호환 OS 7축",
+   "proof": "../../assets/posts/cheap-smart-band-recommend-compare.png"
+  },
+  {
+   "type": "photo",
+   "desc": "직접 만든 1픽 결정 매트릭스 인포그래픽 — 6만 원 이하·Android 전용·초경량 3분기",
+   "proof": "../../assets/posts/cheap-smart-band-recommend-decision.png"
+  },
+  {
+   "type": "table",
+   "desc": "직접 만든 2026-11 공식 스펙 종합 대조표 — 세 밴드 8축 교차",
+   "proof": "공식 출시가 | 59,800원(세라믹 79,800원) | 89,000원 | 공식 7만원대·최저가 45,900원대"
+  },
+  {
+   "type": "test",
+   "desc": "공식 배터리 수치 간 배수 직접 계산 — 1.6배 격차가 세 모델에 걸쳐 유지되는지 검증",
+   "proof": "미밴드 10이 핏3의 약 1.6배, 핏3가 화웨이 밴드 10의 약 1.6배예요"
+  },
+  {
+   "type": "calc",
+   "desc": "공식 vs 실사용 배터리 표 직접 계산 — 심박 24h / AOD 상시 / GPS 매일 조건별 추정",
+   "proof": "공식 수치와 실사용 추정이 거의 **1.5~2배 차이**가 나지만, **세 모델의 상대적 순위는 바뀌지 않아요**"
+  }
+ ],
+ "gaps": [
+  {
+   "gap": "1차 출처 공식가 교차 — 쿠팡 광고형 숫자가 아니라 Xiaomi KR·삼성·Huawei 공식 페이지와 언론 보도(YTN·경제일보)로 공식가를 교차한 가성비 분해",
+   "covered_in": "2026-11 공식 스펙 대조 — 미밴드 10 vs 갤럭시 핏3 vs 화웨이 밴드 10"
+  },
+  {
+   "gap": "호환 OS가 선택지를 반으로 가르는 조건 — 갤럭시 핏3가 iOS 미지원이어서 아이폰 유저는 후보에서 자동 제외되는 구조 설명",
+   "covered_in": "호환 폰이 먼저 — 아이폰이면 선택지가 반으로 줄어듭니다"
+  },
+  {
+   "gap": "공식 배터리 vs 실사용 격차의 상대 서열 보존 — 공식 1.5~2배 과장이지만 세 모델 서열은 유지된다는 분석",
+   "covered_in": "배터리 공식 수치의 함정 — 공식 vs 실사용 격차"
+  },
+  {
+   "gap": "1~2만 원대 노네임 밴드가 가성비가 아닌 이유 — 센서 캘리브레이션 근거 비공개·앱 영속성·A/S 체계 세 축으로 실질 가성비 재계산",
+   "covered_in": "1~2만 원대 노네임 밴드가 \"가성비\"가 아닌 이유"
+  }
+ ],
+ "variables": {
+  "type": "review",
+  "keyword": "스마트밴드 추천 가성비",
+  "headline_finding": "미밴드 10(59,800원)·갤럭시 핏3(89,000원)·화웨이 밴드 10(45,900원대)의 공식 배터리가 1.6배씩 정확히 벌어지는 구조가 가성비 1픽을 거의 자동으로 결정한다",
+  "price_xiaomi_mi_band_10": "59,800원(세라믹 79,800원)",
+  "price_galaxy_fit3": "89,000원",
+  "price_huawei_band_10": "최저가 45,900원대",
+  "battery_ratio": "21일 : 13일 : 8일 ≈ 1.6×",
+  "os_compat": {
+   "mi_band_10": "iOS+Android",
+   "galaxy_fit3": "Android 전용",
+   "huawei_band_10": "iOS+Android"
+  },
+  "weight_grams": {
+   "mi_band_10": 15.95,
+   "galaxy_fit3": 18.5,
+   "huawei_band_10": 15
+  },
+  "compared_at": "2026-11-11"
+ },
+ "keyword_filter": {
+  "keyword": "스마트밴드 추천 가성비",
+  "competition": {
+   "method": "serp-scan",
+   "evidence": "구글 1페이지 상위 10개는 의약일보·재경일보·리뷰프로 같은 광고형 매체(쿠팡 파트너스 노출 라인업)와 개인 리뷰 블로그(디지털포스트·앱스토리·조곰한 캠프) 혼합. 공식 제조사 Xiaomi KR·삼성·Huawei 공식은 1~2건에 그치고 나머지는 모두 비교·추천 블로그. 1차 출처 교차+상황별 1픽 매트릭스로 신생 도메인이 침투할 여지가 큼.",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete/serp-scan",
+   "evidence": "구글 자동완성 '스마트밴드 추천 가성비·스마트밴드 가성비·미밴드 10 vs 갤럭시 핏3' 모두 노출됨. 다나와·네이버 쇼핑의 '스마트밴드' 카테고리가 매월 리프레시 랭킹을 운영하고 상위 글들이 2026 판으로 지속 업데이트되는 걸로 미루어 꾸준한 수요 확인.",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "상위 10개 모두 '추천 TOP N·공식 스펙 비교' 성격의 정보·비교 블로그 글. 공식 샤오미/삼성/화웨이 쇼핑 페이지는 1건씩만 노출되고 나머지는 전부 설명·비교형이라 블로그 글로 충족 가능한 정보성 의도.",
+   "pass": true
+  }
+ },
+ "hermes_score": 89,
+ "score_history": [
+  89
+ ]
+}
