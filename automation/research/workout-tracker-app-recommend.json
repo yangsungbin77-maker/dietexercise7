@@ -1,0 +1,208 @@
+{
+ "type": "review",
+ "structure": "비교선택",
+ "serp": [
+  {
+   "url": "https://www.peakbff.com/blog/ko/best-gym-streak-app-with-workout-and-nutrition-tracking",
+   "opened": true,
+   "note": "PeakBFF·GymLuv·GainGrid·Badger 4개 앱만 소개하는 자사 서비스 홍보형 글. Hevy·Strava·삼성헬스 같은 1차 비교는 없음."
+  },
+  {
+   "url": "https://www.jefit.com/blog/best-workout-apps-for-2026-top-7-options-tested-and-reviewed",
+   "opened": true,
+   "note": "영문 상위 글. JEFIT $69.99/년, Hevy $23.99/년, Strong $29.99/년, Fitbod $79.99~95.99/년, Boostcamp $59.99/년 등 가격 1차 정보. 한국형 앱은 없음."
+  },
+  {
+   "url": "https://jefit.com/wp/general-fitness/10-best-workout-tracker-apps-in-2026-complete-comparison-guide",
+   "opened": true,
+   "note": "10개 비교 가이드. JEFIT 1,400+ 동작 라이브러리·데모 비디오 강조. iOS·Android·웹·워치 플랫폼 지원. 한국 앱 미포함."
+  },
+  {
+   "url": "https://www.hevyapp.com/best-workout-tracker-app/",
+   "opened": true,
+   "note": "Hevy 자사 비교 글. 7개 앱 비교: Hevy 1위(4.9/4.9), Strava 2위, BetterMe·Nike Training Club·Zwift·StretchIt·Centr. Strong $2.99/월. 자사 우위 편향."
+  },
+  {
+   "url": "https://apps.apple.com/kr/app/id1470548485",
+   "opened": true,
+   "note": "'오늘의 운동' 공식 앱스토어 KR 페이지. Liviet 개발, 4.7/5(약 2,800건), 월 ₩3,300/연 ₩9,900, iOS 15.6+·Apple Watch·M1 Mac 지원, Apple Health 체중 연동. 1차 출처."
+  },
+  {
+   "url": "https://www.repcountapp.com/articles/best-workout-tracker-iphone",
+   "opened": true,
+   "note": "RepCount 자사 비교 글. iPhone용 5개: RepCount·Strong·Hevy·JEFIT·StrengthLog. Premium 가격 ($29.99·$29.99·$23.99·$69.99·$109)."
+  },
+  {
+   "url": "https://biketips.com/strava-free-vs-paid/",
+   "opened": true,
+   "note": "Strava Free vs Paid 2026 상세. 미국 $11.99/월·$79.99/년, 영국 £8.99/월·£54.99/년. 유료 전용: 루트 플래너·라이브 세그먼트·심층 분석."
+  },
+  {
+   "url": "https://www.strava.com/premium",
+   "opened": true,
+   "note": "Strava 공식 Premium 페이지. 연 $79.99 개인·30일 무료 체험·학생 50% 할인·패밀리 4명 요금제. 유료 기능: 루트 추천·오프라인 맵·실시간 인사이트·커스텀 목표."
+  },
+  {
+   "url": "https://v.daum.net/v/cnp27H4vzJ",
+   "opened": true,
+   "note": "한국어 '삼성헬스 vs 애플건강' 비교 글. 삼성헬스 Android 5.0+·iOS 일부 지원·90+ 운동, 애플 건강 iOS 8+·주기 추적·세분화된 영양 데이터."
+  },
+  {
+   "url": "https://apps.apple.com/us/app/hevy-%ED%97%AC%EC%8A%A4%EC%9D%BC%EC%A7%80-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D-%ED%94%BC%ED%8A%B8%EB%8B%88%EC%8A%A4%EC%95%B1/id1458862350?l=ko",
+   "opened": true,
+   "note": "Hevy 공식 앱스토어. Hevy Studios S.L. 개발, 1,500만+ 유저·4.9/5(10만+ 리뷰), Pro Monthly $2.99~3.99·Yearly $23.99·Lifetime $74.99. 1차 출처."
+  },
+  {
+   "url": "https://apps.apple.com/kr/app/%ED%88%AC%EB%AA%A8%EC%96%B4-twomore-%EC%9A%B4%EB%8F%99-%EA%B8%B0%EB%A1%9D/id6677026088",
+   "opened": true,
+   "note": "투모어 TWOMORE 공식 앱스토어 KR. Youngjin Lee 개발, 무료, iOS 12.0+, 38.3MB, 5.0/5(2건), Apple Health 조회 연동·운동 타이머·라이트/다크 모드."
+  },
+  {
+   "url": "https://www.samsung.com/sec/apps/samsung-health/",
+   "opened": true,
+   "note": "삼성헬스 공식 KR. 2026 기준 100+ 운동 종류·Android 10+ 필요·수면 무호흡 감지(FDA·식약처 승인)·처방전 OCR·심혈관 점수·주기 예측 등 1차 출처."
+  }
+ ],
+ "factcheck": [
+  {
+   "claim": "Strava 2026-11 공식 유료가: 월 $11.99 또는 연 $79.99 (미국 기준, 학생 50% 할인·30일 무료 체험 제공)",
+   "sources": [
+    "biketips.com strava-free-vs-paid 2026 — 'USA: $11.99/month or $79.99/year' 명시",
+    "strava.com/premium 공식 페이지 — 연 요금 $79.99·30일 무료·학생 50% 할인 명시"
+   ]
+  },
+  {
+   "claim": "Strava 글로벌 1억 9,500만(195M) 명 규모 — press.strava.com 공식 보도자료 2026-06-30 발표(Stanford 스포츠과학 협력 발표 본문에서 '195 million athletes' 명시)",
+   "sources": [
+    "press.strava.com 2026-06-30 공식 보도자료 — 'Strava Announces Collaboration with Stanford University Researchers to Bring Leading Sports Science to 195 Million Athletes' 본문",
+    "strava.com/about 공식 About 페이지 — 세계 최대 러너·사이클리스트 커뮤니티로 소개(2026-11 확인, 숫자는 press 쪽을 1차)"
+   ]
+  },
+  {
+   "claim": "RepCount 공식 통계: 2M+ 리프터 신뢰, US 앱스토어 4.9/5 약 13,000건 평점 — '30만+ 다운로드'는 1차 출처 부재로 제거",
+   "sources": [
+    "repcountapp.com 공식 — 'Trusted by 2M+ lifters worldwide'·'4.9 out of 5 stars (US App Store, ~13,000 ratings)' 본문",
+    "repcountapp.com/articles/best-workout-tracker-iphone — Premium 연 $29.99 공식가 교차"
+   ]
+  },
+  {
+   "claim": "Hevy 공식 지원 언어에 한국어 포함 — Apple App Store 16개 공식 지원 언어·Google Play 78개 공식 지원 언어 목록에 한국어(Korean) 포함. 다만 UI 내 모든 문구가 100% 한글화되진 않아 '한국어 UI 일부'가 정확한 표현",
+   "sources": [
+    "apps.apple.com Hevy 공식 페이지 '언어' 섹션 — 16개 언어 목록 내 한국어 명시",
+    "play.google.com Hevy 공식 페이지 — 78개 지원 언어에 한국어 포함(1.29.16부터 공식 한국어 로케일 추가)"
+   ]
+  },
+  {
+   "claim": "HealthKit 표준 타입은 HKWorkoutType·HKQuantityType(BodyMass·ActiveEnergy·HeartRate 등) 집합 지표 중심이며, 세트 수·반복 횟수·세트별 중량 단위의 웨이트 데이터에 대응되는 공식 표준 타입은 존재하지 않음",
+   "sources": [
+    "developer.apple.com HealthKit Data Types 공식 문서 — HKQuantityTypeIdentifier 전체 목록(바디매스·활동에너지·심박 등)에 세트/반복은 없음",
+    "developer.apple.com HKWorkoutType 공식 문서 — 운동 세션(workout) 단위 기록만 표준으로 정의, 세트별 세부 데이터는 앱 커스텀 메타데이터 영역"
+   ]
+  },
+  {
+   "claim": "Hevy 2026-11 공식 가격 — Pro Monthly $2.99~3.99 / Pro Yearly $23.99 / Lifetime $74.99, 1,500만+ 유저, Apple Store 4.9/5(10만+ 리뷰)",
+   "sources": [
+    "apps.apple.com Hevy 공식 페이지 — 1,500만+ 유저·4.9/5·가격 레벨 명시",
+    "hevyapp.com/best-workout-tracker-app 자사 비교 — Hevy Pro $23.99/년 반복 인용",
+    "jefit.com 2026 7대 앱 비교 — 외부 소스에서도 Hevy $23.99/년 교차"
+   ]
+  },
+  {
+   "claim": "삼성헬스는 2026-11 공식 기준 100+ 운동 종류 지원, Android 10+ 플랫폼 필요, FDA·한국 식약처 승인된 수면 무호흡 감지 의료기기 기능 포함",
+   "sources": [
+    "samsung.com/sec/apps/samsung-health 공식 페이지 — '100+ exercise types'·'Android 10+'·수면 무호흡 FDA/MFDS 승인 명시",
+    "v.daum.net/v/cnp27H4vzJ 한국어 비교 글 — 삼성헬스 운동 90개+ 교차(2024 기준으로 당시 수치, 2026 공식 사이트가 100+로 업데이트됨)"
+   ]
+  },
+  {
+   "claim": "'오늘의 운동'(Liviet) iOS 전용 앱 — 월 ₩3,300 · 연 ₩9,900, 4.7/5 평점(약 2,800건), iOS 15.6+·Apple Watch·M1 Mac(iPad 앱 호환) 지원",
+   "sources": [
+    "apps.apple.com/kr/app/id1470548485 공식 KR 앱스토어 — 가격·평점·호환성 명시",
+    "검색 결과 'Liviet 오늘의 운동' 설명 — Apple Health 체중 연동·다크 모드·Apple Watch 동기화 교차"
+   ]
+  },
+  {
+   "claim": "JEFIT Elite 공식 가격 연 $69.99, 1,400+ 운동 동작 라이브러리·동작별 비디오 데모 포함",
+   "sources": [
+    "jefit.com/blog/best-workout-apps-for-2026 공식 블로그 — JEFIT $69.99/년·1,400+ exercises·비디오 데모 명시",
+    "hevyapp.com/best-workout-tracker-app 자사 비교 글 — JEFIT 가격·라이브러리 수치 교차"
+   ]
+  },
+  {
+   "claim": "Nike Run Club(NRC)은 Nike 공식 무료 앱으로 Adaptive Coaching Plan(5K~풀 마라톤 자동 생성 플랜)·Guided Run(코치 음성 러닝)·Monthly Challenges를 제공. 앱 내 결제 상품은 없으며 Apple App Store·Google Play 공식 페이지에서 '무료' 표기. 다만 '광고 없음'은 공식 문구로는 단정되지 않아 본문 표현은 '무료로 공식 제공'으로 완화함",
+   "sources": [
+    "apps.apple.com/kr Nike Run Club 공식 앱스토어 페이지 — '무료' 가격 표기·Adaptive Coaching·Guided Run·Monthly Challenges 기능 설명(2026-11-13 확인)",
+    "play.google.com/store/apps/details?id=com.nike.plusgps Nike Run Club 공식 Google Play 페이지 — 무료 설치·커뮤니티 챌린지 기능 설명(2026-11-13 확인)"
+   ]
+  },
+  {
+   "claim": "Hevy 공식 지원 플랫폼은 iOS·Android·Apple Watch·Wear OS·Web이며, 비교 표의 'iMessage 확장' 지원 여부는 Apple App Store Hevy 공식 페이지의 'Supports' 섹션에서 확인되지 않아 본문 표에서는 삭제함",
+   "sources": [
+    "apps.apple.com Hevy 공식 페이지 'Compatibility' 섹션 — iPhone·iPad·Apple Watch·Mac(M1 호환) 명시, iMessage 확장(Supports iMessage App) 표기는 없음(2026-11-13 확인)",
+    "hevyapp.com 공식 — 지원 플랫폼으로 iOS·Android·Apple Watch·Wear OS·Web Dashboard를 명시, iMessage 언급 없음"
+   ]
+  }
+ ],
+ "variables": {
+  "keyword": "운동 기록 앱 추천",
+  "headline_finding": "유형(웨이트·러닝·통합·한국형) + 폰 OS + 무료/유료 세 축으로 1픽이 결정됨. 영문권 상위 앱(Hevy·Strava·JEFIT)만으론 한국 iOS 사용자 니즈가 안 잡힘",
+  "target_apps": "Hevy·Strava·삼성헬스·Apple 건강·오늘의 운동·투모어·JEFIT·Strong·Nike Run Club",
+  "price_range_usd": "무료 ~ $79.99/년 (Strava Premium 최상), 한국형 ~ 월 ₩3,300/연 ₩9,900",
+  "pub_basis_date": "2026-11-13",
+  "type": "review"
+ },
+ "gaps": [
+  {
+   "gap": "영문 상위 글이 한국형 iOS 운동 기록 앱(오늘의 운동·투모어·BuiltDiff·RepCount) 라인업을 거의 다루지 않음",
+   "covered_in": "한국형 iOS 전용 앱 — 오늘의 운동·투모어·BuiltDiff·RepCount"
+  },
+  {
+   "gap": "앱 종료·구독 해지·폰 교체 시 과거 세트 기록 유실 리스크와 백업(Export·HealthKit 쓰기) 전략 거의 안 다룸",
+   "covered_in": "데이터 이전·백업 리스크 — 운동 기록이 사라지지 않게"
+  },
+  {
+   "gap": "삼성헬스·Apple 건강을 '기본이라 제외'하는 함정과 2026년 허브로서의 활용법 설명 누락",
+   "covered_in": "통합 1픽 — 삼성헬스 vs Apple 건강 (기본 앱을 먼저 깔자)"
+  },
+  {
+   "gap": "무료 플랜으로 어디까지 쓸 수 있는지에 대한 유형별(웨이트·러닝·통합·한국형) 현실 기준 부재",
+   "covered_in": "무료 vs 유료 — 어디까지가 무료로 충분한가"
+  }
+ ],
+ "own_evidence": [
+  {
+   "type": "table",
+   "desc": "Hevy·JEFIT·Strong·오늘의 운동 네 웨이트 앱의 2026-11 공식가·무료 플랜 범위·플랫폼을 직접 교차한 비교 표",
+   "proof": "로그 무제한·루틴 4개·세트 타이머·Apple Watch"
+  },
+  {
+   "type": "test",
+   "desc": "Apple App Store·Google Play·strava.com/premium·samsung.com·hevyapp.com·apps.apple.com/kr Liviet 페이지에서 2026-11-13 기준 가격·호환성을 직접 확인해 문서화",
+   "proof": "apps.apple.com/kr 2026-11-13 교차"
+  }
+ ],
+ "keyword_filter": {
+  "keyword": "운동 기록 앱 추천",
+  "competition": {
+   "method": "serp-scan",
+   "evidence": "상위 10개 중 자사 홍보형(PeakBFF·Hevy·RepCount·JEFIT 자사 블로그) 4개 + 영문권 롱폼 비교 글 3개 + 한국어 쿠팡·티스토리 블로그·개인 매체 3개. 공식 정부·대형 언론·위키 없음 — 블로그가 비집고 들어갈 자리 있음",
+   "pass": true
+  },
+  "demand": {
+   "method": "autocomplete",
+   "evidence": "구글 자동완성 '운동 기록 앱 추천' → '무료', 'iOS', '안드로이드', '헬스', '2026' 등 확장. 네이버·다음에서도 동일 질의 블로그 수천 건, 영문권 'best workout tracker app 2026' 월간 검색 수 수만 이상",
+   "pass": true
+  },
+  "intent": {
+   "method": "serp-scan",
+   "evidence": "SERP 1페이지 전부 리뷰·추천 정보 글(앱스토어 공식 페이지 포함) — 거래·브랜드 공식 홈·앱 다운로드 직링크 아님. 정보성 콘텐츠로 충족 가능한 전형적 추천 쿼리",
+   "pass": true
+  }
+ },
+ "overlap_ok": "기존 글은 스마트밴드·스마트워치 등 하드웨어 리뷰 중심이며, 소프트웨어 앱 비교·추천은 이 글이 사이트 내 유일(diet-meal-plan-app은 식단 앱, 이 글은 운동 기록 앱으로 축이 다름)",
+ "hermes_score": 88,
+ "score_history": [
+  87,
+  88
+ ]
+}
